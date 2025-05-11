@@ -1,0 +1,1000 @@
+80,45,1.4,Male,M,26,Holy See (Vatican City State),Male,M,33,Estonia,HR Manager,70088,Junior,6.0,Email,2025-04-18,18,4,2025,Spring
+99,57,3.2,Male,M,40,Denmark,Male,F,35,Egypt,HR Manager,43197,Senior,1.6,Google Forms,2024-07-09,9,7,2024,Summer
+49,92,1.5,Female,F,63,Vanuatu,Male,F,26,Luxembourg,Software Engineer,146864,Senior,1.8,Slack,2024-11-22,22,11,2024,Autumn
+31,31,4.7,Non-binary,F,57,Falkland Islands (Malvinas),Female,M,26,Vietnam,DevOps Engineer,110531,Mid,3.8,Teams,2025-03-31,31,3,2025,Spring
+57,45,4.4,Female,F,22,Cayman Islands,Non-binary,F,57,Italy,DevOps Engineer,87040,Lead,8.1,Teams,2024-12-08,8,12,2024,Winter
+79,90,2.5,Female,F,45,Greece,Female,F,33,Angola,Data Analyst,75105,Lead,5.4,SurveyMonkey,2024-09-01,1,9,2024,Autumn
+33,49,1.9,Female,F,32,Malaysia,Non-binary,F,63,United Arab Emirates,HR Manager,55265,Senior,5.6,SurveyMonkey,2024-12-25,25,12,2024,Winter
+100,20,2.4,Non-binary,F,64,Uruguay,Female,M,31,Hong Kong,Sales Executive,141317,Mid,4.0,Email,2024-12-24,24,12,2024,Winter
+85,16,4.8,Female,M,39,Antarctica (the territory South of 60 deg S),Female,F,42,Heard Island and McDonald Islands,Data Analyst,70498,Mid,6.7,Google Forms,2024-10-01,1,10,2024,Autumn
+54,45,3.0,Female,F,46,Canada,Male,M,33,Northern Mariana Islands,DevOps Engineer,33957,Senior,7.6,SurveyMonkey,2024-08-15,15,8,2024,Summer
+95,34,3.3,Male,F,51,Greece,Non-binary,M,30,Pitcairn Islands,HR Manager,140287,Junior,8.3,SurveyMonkey,2024-10-02,2,10,2024,Autumn
+98,18,2.9,Non-binary,F,40,Kenya,Male,M,63,Saudi Arabia,Software Engineer,99822,Mid,9.5,Email,2025-02-27,27,2,2025,Winter
+49,74,4.3,Non-binary,F,30,Mozambique,Male,M,40,Malaysia,HR Manager,39107,Senior,9.7,Teams,2024-09-19,19,9,2024,Autumn
+70,29,4.9,Male,F,63,Uganda,Male,M,51,Djibouti,DevOps Engineer,30042,Lead,4.0,Teams,2024-05-15,15,5,2024,Spring
+100,55,3.2,Male,M,63,Pakistan,Female,M,61,Burkina Faso,DevOps Engineer,112646,Mid,4.0,Google Forms,2025-04-24,24,4,2025,Spring
+57,19,4.6,Male,F,18,Spain,Non-binary,M,63,Belize,DevOps Engineer,68697,Mid,3.6,Google Forms,2024-11-21,21,11,2024,Autumn
+95,90,4.7,Female,F,19,Korea,Non-binary,F,25,Myanmar,HR Manager,41644,Mid,5.8,SurveyMonkey,2024-09-06,6,9,2024,Autumn
+40,48,2.6,Male,F,51,Tokelau,Female,M,49,Papua New Guinea,Data Analyst,101133,Mid,6.2,Google Forms,2024-06-11,11,6,2024,Summer
+54,46,1.6,Female,M,58,Turks and Caicos Islands,Non-binary,F,24,Australia,Data Analyst,110691,Junior,3.0,SurveyMonkey,2024-08-09,9,8,2024,Summer
+70,80,2.1,Female,F,24,Isle of Man,Male,M,18,Korea,Sales Executive,35979,Lead,3.7,Google Forms,2024-06-20,20,6,2024,Summer
+23,47,2.1,Female,F,42,Yemen,Male,M,49,Luxembourg,DevOps Engineer,41065,Mid,1.0,Google Forms,2024-06-03,3,6,2024,Summer
+86,18,2.8,Male,F,58,Ethiopia,Male,M,63,Liechtenstein,Data Analyst,33856,Mid,8.2,Email,2024-08-22,22,8,2024,Summer
+75,29,3.4,Female,F,65,Romania,Non-binary,M,19,Turks and Caicos Islands,Sales Executive,135557,Mid,7.7,Slack,2025-03-14,14,3,2025,Spring
+77,93,3.2,Male,M,35,Thailand,Non-binary,F,54,Antigua and Barbuda,Sales Executive,76898,Mid,1.1,SurveyMonkey,2024-10-31,31,10,2024,Autumn
+64,40,2.4,Non-binary,F,22,Moldova,Female,F,28,San Marino,Software Engineer,83296,Mid,7.9,Teams,2024-08-27,27,8,2024,Summer
+80,43,3.5,Non-binary,M,54,Indonesia,Non-binary,M,40,Bahamas,HR Manager,122492,Lead,2.0,Teams,2024-11-13,13,11,2024,Autumn
+47,63,2.6,Female,M,57,Lebanon,Non-binary,F,23,Slovenia,Software Engineer,42940,Junior,3.6,Google Forms,2024-06-09,9,6,2024,Summer
+22,88,2.8,Male,F,26,Israel,Male,F,41,Tajikistan,Sales Executive,114171,Senior,8.2,Slack,2024-09-22,22,9,2024,Autumn
+63,80,4.8,Male,M,42,Saint Pierre and Miquelon,Non-binary,F,58,Denmark,Sales Executive,106083,Junior,3.6,Google Forms,2024-09-12,12,9,2024,Autumn
+36,46,2.3,Non-binary,M,58,Korea,Female,F,61,Niger,Data Analyst,124700,Senior,8.9,SurveyMonkey,2024-06-07,7,6,2024,Summer
+94,86,2.3,Female,M,27,Saint Barthelemy,Male,F,47,Estonia,Data Analyst,148208,Junior,5.2,Slack,2024-11-06,6,11,2024,Autumn
+54,24,1.6,Male,M,46,Grenada,Male,F,57,South Georgia and the South Sandwich Islands,Software Engineer,148611,Junior,4.8,SurveyMonkey,2024-10-28,28,10,2024,Autumn
+75,87,4.0,Non-binary,M,32,Azerbaijan,Non-binary,M,65,Taiwan,Sales Executive,120804,Senior,9.1,Teams,2024-09-17,17,9,2024,Autumn
+86,90,3.9,Female,F,43,Benin,Male,F,34,Chile,Data Analyst,142161,Lead,8.9,SurveyMonkey,2024-07-29,29,7,2024,Summer
+73,97,3.0,Female,M,60,Czech Republic,Male,M,47,Egypt,Software Engineer,86712,Senior,9.8,SurveyMonkey,2024-12-12,12,12,2024,Winter
+54,17,2.1,Male,F,47,Kyrgyz Republic,Female,M,21,Morocco,Data Analyst,52141,Junior,4.5,Email,2024-05-30,30,5,2024,Spring
+89,72,1.6,Non-binary,M,43,Mozambique,Female,F,40,Malaysia,Software Engineer,40313,Senior,4.3,Slack,2024-05-16,16,5,2024,Spring
+80,24,2.5,Male,F,27,Senegal,Non-binary,M,43,Panama,Sales Executive,41640,Mid,8.0,Google Forms,2024-06-26,26,6,2024,Summer
+76,76,3.5,Non-binary,F,47,Cocos (Keeling) Islands,Non-binary,M,30,Guam,Data Analyst,133986,Mid,4.1,Teams,2024-08-06,6,8,2024,Summer
+21,97,4.5,Non-binary,F,31,Denmark,Non-binary,F,38,Mauritius,HR Manager,126693,Senior,4.1,Slack,2024-09-01,1,9,2024,Autumn
+41,51,1.2,Male,F,18,Western Sahara,Male,M,38,Djibouti,HR Manager,87319,Mid,3.0,Slack,2024-05-17,17,5,2024,Spring
+25,97,3.1,Female,M,24,Georgia,Female,F,47,Isle of Man,Data Analyst,38941,Junior,9.4,Google Forms,2025-01-15,15,1,2025,Winter
+50,29,3.1,Non-binary,F,30,Italy,Male,F,48,Lithuania,Software Engineer,37905,Senior,2.1,Teams,2024-05-07,7,5,2024,Spring
+90,56,3.2,Non-binary,F,57,Norway,Male,F,38,Philippines,Software Engineer,52418,Lead,9.7,Teams,2024-11-11,11,11,2024,Autumn
+79,18,3.8,Female,M,34,Azerbaijan,Female,F,48,French Guiana,Sales Executive,121974,Junior,5.7,SurveyMonkey,2024-10-24,24,10,2024,Autumn
+35,97,4.2,Non-binary,M,24,Maldives,Female,F,18,Bangladesh,Sales Executive,50304,Mid,4.4,Slack,2024-09-14,14,9,2024,Autumn
+69,85,1.6,Female,F,37,Bolivia,Female,M,46,Singapore,Software Engineer,54496,Junior,8.4,Google Forms,2024-05-23,23,5,2024,Spring
+30,76,3.9,Male,F,19,Romania,Non-binary,F,20,Peru,Software Engineer,68553,Lead,9.7,Google Forms,2024-08-21,21,8,2024,Summer
+48,41,3.8,Male,F,63,Senegal,Female,F,29,Cambodia,HR Manager,66138,Mid,2.6,Email,2024-08-11,11,8,2024,Summer
+82,85,2.9,Non-binary,F,56,Puerto Rico,Non-binary,F,59,Suriname,Sales Executive,66492,Lead,9.8,Google Forms,2025-04-11,11,4,2025,Spring
+67,53,1.3,Non-binary,F,21,Mongolia,Male,F,56,Iceland,DevOps Engineer,127113,Lead,5.7,Email,2024-12-24,24,12,2024,Winter
+28,57,2.8,Male,M,40,Dominica,Non-binary,F,56,Saint Vincent and the Grenadines,HR Manager,76987,Mid,2.8,Slack,2024-08-23,23,8,2024,Summer
+26,86,3.0,Non-binary,F,23,Saint Martin,Non-binary,M,59,Botswana,Sales Executive,98630,Senior,1.3,SurveyMonkey,2024-11-14,14,11,2024,Autumn
+92,46,3.2,Female,M,23,Poland,Female,F,45,Finland,Data Analyst,142059,Mid,4.4,Google Forms,2025-01-20,20,1,2025,Winter
+93,90,3.4,Female,M,35,Argentina,Female,M,49,Micronesia,Software Engineer,58171,Senior,7.6,Teams,2025-01-10,10,1,2025,Winter
+87,28,1.9,Male,M,64,Gambia,Non-binary,M,31,Montenegro,Sales Executive,92909,Mid,7.4,Email,2024-11-24,24,11,2024,Autumn
+82,86,3.0,Female,F,32,Afghanistan,Male,F,62,United States of America,DevOps Engineer,62960,Senior,2.3,Google Forms,2024-05-28,28,5,2024,Spring
+87,73,1.4,Non-binary,F,41,Myanmar,Non-binary,F,43,Mozambique,Sales Executive,37172,Junior,8.4,Email,2024-05-30,30,5,2024,Spring
+78,59,2.6,Female,M,44,Sao Tome and Principe,Non-binary,M,38,Guyana,Data Analyst,129320,Senior,2.2,Email,2024-06-25,25,6,2024,Summer
+33,99,3.3,Male,M,65,Niue,Female,F,50,Afghanistan,Data Analyst,88536,Senior,4.5,Google Forms,2024-06-07,7,6,2024,Summer
+52,45,3.9,Male,M,34,Mozambique,Non-binary,M,18,Congo,HR Manager,100435,Lead,1.3,SurveyMonkey,2024-05-24,24,5,2024,Spring
+42,51,2.4,Male,M,39,Cocos (Keeling) Islands,Male,F,58,Costa Rica,HR Manager,80224,Senior,5.8,SurveyMonkey,2025-02-28,28,2,2025,Winter
+85,44,4.1,Non-binary,F,21,Kuwait,Non-binary,F,51,Martinique,Data Analyst,136473,Senior,8.4,SurveyMonkey,2025-02-19,19,2,2025,Winter
+59,91,1.8,Non-binary,F,39,French Southern Territories,Non-binary,M,33,Lithuania,Sales Executive,124239,Senior,3.5,SurveyMonkey,2024-09-28,28,9,2024,Autumn
+40,67,4.4,Non-binary,F,41,Oman,Male,F,43,Niue,HR Manager,131638,Junior,7.6,Teams,2024-07-24,24,7,2024,Summer
+78,63,4.8,Female,F,26,Central African Republic,Male,F,46,Austria,HR Manager,75122,Lead,1.3,SurveyMonkey,2024-06-03,3,6,2024,Summer
+43,21,1.8,Male,F,60,Gibraltar,Female,F,60,Serbia,Data Analyst,135751,Senior,1.8,Teams,2024-09-15,15,9,2024,Autumn
+58,95,3.5,Female,F,61,Nigeria,Male,M,42,Lao People's Democratic Republic,Sales Executive,145775,Senior,1.8,SurveyMonkey,2024-11-08,8,11,2024,Autumn
+31,46,3.2,Female,M,44,Guam,Non-binary,F,61,Bolivia,Sales Executive,92444,Senior,8.1,Teams,2025-04-21,21,4,2025,Spring
+73,49,4.7,Non-binary,M,18,Jersey,Male,M,18,Ukraine,DevOps Engineer,89774,Mid,2.2,SurveyMonkey,2024-12-04,4,12,2024,Winter
+65,99,4.4,Male,M,39,Syrian Arab Republic,Male,F,22,Bahamas,Software Engineer,62732,Lead,4.5,Slack,2025-03-27,27,3,2025,Spring
+82,83,4.9,Female,M,52,Congo,Male,M,36,Honduras,Data Analyst,50997,Senior,4.2,Slack,2024-09-13,13,9,2024,Autumn
+32,30,3.2,Male,M,62,Cayman Islands,Non-binary,M,49,Lebanon,Data Analyst,118980,Lead,9.0,Teams,2024-06-27,27,6,2024,Summer
+73,28,1.1,Male,F,23,Malawi,Female,M,37,Central African Republic,HR Manager,71166,Junior,3.0,SurveyMonkey,2024-10-01,1,10,2024,Autumn
+20,63,2.5,Non-binary,M,65,China,Non-binary,F,20,Tonga,HR Manager,73272,Lead,9.3,Teams,2025-04-29,29,4,2025,Spring
+35,63,3.0,Male,F,27,Serbia,Non-binary,F,22,Sao Tome and Principe,Data Analyst,50706,Mid,2.0,Teams,2024-12-18,18,12,2024,Winter
+78,62,3.7,Male,M,53,Mauritius,Non-binary,F,44,Djibouti,HR Manager,61865,Senior,9.3,SurveyMonkey,2024-12-04,4,12,2024,Winter
+35,85,4.5,Female,F,31,Barbados,Male,F,56,Latvia,DevOps Engineer,63894,Senior,6.7,Google Forms,2024-07-24,24,7,2024,Summer
+69,69,1.4,Male,M,26,Nicaragua,Non-binary,F,40,Barbados,Software Engineer,85114,Junior,1.7,SurveyMonkey,2024-08-19,19,8,2024,Summer
+22,30,2.4,Female,F,21,New Caledonia,Female,M,37,Djibouti,HR Manager,128555,Senior,6.8,Email,2024-09-19,19,9,2024,Autumn
+70,46,3.6,Non-binary,F,41,Montserrat,Non-binary,F,34,Greenland,Data Analyst,64836,Junior,2.2,Slack,2024-12-23,23,12,2024,Winter
+92,65,4.2,Male,M,35,Antigua and Barbuda,Female,M,21,Armenia,HR Manager,145703,Senior,2.7,Google Forms,2024-05-21,21,5,2024,Spring
+90,75,3.9,Non-binary,F,37,Ecuador,Male,M,20,Azerbaijan,Sales Executive,61327,Lead,1.8,SurveyMonkey,2024-12-20,20,12,2024,Winter
+44,60,1.7,Non-binary,M,56,Cameroon,Male,F,47,Senegal,Data Analyst,119521,Junior,4.3,Email,2024-12-21,21,12,2024,Winter
+60,82,1.7,Female,M,45,Saint Martin,Male,F,52,Senegal,Software Engineer,90556,Mid,9.8,SurveyMonkey,2025-03-27,27,3,2025,Spring
+79,26,2.2,Non-binary,F,59,Lebanon,Male,M,61,Pakistan,HR Manager,40824,Lead,5.0,Email,2024-12-25,25,12,2024,Winter
+47,29,2.4,Female,M,49,Bolivia,Non-binary,F,61,Guam,Data Analyst,138926,Senior,9.1,Google Forms,2024-12-24,24,12,2024,Winter
+65,89,5.0,Male,M,26,Bolivia,Non-binary,M,51,Israel,DevOps Engineer,106981,Junior,2.5,Teams,2025-04-10,10,4,2025,Spring
+26,96,4.9,Non-binary,F,38,Saudi Arabia,Female,F,32,Andorra,Software Engineer,38148,Senior,7.1,Email,2025-03-31,31,3,2025,Spring
+52,54,3.6,Female,M,29,Austria,Female,M,63,Indonesia,Data Analyst,45576,Lead,8.1,SurveyMonkey,2024-10-31,31,10,2024,Autumn
+48,81,2.3,Female,M,30,Ethiopia,Male,F,50,Ghana,Data Analyst,91964,Mid,7.8,Google Forms,2024-07-03,3,7,2024,Summer
+22,44,1.6,Female,M,27,Macao,Male,F,22,Ethiopia,Data Analyst,143443,Mid,9.0,Slack,2025-03-04,4,3,2025,Spring
+71,58,1.7,Non-binary,M,28,Korea,Male,F,44,Sri Lanka,Sales Executive,38357,Mid,1.3,Slack,2025-03-11,11,3,2025,Spring
+61,85,4.2,Female,F,45,Venezuela,Male,F,19,Christmas Island,DevOps Engineer,60671,Senior,4.7,Teams,2024-05-15,15,5,2024,Spring
+31,27,1.0,Non-binary,M,62,United Kingdom,Male,F,21,Angola,HR Manager,34296,Mid,3.2,Teams,2024-11-10,10,11,2024,Autumn
+40,52,2.4,Female,F,18,Turks and Caicos Islands,Female,F,57,Seychelles,Sales Executive,149519,Senior,5.6,Teams,2024-07-10,10,7,2024,Summer
+45,88,1.8,Male,M,34,Pakistan,Male,F,19,Singapore,Software Engineer,55181,Senior,1.9,Slack,2024-06-13,13,6,2024,Summer
+75,56,1.1,Female,F,59,Georgia,Non-binary,F,29,Portugal,Data Analyst,63620,Lead,6.9,Email,2024-09-04,4,9,2024,Autumn
+75,28,3.8,Male,M,59,Sudan,Female,M,54,Hong Kong,Sales Executive,139381,Junior,10.0,Slack,2025-04-24,24,4,2025,Spring
+71,80,1.1,Non-binary,M,24,Comoros,Male,M,48,Tuvalu,DevOps Engineer,95736,Senior,9.3,Slack,2025-03-18,18,3,2025,Spring
+50,86,2.1,Female,F,29,Bolivia,Male,F,26,Denmark,Software Engineer,74849,Junior,6.7,Email,2025-03-13,13,3,2025,Spring
+100,58,3.4,Male,F,61,Turkmenistan,Male,F,24,Nicaragua,Sales Executive,30444,Mid,1.6,Teams,2025-05-01,1,5,2025,Spring
+64,27,1.2,Male,M,43,Kuwait,Female,F,20,Myanmar,Sales Executive,30605,Junior,3.3,Teams,2024-07-20,20,7,2024,Summer
+25,68,4.3,Male,F,64,Indonesia,Non-binary,F,52,Algeria,Sales Executive,98845,Junior,7.5,Email,2024-05-26,26,5,2024,Spring
+36,27,1.7,Male,M,64,Benin,Male,F,27,Christmas Island,Data Analyst,133085,Lead,4.3,Teams,2024-07-28,28,7,2024,Summer
+55,75,4.7,Male,M,26,Saint Pierre and Miquelon,Female,M,39,Lesotho,Software Engineer,141137,Lead,2.3,Teams,2024-07-13,13,7,2024,Summer
+67,58,2.0,Female,M,19,Bosnia and Herzegovina,Male,M,56,Rwanda,Data Analyst,49305,Junior,3.9,Teams,2025-04-17,17,4,2025,Spring
+56,16,3.5,Non-binary,F,34,Micronesia,Male,M,33,Heard Island and McDonald Islands,Data Analyst,85013,Mid,3.8,Email,2024-06-05,5,6,2024,Summer
+77,83,2.2,Male,F,65,Jamaica,Non-binary,M,49,British Virgin Islands,DevOps Engineer,71794,Junior,9.2,Google Forms,2024-08-01,1,8,2024,Summer
+32,70,4.8,Female,M,40,Cuba,Non-binary,F,31,Bahrain,Sales Executive,34792,Junior,1.1,Email,2024-11-29,29,11,2024,Autumn
+22,50,1.2,Female,M,51,Turkmenistan,Non-binary,M,27,Svalbard & Jan Mayen Islands,Sales Executive,119409,Senior,5.5,SurveyMonkey,2024-12-15,15,12,2024,Winter
+82,95,1.1,Male,M,38,Lithuania,Male,F,40,United Arab Emirates,HR Manager,118424,Mid,2.6,Slack,2025-03-18,18,3,2025,Spring
+70,45,1.5,Female,M,19,Greenland,Non-binary,M,28,Burkina Faso,DevOps Engineer,106738,Senior,7.5,Teams,2025-01-20,20,1,2025,Winter
+89,42,4.8,Non-binary,F,41,Antigua and Barbuda,Non-binary,M,22,Nigeria,Sales Executive,146406,Junior,6.2,Teams,2025-04-26,26,4,2025,Spring
+51,65,4.5,Female,M,48,Egypt,Non-binary,M,41,Mauritius,Sales Executive,79544,Junior,3.5,Email,2025-03-19,19,3,2025,Spring
+74,41,2.7,Non-binary,F,30,Mali,Female,M,42,Svalbard & Jan Mayen Islands,Sales Executive,57707,Junior,6.0,Teams,2024-06-16,16,6,2024,Summer
+74,43,4.1,Male,F,29,Serbia,Non-binary,F,38,United States of America,Software Engineer,51343,Junior,3.7,Slack,2024-11-13,13,11,2024,Autumn
+46,36,2.0,Non-binary,M,42,Colombia,Female,F,47,Tuvalu,Data Analyst,49267,Mid,9.6,Email,2025-02-11,11,2,2025,Winter
+80,95,1.9,Male,M,62,Rwanda,Male,F,52,Netherlands Antilles,Data Analyst,40333,Mid,7.5,Google Forms,2024-11-24,24,11,2024,Autumn
+65,80,1.5,Non-binary,F,54,Papua New Guinea,Non-binary,M,27,Honduras,Sales Executive,65795,Senior,8.7,Slack,2024-08-18,18,8,2024,Summer
+20,35,2.5,Female,F,27,Micronesia,Female,F,60,Korea,Sales Executive,76734,Junior,5.1,Email,2024-06-12,12,6,2024,Summer
+57,82,3.8,Male,M,65,Ukraine,Male,M,57,Fiji,Software Engineer,96446,Junior,5.7,Google Forms,2024-08-19,19,8,2024,Summer
+79,82,4.3,Female,M,44,Kazakhstan,Non-binary,F,44,Bermuda,HR Manager,95905,Lead,3.4,SurveyMonkey,2024-08-04,4,8,2024,Summer
+20,19,1.7,Non-binary,M,34,Saint Kitts and Nevis,Male,M,46,Sierra Leone,DevOps Engineer,147414,Lead,4.8,SurveyMonkey,2024-09-16,16,9,2024,Autumn
+45,89,4.2,Non-binary,M,48,El Salvador,Female,M,57,Argentina,Sales Executive,36694,Senior,10.0,Teams,2024-11-18,18,11,2024,Autumn
+23,80,3.9,Female,M,25,Mayotte,Male,M,23,Guyana,DevOps Engineer,73458,Senior,2.5,Slack,2025-03-03,3,3,2025,Spring
+68,68,3.9,Non-binary,F,41,Ireland,Male,M,56,Argentina,Data Analyst,36639,Lead,4.3,Teams,2024-09-25,25,9,2024,Autumn
+43,28,2.5,Male,F,56,Russian Federation,Female,M,37,Moldova,Data Analyst,92505,Senior,2.5,Teams,2024-05-13,13,5,2024,Spring
+99,82,3.7,Male,M,45,Rwanda,Female,M,60,Suriname,DevOps Engineer,133609,Senior,9.1,Slack,2025-04-04,4,4,2025,Spring
+24,26,1.8,Female,M,63,Ethiopia,Male,M,55,United States of America,Software Engineer,45135,Lead,6.3,SurveyMonkey,2024-11-08,8,11,2024,Autumn
+30,36,3.5,Male,F,50,New Caledonia,Female,F,47,Cyprus,DevOps Engineer,55056,Lead,3.1,Google Forms,2024-06-28,28,6,2024,Summer
+64,71,2.9,Non-binary,F,29,Egypt,Female,M,41,Korea,Sales Executive,86147,Lead,5.6,Teams,2024-05-30,30,5,2024,Spring
+81,62,5.0,Male,F,34,San Marino,Non-binary,M,61,Indonesia,Data Analyst,35047,Senior,8.0,SurveyMonkey,2025-03-12,12,3,2025,Spring
+92,29,4.3,Male,F,33,France,Male,F,52,Somalia,HR Manager,71520,Junior,2.6,Email,2024-09-06,6,9,2024,Autumn
+87,29,2.5,Male,M,27,Guinea,Female,M,18,Estonia,Software Engineer,91142,Senior,7.7,SurveyMonkey,2024-10-30,30,10,2024,Autumn
+99,78,1.2,Male,F,36,Sierra Leone,Female,M,45,Portugal,HR Manager,148753,Lead,6.4,Google Forms,2024-07-22,22,7,2024,Summer
+49,39,4.1,Male,F,39,Greenland,Non-binary,F,55,Iceland,DevOps Engineer,91267,Senior,7.2,SurveyMonkey,2024-11-07,7,11,2024,Autumn
+78,28,2.3,Female,M,38,Liechtenstein,Non-binary,F,54,Turkmenistan,Software Engineer,75712,Junior,1.9,Google Forms,2025-01-18,18,1,2025,Winter
+96,72,4.6,Male,F,39,Nepal,Non-binary,M,35,Qatar,Data Analyst,127163,Senior,6.4,Email,2025-05-03,3,5,2025,Spring
+58,39,4.3,Female,F,23,Bolivia,Male,M,19,Aruba,Software Engineer,78145,Lead,9.8,Slack,2025-05-01,1,5,2025,Spring
+21,39,2.5,Male,M,35,United States Minor Outlying Islands,Female,M,28,Uruguay,Data Analyst,63403,Senior,6.2,Email,2025-03-19,19,3,2025,Spring
+65,97,2.7,Non-binary,M,21,Albania,Non-binary,M,39,Palestinian Territory,HR Manager,55925,Mid,8.6,Teams,2024-06-21,21,6,2024,Summer
+37,97,4.5,Non-binary,F,53,Mauritania,Male,M,28,Niue,HR Manager,72008,Lead,6.9,Teams,2025-04-02,2,4,2025,Spring
+96,35,3.2,Male,M,20,Zambia,Female,F,63,Iceland,Data Analyst,37281,Senior,9.6,Email,2024-10-16,16,10,2024,Autumn
+55,24,1.7,Male,F,50,Korea,Female,M,55,Somalia,Sales Executive,107451,Junior,4.0,Email,2024-09-12,12,9,2024,Autumn
+40,77,1.3,Non-binary,M,18,Ecuador,Male,M,40,Colombia,Software Engineer,72575,Senior,3.5,Teams,2024-08-14,14,8,2024,Summer
+66,86,1.5,Non-binary,M,36,Svalbard & Jan Mayen Islands,Female,F,56,Turkmenistan,Sales Executive,69181,Senior,8.0,Slack,2024-06-27,27,6,2024,Summer
+20,64,2.2,Male,F,63,Albania,Non-binary,F,21,Papua New Guinea,Sales Executive,70112,Junior,1.6,Email,2024-10-07,7,10,2024,Autumn
+68,28,3.2,Non-binary,F,26,Greenland,Male,F,22,Cote d'Ivoire,Data Analyst,134643,Mid,9.1,Email,2024-10-25,25,10,2024,Autumn
+91,60,1.0,Female,F,35,Vietnam,Male,F,54,Costa Rica,Data Analyst,89016,Lead,1.8,Email,2024-05-26,26,5,2024,Spring
+92,44,1.1,Male,F,37,Luxembourg,Male,M,55,Central African Republic,Sales Executive,114498,Senior,2.8,Teams,2025-01-27,27,1,2025,Winter
+95,68,3.8,Male,F,62,Sierra Leone,Non-binary,F,20,French Guiana,Software Engineer,58419,Senior,8.2,Google Forms,2024-06-25,25,6,2024,Summer
+63,26,2.4,Non-binary,M,44,China,Female,M,32,Jordan,DevOps Engineer,74262,Lead,1.4,Slack,2024-07-11,11,7,2024,Summer
+54,79,4.0,Male,F,41,Japan,Non-binary,M,45,Azerbaijan,Sales Executive,87298,Junior,3.9,Email,2024-12-25,25,12,2024,Winter
+77,60,1.2,Female,M,28,Saint Martin,Non-binary,F,46,Togo,Sales Executive,86065,Mid,7.0,Google Forms,2024-07-31,31,7,2024,Summer
+33,96,2.4,Male,M,30,Denmark,Male,F,35,Argentina,Software Engineer,83461,Senior,7.8,Google Forms,2024-10-02,2,10,2024,Autumn
+79,99,3.5,Male,M,58,American Samoa,Female,F,25,Afghanistan,Sales Executive,133413,Lead,3.3,Email,2024-11-06,6,11,2024,Autumn
+32,93,4.1,Non-binary,M,42,Costa Rica,Female,M,25,Finland,DevOps Engineer,113333,Mid,6.1,Google Forms,2025-03-15,15,3,2025,Spring
+95,70,3.5,Male,M,37,Serbia,Female,M,39,Austria,Data Analyst,73303,Mid,2.8,Teams,2024-06-09,9,6,2024,Summer
+75,22,5.0,Male,M,41,United Arab Emirates,Female,M,41,Niue,HR Manager,101325,Lead,2.6,Google Forms,2024-07-02,2,7,2024,Summer
+44,49,1.1,Non-binary,F,23,Tanzania,Male,M,56,Venezuela,HR Manager,34719,Senior,1.2,Teams,2025-04-17,17,4,2025,Spring
+92,15,2.9,Female,M,26,Ethiopia,Non-binary,F,25,Tanzania,Software Engineer,148909,Mid,1.2,Email,2024-10-22,22,10,2024,Autumn
+92,97,3.4,Female,M,64,Tunisia,Female,M,19,Finland,HR Manager,146026,Senior,9.0,Google Forms,2024-11-07,7,11,2024,Autumn
+66,98,2.3,Female,F,58,Nicaragua,Non-binary,M,19,Sudan,HR Manager,54719,Senior,5.3,SurveyMonkey,2024-06-14,14,6,2024,Summer
+88,84,4.5,Male,F,47,Mexico,Non-binary,M,51,Swaziland,HR Manager,102307,Mid,7.5,Google Forms,2024-06-05,5,6,2024,Summer
+52,36,4.8,Non-binary,M,48,Saint Barthelemy,Non-binary,F,38,Cote d'Ivoire,Sales Executive,111424,Lead,8.6,Email,2025-02-07,7,2,2025,Winter
+21,39,3.0,Female,M,57,Sierra Leone,Male,M,50,Israel,HR Manager,149119,Lead,9.3,Teams,2024-06-06,6,6,2024,Summer
+50,27,4.2,Female,F,52,Ukraine,Male,M,56,Romania,DevOps Engineer,138737,Junior,1.5,Slack,2024-11-14,14,11,2024,Autumn
+48,19,1.5,Female,M,30,Cayman Islands,Female,M,39,French Polynesia,Data Analyst,132506,Junior,7.6,Google Forms,2025-03-23,23,3,2025,Spring
+78,83,4.2,Female,F,20,Belize,Non-binary,M,64,Mexico,Software Engineer,37842,Lead,3.2,Teams,2024-06-02,2,6,2024,Summer
+97,63,4.3,Male,F,20,Fiji,Female,F,27,Haiti,Software Engineer,71110,Lead,4.9,Email,2024-08-10,10,8,2024,Summer
+74,90,4.2,Non-binary,M,61,Faroe Islands,Non-binary,M,58,Jordan,Data Analyst,124401,Senior,3.7,SurveyMonkey,2024-12-29,29,12,2024,Winter
+87,34,2.7,Male,F,44,Macao,Female,F,43,United States of America,Sales Executive,106678,Junior,7.2,Email,2025-03-31,31,3,2025,Spring
+90,65,2.7,Male,M,55,Lao People's Democratic Republic,Female,M,36,Norway,Software Engineer,76084,Junior,2.7,Email,2024-05-09,9,5,2024,Spring
+64,84,3.9,Female,F,38,British Indian Ocean Territory (Chagos Archipelago),Non-binary,M,25,Iceland,Sales Executive,147119,Mid,8.8,Email,2025-02-08,8,2,2025,Winter
+35,19,3.4,Non-binary,M,29,Angola,Female,F,52,Cook Islands,HR Manager,96842,Lead,1.6,Slack,2024-05-28,28,5,2024,Spring
+98,77,4.5,Non-binary,F,37,Liechtenstein,Female,M,19,Madagascar,Software Engineer,78912,Junior,3.8,Teams,2025-01-27,27,1,2025,Winter
+62,31,1.5,Male,M,32,Lesotho,Female,F,18,Belgium,Software Engineer,136559,Lead,1.6,Google Forms,2025-02-10,10,2,2025,Winter
+73,62,3.5,Male,F,28,Andorra,Non-binary,M,51,Tunisia,DevOps Engineer,134852,Lead,5.4,Teams,2024-10-28,28,10,2024,Autumn
+72,78,2.7,Non-binary,M,26,Martinique,Female,M,27,British Virgin Islands,HR Manager,73871,Mid,3.9,Email,2025-01-09,9,1,2025,Winter
+48,91,4.2,Female,F,34,Bhutan,Female,F,38,Montenegro,Software Engineer,102830,Mid,9.7,Teams,2025-01-03,3,1,2025,Winter
+73,93,1.6,Female,M,28,Moldova,Male,F,56,Papua New Guinea,Sales Executive,116096,Junior,8.1,Email,2024-05-04,4,5,2024,Spring
+84,55,4.4,Non-binary,F,30,Hong Kong,Male,F,30,Uruguay,HR Manager,100060,Mid,3.5,Teams,2024-12-03,3,12,2024,Winter
+77,56,3.1,Female,F,29,Bermuda,Non-binary,M,63,Singapore,Data Analyst,75488,Mid,1.3,Google Forms,2024-07-07,7,7,2024,Summer
+32,36,4.6,Non-binary,M,28,Burundi,Female,M,57,Japan,Software Engineer,99762,Lead,7.3,Google Forms,2024-05-05,5,5,2024,Spring
+31,72,3.0,Male,M,49,Egypt,Female,F,65,Saint Barthelemy,HR Manager,113215,Junior,8.6,Google Forms,2024-08-14,14,8,2024,Summer
+56,80,3.6,Female,M,20,French Guiana,Male,F,36,Luxembourg,Software Engineer,114927,Junior,3.0,SurveyMonkey,2024-07-15,15,7,2024,Summer
+51,33,1.7,Male,M,41,Congo,Male,M,47,Pitcairn Islands,Sales Executive,123313,Lead,6.4,Slack,2025-02-28,28,2,2025,Winter
+61,59,1.1,Non-binary,M,33,Korea,Male,M,53,Samoa,Sales Executive,42241,Mid,4.6,Teams,2025-03-19,19,3,2025,Spring
+55,16,1.8,Female,M,29,Australia,Female,M,22,Timor-Leste,Data Analyst,35479,Junior,4.1,Email,2024-12-23,23,12,2024,Winter
+73,22,1.8,Non-binary,M,50,Korea,Male,F,42,Korea,Sales Executive,62250,Lead,8.2,Slack,2024-10-23,23,10,2024,Autumn
+70,94,2.6,Female,F,51,China,Non-binary,F,54,Czech Republic,Software Engineer,79309,Lead,7.6,Slack,2024-12-22,22,12,2024,Winter
+61,41,3.7,Male,M,46,Chad,Male,M,35,Venezuela,Sales Executive,45040,Mid,1.6,Teams,2024-07-17,17,7,2024,Summer
+78,59,4.0,Male,M,65,French Guiana,Female,F,39,United States of America,Sales Executive,62013,Mid,3.0,Teams,2024-07-29,29,7,2024,Summer
+81,98,2.6,Male,F,30,San Marino,Male,M,18,Aruba,Data Analyst,40395,Junior,9.6,Google Forms,2025-04-20,20,4,2025,Spring
+63,23,5.0,Non-binary,F,43,Denmark,Non-binary,F,42,Czech Republic,Sales Executive,38309,Lead,6.0,Slack,2025-01-12,12,1,2025,Winter
+65,38,3.2,Male,F,65,Lebanon,Non-binary,F,34,United Kingdom,Software Engineer,45995,Junior,6.8,Teams,2025-04-30,30,4,2025,Spring
+78,69,1.6,Non-binary,F,61,Trinidad and Tobago,Female,M,31,Costa Rica,Software Engineer,66676,Junior,7.3,Email,2024-10-18,18,10,2024,Autumn
+51,99,2.0,Male,M,18,Luxembourg,Female,M,52,Tajikistan,Sales Executive,93449,Senior,2.1,Teams,2024-12-25,25,12,2024,Winter
+97,53,4.1,Female,M,40,Ireland,Male,M,23,Greenland,Software Engineer,51689,Mid,7.1,Email,2024-12-03,3,12,2024,Winter
+85,65,2.9,Non-binary,F,50,Afghanistan,Non-binary,F,44,Jamaica,Software Engineer,63119,Lead,3.1,Google Forms,2024-06-30,30,6,2024,Summer
+52,17,1.9,Female,M,58,Ireland,Male,M,61,Montenegro,HR Manager,82984,Senior,3.4,Google Forms,2024-12-27,27,12,2024,Winter
+29,45,3.2,Non-binary,F,27,Mozambique,Male,M,33,Uzbekistan,DevOps Engineer,94525,Mid,4.2,Google Forms,2025-03-17,17,3,2025,Spring
+66,99,2.1,Non-binary,M,61,Saint Vincent and the Grenadines,Non-binary,F,37,Dominican Republic,Sales Executive,52918,Junior,8.4,Google Forms,2025-01-22,22,1,2025,Winter
+60,99,2.0,Male,F,52,Saint Kitts and Nevis,Non-binary,M,55,Papua New Guinea,Data Analyst,66604,Senior,9.7,SurveyMonkey,2025-04-19,19,4,2025,Spring
+23,33,1.1,Non-binary,M,35,Egypt,Non-binary,F,44,Germany,DevOps Engineer,77653,Mid,8.7,Google Forms,2025-03-24,24,3,2025,Spring
+80,94,2.3,Female,F,39,Guatemala,Non-binary,M,28,Greenland,Sales Executive,116433,Lead,3.4,Email,2025-04-05,5,4,2025,Spring
+61,25,4.7,Non-binary,F,45,Namibia,Female,F,54,Korea,HR Manager,57109,Senior,7.6,Teams,2024-11-09,9,11,2024,Autumn
+25,28,3.9,Female,F,49,Brazil,Non-binary,M,41,Aruba,HR Manager,36837,Junior,8.7,SurveyMonkey,2024-09-10,10,9,2024,Autumn
+71,64,2.9,Male,M,51,Portugal,Male,M,25,Bhutan,Sales Executive,133749,Lead,5.7,Slack,2025-01-27,27,1,2025,Winter
+94,41,4.8,Non-binary,F,52,Indonesia,Female,F,28,Western Sahara,Data Analyst,35238,Lead,7.5,Teams,2025-02-05,5,2,2025,Winter
+36,47,4.5,Male,M,50,Faroe Islands,Female,M,38,Christmas Island,HR Manager,114396,Lead,3.5,Google Forms,2024-11-28,28,11,2024,Autumn
+36,48,2.5,Female,M,45,American Samoa,Male,F,19,Germany,Sales Executive,87831,Junior,4.6,Email,2024-06-28,28,6,2024,Summer
+89,31,2.1,Male,F,49,Venezuela,Male,F,55,Guam,HR Manager,68422,Junior,3.3,Email,2025-02-14,14,2,2025,Winter
+27,64,3.2,Male,M,48,Mauritania,Female,M,55,Macao,HR Manager,145263,Lead,8.1,Teams,2025-04-20,20,4,2025,Spring
+37,46,2.3,Non-binary,M,19,Brunei Darussalam,Male,F,54,Portugal,DevOps Engineer,69460,Mid,6.3,Slack,2024-08-16,16,8,2024,Summer
+68,54,3.9,Male,M,24,Reunion,Non-binary,M,20,Niue,Sales Executive,102469,Mid,3.1,Google Forms,2025-01-01,1,1,2025,Winter
+36,21,1.1,Non-binary,M,56,Sierra Leone,Non-binary,M,47,Austria,Software Engineer,86732,Senior,5.6,Email,2024-10-31,31,10,2024,Autumn
+25,51,4.0,Non-binary,F,64,Tanzania,Non-binary,M,25,Liberia,Sales Executive,58190,Mid,9.7,SurveyMonkey,2024-08-23,23,8,2024,Summer
+21,60,2.8,Non-binary,F,38,Guadeloupe,Female,M,35,Egypt,Software Engineer,72607,Senior,4.9,Email,2024-08-28,28,8,2024,Summer
+63,63,4.3,Male,F,44,Cyprus,Non-binary,F,40,Somalia,Software Engineer,82430,Mid,1.7,Email,2024-10-04,4,10,2024,Autumn
+25,85,4.5,Non-binary,F,65,Christmas Island,Male,F,18,Latvia,Data Analyst,62150,Mid,4.1,Google Forms,2025-02-13,13,2,2025,Winter
+100,37,3.4,Non-binary,F,27,French Polynesia,Non-binary,F,31,Saint Lucia,Sales Executive,111280,Senior,1.6,Slack,2025-05-04,4,5,2025,Spring
+99,81,3.1,Male,M,48,Cocos (Keeling) Islands,Non-binary,M,31,Greece,Data Analyst,54964,Lead,2.6,SurveyMonkey,2024-09-03,3,9,2024,Autumn
+78,100,3.8,Male,M,37,Hungary,Female,M,62,Finland,DevOps Engineer,95323,Junior,2.1,Slack,2024-11-05,5,11,2024,Autumn
+76,16,4.7,Female,F,31,Colombia,Female,F,24,Kyrgyz Republic,Software Engineer,91866,Senior,5.0,Teams,2024-11-30,30,11,2024,Autumn
+33,51,1.9,Male,F,63,Guatemala,Female,F,21,Cyprus,Sales Executive,111574,Senior,6.2,SurveyMonkey,2025-01-01,1,1,2025,Winter
+27,23,2.3,Non-binary,F,44,Botswana,Female,M,50,Nauru,Data Analyst,36664,Junior,7.3,Teams,2025-02-16,16,2,2025,Winter
+29,43,3.1,Male,F,64,Italy,Non-binary,F,21,Congo,Data Analyst,93425,Junior,3.3,SurveyMonkey,2024-06-09,9,6,2024,Summer
+89,89,1.5,Non-binary,M,33,Saint Vincent and the Grenadines,Male,F,24,Azerbaijan,Software Engineer,137935,Lead,7.0,Slack,2024-11-19,19,11,2024,Autumn
+82,63,3.3,Non-binary,M,18,Fiji,Male,M,25,Azerbaijan,HR Manager,124347,Lead,6.3,Email,2024-09-28,28,9,2024,Autumn
+80,57,2.4,Non-binary,M,47,Dominican Republic,Male,M,39,Cook Islands,HR Manager,97990,Junior,9.3,Teams,2024-07-21,21,7,2024,Summer
+71,36,4.1,Non-binary,F,36,Antarctica (the territory South of 60 deg S),Female,M,18,Togo,Sales Executive,68059,Lead,9.3,Teams,2024-07-20,20,7,2024,Summer
+52,87,5.0,Male,M,57,Western Sahara,Female,M,61,Iran,HR Manager,114249,Senior,6.9,Google Forms,2025-01-10,10,1,2025,Winter
+99,90,4.7,Male,F,52,Fiji,Female,F,49,Chad,HR Manager,70045,Mid,5.3,SurveyMonkey,2025-03-10,10,3,2025,Spring
+93,34,1.6,Non-binary,M,42,Botswana,Female,M,23,South Georgia and the South Sandwich Islands,Data Analyst,149051,Junior,5.3,Teams,2024-09-07,7,9,2024,Autumn
+58,42,1.9,Male,M,39,Antarctica (the territory South of 60 deg S),Female,M,61,Vanuatu,Software Engineer,61560,Senior,4.3,Google Forms,2024-09-17,17,9,2024,Autumn
+33,86,4.5,Female,F,58,Palau,Non-binary,F,46,Korea,Data Analyst,108929,Senior,6.1,Google Forms,2025-01-12,12,1,2025,Winter
+51,18,2.0,Male,F,44,Central African Republic,Female,M,33,Liechtenstein,Data Analyst,96822,Lead,1.3,SurveyMonkey,2024-12-24,24,12,2024,Winter
+65,64,2.3,Non-binary,F,61,Aruba,Female,F,37,Guyana,Data Analyst,103086,Junior,6.6,Slack,2024-10-30,30,10,2024,Autumn
+38,52,1.0,Male,F,44,Isle of Man,Female,F,46,South Africa,Data Analyst,38608,Mid,9.1,Google Forms,2025-03-13,13,3,2025,Spring
+69,29,2.1,Female,F,23,Ukraine,Non-binary,F,26,Benin,HR Manager,74274,Senior,1.3,Email,2024-05-04,4,5,2024,Spring
+39,94,1.8,Male,M,47,Kazakhstan,Male,F,55,Saint Kitts and Nevis,HR Manager,104128,Senior,8.1,SurveyMonkey,2024-07-21,21,7,2024,Summer
+89,17,1.1,Non-binary,M,64,Montserrat,Female,F,33,Guatemala,Software Engineer,81758,Senior,6.1,Email,2024-05-11,11,5,2024,Spring
+31,87,2.8,Female,F,30,Lesotho,Female,F,65,Mauritania,Software Engineer,52127,Mid,7.1,Slack,2025-04-25,25,4,2025,Spring
+44,45,2.4,Male,F,19,Sao Tome and Principe,Male,M,22,Zimbabwe,DevOps Engineer,72497,Senior,8.6,Google Forms,2024-07-30,30,7,2024,Summer
+28,97,4.3,Male,M,50,Saint Martin,Male,M,50,India,Data Analyst,71464,Mid,3.5,Email,2024-12-11,11,12,2024,Winter
+52,33,1.2,Non-binary,M,29,Grenada,Non-binary,F,34,Comoros,Data Analyst,98170,Lead,9.7,Email,2025-04-17,17,4,2025,Spring
+91,71,2.3,Non-binary,F,20,Central African Republic,Male,F,25,Cook Islands,HR Manager,100668,Senior,4.1,SurveyMonkey,2025-02-20,20,2,2025,Winter
+96,34,3.3,Female,M,39,Pitcairn Islands,Non-binary,M,29,Serbia,HR Manager,30754,Lead,9.4,Google Forms,2024-07-20,20,7,2024,Summer
+76,100,4.1,Female,M,43,Solomon Islands,Male,F,21,French Guiana,Sales Executive,107536,Senior,2.1,Google Forms,2025-04-11,11,4,2025,Spring
+93,38,2.1,Female,M,35,Ghana,Female,F,40,Cocos (Keeling) Islands,Sales Executive,51539,Senior,2.5,SurveyMonkey,2024-08-15,15,8,2024,Summer
+55,55,3.2,Female,F,35,Liberia,Female,F,33,Trinidad and Tobago,HR Manager,116329,Senior,7.8,Google Forms,2024-07-22,22,7,2024,Summer
+21,92,2.4,Female,F,25,Zimbabwe,Male,M,44,Azerbaijan,Software Engineer,85524,Junior,9.6,SurveyMonkey,2025-04-07,7,4,2025,Spring
+71,28,1.8,Male,F,44,British Virgin Islands,Male,F,47,Christmas Island,Data Analyst,80865,Lead,9.6,Slack,2024-08-31,31,8,2024,Summer
+72,59,2.4,Male,F,32,Macao,Female,F,45,Switzerland,DevOps Engineer,55211,Mid,4.0,Email,2024-06-02,2,6,2024,Summer
+33,47,1.7,Non-binary,F,33,Lithuania,Male,F,51,Iraq,Software Engineer,30587,Senior,7.6,Teams,2025-01-22,22,1,2025,Winter
+88,43,1.3,Male,M,50,Chad,Male,M,54,Antigua and Barbuda,Software Engineer,108661,Lead,5.7,Slack,2025-03-10,10,3,2025,Spring
+56,70,4.3,Non-binary,M,62,Vanuatu,Non-binary,M,59,Tanzania,Software Engineer,39885,Lead,4.6,Teams,2025-02-26,26,2,2025,Winter
+86,97,4.6,Male,M,58,Cote d'Ivoire,Male,F,21,Suriname,Data Analyst,65048,Junior,8.0,Teams,2025-03-26,26,3,2025,Spring
+54,96,2.1,Female,M,57,United Kingdom,Non-binary,F,40,Andorra,DevOps Engineer,35733,Lead,4.4,Teams,2024-11-23,23,11,2024,Autumn
+75,55,1.6,Female,M,37,Malta,Female,M,42,Pitcairn Islands,HR Manager,65557,Junior,8.0,Google Forms,2024-10-23,23,10,2024,Autumn
+68,49,4.6,Non-binary,F,54,Western Sahara,Non-binary,M,36,Somalia,DevOps Engineer,82555,Mid,2.4,Google Forms,2024-10-26,26,10,2024,Autumn
+34,72,2.5,Non-binary,M,44,Uganda,Male,M,28,Egypt,DevOps Engineer,110481,Junior,5.3,SurveyMonkey,2024-05-10,10,5,2024,Spring
+98,84,1.8,Non-binary,M,42,Maldives,Male,F,37,Mexico,Software Engineer,120151,Junior,2.8,Slack,2025-02-23,23,2,2025,Winter
+99,39,2.8,Male,M,49,Brazil,Non-binary,F,39,El Salvador,Software Engineer,104449,Senior,3.4,Google Forms,2024-08-24,24,8,2024,Summer
+53,90,2.1,Non-binary,M,31,Turks and Caicos Islands,Non-binary,F,51,Uzbekistan,HR Manager,48608,Mid,4.0,Email,2025-04-19,19,4,2025,Spring
+51,39,3.2,Male,M,28,Sri Lanka,Male,M,62,Netherlands Antilles,HR Manager,46978,Senior,1.9,Teams,2024-06-16,16,6,2024,Summer
+56,15,2.3,Non-binary,F,40,Svalbard & Jan Mayen Islands,Female,F,37,Cocos (Keeling) Islands,Software Engineer,123433,Lead,9.8,Email,2025-05-01,1,5,2025,Spring
+46,58,1.0,Non-binary,F,34,Gambia,Female,F,60,Barbados,Sales Executive,89895,Senior,3.3,Email,2025-01-18,18,1,2025,Winter
+38,100,1.7,Male,F,61,Kuwait,Non-binary,F,53,Ukraine,Software Engineer,148429,Senior,1.7,Google Forms,2024-10-30,30,10,2024,Autumn
+71,40,1.5,Male,F,54,Israel,Male,M,24,Kazakhstan,DevOps Engineer,147190,Senior,2.2,Slack,2024-05-29,29,5,2024,Spring
+30,92,1.6,Non-binary,M,62,Faroe Islands,Female,F,33,Saudi Arabia,DevOps Engineer,137070,Mid,5.7,Google Forms,2024-12-02,2,12,2024,Winter
+41,44,2.0,Non-binary,F,35,Pakistan,Non-binary,M,52,Angola,Software Engineer,84840,Junior,9.3,Google Forms,2024-09-20,20,9,2024,Autumn
+47,43,4.7,Male,M,19,Guatemala,Female,M,35,Guinea,Software Engineer,72730,Senior,3.5,Google Forms,2024-12-12,12,12,2024,Winter
+55,87,2.5,Female,M,29,Kenya,Non-binary,M,40,Liberia,Data Analyst,77968,Senior,4.5,Teams,2024-12-22,22,12,2024,Winter
+24,30,4.7,Male,F,41,Sudan,Non-binary,M,22,Palau,HR Manager,95212,Mid,4.3,Email,2025-04-28,28,4,2025,Spring
+39,76,4.5,Male,M,38,Cuba,Non-binary,M,52,Nauru,DevOps Engineer,108333,Lead,1.9,SurveyMonkey,2024-06-29,29,6,2024,Summer
+38,67,3.0,Male,M,19,Palestinian Territory,Female,F,45,British Virgin Islands,Sales Executive,87318,Lead,7.1,Teams,2024-07-16,16,7,2024,Summer
+38,85,2.5,Non-binary,M,57,Nicaragua,Female,M,26,Hong Kong,Data Analyst,66658,Junior,8.9,Teams,2025-01-17,17,1,2025,Winter
+81,98,1.4,Non-binary,F,53,Czech Republic,Female,F,35,Central African Republic,Sales Executive,65286,Senior,8.7,Email,2025-01-14,14,1,2025,Winter
+75,70,1.2,Female,M,29,Falkland Islands (Malvinas),Female,M,64,Burundi,HR Manager,72599,Mid,5.3,Slack,2024-09-23,23,9,2024,Autumn
+85,61,3.4,Male,F,60,Saint Kitts and Nevis,Male,F,51,Malta,DevOps Engineer,121318,Senior,9.8,Slack,2025-02-10,10,2,2025,Winter
+92,63,3.1,Male,M,53,Croatia,Male,F,53,Bhutan,Data Analyst,33519,Lead,6.0,SurveyMonkey,2025-03-06,6,3,2025,Spring
+63,89,4.0,Female,M,28,Haiti,Male,F,33,Bolivia,Software Engineer,50959,Lead,5.6,SurveyMonkey,2024-07-03,3,7,2024,Summer
+20,24,4.2,Non-binary,F,46,Macedonia,Male,F,25,Suriname,Software Engineer,123068,Senior,1.7,SurveyMonkey,2024-08-16,16,8,2024,Summer
+67,68,2.5,Male,M,58,Burkina Faso,Male,M,61,British Indian Ocean Territory (Chagos Archipelago),DevOps Engineer,78842,Junior,8.9,Google Forms,2024-09-08,8,9,2024,Autumn
+43,64,1.0,Non-binary,M,34,Romania,Male,F,45,Guam,HR Manager,49484,Junior,9.8,Slack,2024-05-26,26,5,2024,Spring
+27,19,1.0,Female,M,54,Heard Island and McDonald Islands,Non-binary,M,33,Palau,Software Engineer,115758,Junior,4.1,SurveyMonkey,2024-05-22,22,5,2024,Spring
+44,35,2.7,Male,M,45,Bangladesh,Male,M,42,Guadeloupe,Software Engineer,35999,Junior,7.8,Google Forms,2024-08-18,18,8,2024,Summer
+75,58,2.2,Male,F,43,Netherlands Antilles,Non-binary,F,52,Bahamas,HR Manager,43445,Mid,8.2,Teams,2024-09-26,26,9,2024,Autumn
+26,92,4.5,Male,M,33,Belgium,Male,M,58,El Salvador,Software Engineer,117649,Senior,6.7,Slack,2024-12-28,28,12,2024,Winter
+93,39,2.2,Non-binary,M,36,Bhutan,Non-binary,F,55,Nauru,Software Engineer,100090,Junior,3.7,Teams,2024-07-07,7,7,2024,Summer
+34,52,1.7,Non-binary,M,60,Mozambique,Male,M,42,Macao,HR Manager,116228,Senior,2.7,Slack,2025-03-28,28,3,2025,Spring
+85,88,3.5,Female,F,44,Mexico,Male,M,18,France,DevOps Engineer,93132,Junior,1.7,SurveyMonkey,2024-06-23,23,6,2024,Summer
+95,67,2.8,Female,F,30,Sao Tome and Principe,Female,F,56,Macao,Data Analyst,119151,Junior,3.5,Slack,2024-12-31,31,12,2024,Winter
+85,70,2.1,Non-binary,F,24,Mozambique,Non-binary,M,29,Guadeloupe,HR Manager,59115,Mid,4.7,Google Forms,2024-10-04,4,10,2024,Autumn
+89,27,1.8,Female,F,47,Switzerland,Non-binary,M,38,Guadeloupe,DevOps Engineer,139663,Mid,5.8,Email,2025-03-10,10,3,2025,Spring
+21,63,4.9,Non-binary,M,30,Indonesia,Non-binary,M,47,Bosnia and Herzegovina,Software Engineer,70740,Mid,1.9,SurveyMonkey,2024-09-22,22,9,2024,Autumn
+85,36,4.5,Female,M,22,Jordan,Male,M,52,Taiwan,Data Analyst,103693,Mid,2.1,SurveyMonkey,2024-11-04,4,11,2024,Autumn
+37,27,4.1,Male,M,64,Barbados,Non-binary,M,45,Chile,Software Engineer,73029,Lead,8.1,Email,2024-08-20,20,8,2024,Summer
+72,60,4.2,Male,F,25,France,Non-binary,F,39,South Africa,DevOps Engineer,133559,Lead,2.6,Teams,2024-06-30,30,6,2024,Summer
+25,73,2.9,Male,F,63,Malawi,Female,M,40,Central African Republic,Sales Executive,33140,Junior,9.1,Google Forms,2024-06-23,23,6,2024,Summer
+49,56,3.1,Male,M,35,Aruba,Male,F,54,China,Sales Executive,80485,Senior,1.9,Email,2024-06-15,15,6,2024,Summer
+32,60,2.0,Male,F,64,Saint Helena,Male,M,38,Rwanda,Software Engineer,50705,Lead,9.3,Email,2024-11-12,12,11,2024,Autumn
+47,30,2.1,Female,M,29,Anguilla,Male,M,31,Burkina Faso,Sales Executive,146614,Senior,4.4,SurveyMonkey,2024-11-05,5,11,2024,Autumn
+76,80,2.6,Non-binary,M,40,Hong Kong,Non-binary,M,44,Pitcairn Islands,HR Manager,131709,Junior,3.4,Google Forms,2024-08-05,5,8,2024,Summer
+55,70,3.7,Non-binary,M,31,Lesotho,Female,M,65,Greece,DevOps Engineer,81899,Junior,4.4,Slack,2024-11-20,20,11,2024,Autumn
+100,81,4.1,Non-binary,F,23,Guyana,Male,M,40,Namibia,Data Analyst,52434,Junior,4.7,SurveyMonkey,2024-09-17,17,9,2024,Autumn
+56,53,3.9,Male,F,44,Armenia,Non-binary,M,18,Uruguay,DevOps Engineer,53923,Senior,8.2,Teams,2025-03-26,26,3,2025,Spring
+68,93,1.2,Female,M,38,Saint Vincent and the Grenadines,Female,M,36,Macedonia,HR Manager,111905,Lead,8.3,Slack,2024-09-20,20,9,2024,Autumn
+61,98,1.5,Male,M,31,Luxembourg,Male,F,20,Western Sahara,Software Engineer,60064,Senior,8.1,Email,2025-03-28,28,3,2025,Spring
+54,22,4.3,Male,M,37,Israel,Female,M,53,Yemen,DevOps Engineer,63776,Mid,9.2,Slack,2024-09-18,18,9,2024,Autumn
+27,76,1.1,Non-binary,F,21,Guinea-Bissau,Male,M,43,Switzerland,Data Analyst,98628,Junior,3.4,Slack,2024-11-20,20,11,2024,Autumn
+72,60,3.5,Female,F,18,Indonesia,Female,F,43,Greenland,Software Engineer,144356,Mid,2.1,Slack,2024-09-17,17,9,2024,Autumn
+62,51,3.3,Female,F,26,Finland,Male,M,64,Sri Lanka,HR Manager,98218,Mid,5.1,Teams,2024-07-15,15,7,2024,Summer
+39,42,2.6,Non-binary,F,25,El Salvador,Male,F,40,Chad,Software Engineer,99873,Junior,7.1,Slack,2025-03-15,15,3,2025,Spring
+22,29,2.2,Non-binary,F,55,Vanuatu,Male,F,51,Eritrea,Data Analyst,135814,Senior,1.9,Slack,2025-03-01,1,3,2025,Spring
+99,44,2.4,Male,F,43,Tuvalu,Female,F,21,Iraq,Sales Executive,39811,Mid,8.7,SurveyMonkey,2024-12-25,25,12,2024,Winter
+95,27,1.5,Non-binary,M,37,Central African Republic,Non-binary,M,29,Bangladesh,Sales Executive,58988,Senior,1.2,Google Forms,2024-09-07,7,9,2024,Autumn
+24,27,3.8,Non-binary,F,37,Qatar,Non-binary,F,63,French Guiana,DevOps Engineer,138567,Lead,1.2,Slack,2024-06-17,17,6,2024,Summer
+93,17,2.5,Female,M,19,Gibraltar,Male,F,55,Venezuela,Data Analyst,64957,Junior,5.4,Slack,2024-09-30,30,9,2024,Autumn
+63,98,4.2,Non-binary,M,45,Belgium,Female,M,57,Gabon,Sales Executive,78215,Mid,4.1,Google Forms,2024-08-28,28,8,2024,Summer
+28,17,2.5,Female,M,18,Central African Republic,Male,M,34,Cayman Islands,Sales Executive,84147,Mid,9.4,Email,2024-05-13,13,5,2024,Spring
+97,26,1.3,Female,F,27,Korea,Non-binary,M,33,Eritrea,HR Manager,58435,Senior,5.5,Google Forms,2024-06-12,12,6,2024,Summer
+34,51,4.0,Female,F,21,Sweden,Female,F,62,Senegal,Sales Executive,67414,Junior,8.7,Google Forms,2024-05-23,23,5,2024,Spring
+63,56,4.8,Non-binary,M,53,Christmas Island,Female,F,63,Spain,Sales Executive,62211,Lead,4.1,Slack,2024-06-19,19,6,2024,Summer
+21,79,3.1,Male,F,48,San Marino,Female,F,60,Gibraltar,Sales Executive,137465,Lead,4.5,Email,2024-05-11,11,5,2024,Spring
+37,35,3.5,Female,M,29,Macedonia,Male,F,26,Canada,Sales Executive,57921,Senior,2.8,Email,2024-09-11,11,9,2024,Autumn
+72,48,2.3,Non-binary,M,57,Western Sahara,Female,F,64,Syrian Arab Republic,HR Manager,51441,Senior,5.7,Slack,2024-08-15,15,8,2024,Summer
+21,81,3.4,Male,M,63,Bouvet Island (Bouvetoya),Non-binary,M,50,Kazakhstan,Sales Executive,129315,Lead,3.3,Google Forms,2024-07-07,7,7,2024,Summer
+34,17,2.3,Female,F,65,Djibouti,Female,F,58,Congo,Data Analyst,124360,Mid,3.3,Slack,2024-12-26,26,12,2024,Winter
+41,46,3.2,Non-binary,F,56,Algeria,Female,M,65,French Southern Territories,Data Analyst,125087,Lead,9.3,Slack,2024-12-15,15,12,2024,Winter
+36,53,1.9,Non-binary,M,19,China,Female,M,43,Cape Verde,Software Engineer,33317,Senior,8.5,Slack,2025-04-07,7,4,2025,Spring
+34,19,1.5,Female,M,37,Guyana,Non-binary,F,22,Niger,DevOps Engineer,82279,Mid,8.8,Slack,2025-01-28,28,1,2025,Winter
+50,94,4.7,Male,M,54,Bouvet Island (Bouvetoya),Male,F,19,Latvia,Data Analyst,66088,Lead,7.0,Teams,2024-06-10,10,6,2024,Summer
+48,100,1.8,Female,M,50,Japan,Female,F,34,Faroe Islands,Sales Executive,51618,Junior,6.8,Email,2025-05-01,1,5,2025,Spring
+88,88,2.4,Male,F,61,Tonga,Male,F,32,Samoa,Data Analyst,69688,Junior,4.8,Slack,2024-07-28,28,7,2024,Summer
+35,26,2.4,Female,M,65,El Salvador,Female,F,20,British Indian Ocean Territory (Chagos Archipelago),Data Analyst,135363,Junior,7.8,Slack,2024-06-15,15,6,2024,Summer
+83,50,4.8,Female,F,63,Greece,Female,F,47,Belgium,Software Engineer,84791,Lead,2.3,SurveyMonkey,2024-08-13,13,8,2024,Summer
+93,79,5.0,Male,M,43,El Salvador,Female,F,24,Romania,HR Manager,37777,Junior,1.2,Slack,2024-08-23,23,8,2024,Summer
+92,17,2.4,Male,F,23,Malaysia,Male,F,20,Burkina Faso,HR Manager,135655,Lead,8.8,Slack,2024-12-04,4,12,2024,Winter
+88,87,2.1,Female,M,21,Romania,Non-binary,M,45,Korea,DevOps Engineer,103547,Lead,2.4,Teams,2024-10-08,8,10,2024,Autumn
+42,22,3.4,Non-binary,F,54,Spain,Non-binary,F,29,United States Minor Outlying Islands,Sales Executive,48099,Junior,2.4,Email,2025-03-17,17,3,2025,Spring
+96,18,2.3,Non-binary,F,31,Maldives,Female,F,37,Mongolia,Sales Executive,122690,Junior,3.5,SurveyMonkey,2025-02-21,21,2,2025,Winter
+49,89,1.8,Non-binary,F,42,Nepal,Non-binary,M,24,Brazil,Data Analyst,74812,Lead,1.8,Teams,2024-07-21,21,7,2024,Summer
+85,40,3.1,Male,F,38,Montenegro,Non-binary,F,20,Guatemala,Sales Executive,55708,Senior,1.9,Email,2024-07-10,10,7,2024,Summer
+63,75,4.9,Female,F,21,Jersey,Non-binary,M,26,Kuwait,Data Analyst,56083,Junior,9.0,Slack,2025-02-08,8,2,2025,Winter
+72,29,4.6,Non-binary,F,19,Marshall Islands,Male,M,60,Nauru,HR Manager,31042,Junior,6.3,Slack,2024-11-27,27,11,2024,Autumn
+27,98,4.4,Non-binary,M,49,Afghanistan,Male,M,20,Thailand,Software Engineer,71360,Senior,8.2,Slack,2024-09-18,18,9,2024,Autumn
+42,82,2.5,Female,F,55,Saint Helena,Female,M,62,Bahamas,DevOps Engineer,60194,Junior,9.9,SurveyMonkey,2024-11-15,15,11,2024,Autumn
+26,93,2.3,Non-binary,F,62,Marshall Islands,Male,F,55,Argentina,DevOps Engineer,140551,Mid,2.1,Slack,2025-03-19,19,3,2025,Spring
+27,87,2.1,Male,M,53,Malawi,Non-binary,F,41,Congo,Data Analyst,61627,Senior,8.0,Slack,2024-07-08,8,7,2024,Summer
+48,75,2.1,Female,F,23,Congo,Non-binary,M,30,Saint Helena,DevOps Engineer,136824,Junior,3.5,Teams,2024-09-03,3,9,2024,Autumn
+69,49,2.2,Male,M,22,British Indian Ocean Territory (Chagos Archipelago),Male,M,51,Botswana,Data Analyst,121951,Mid,4.7,Teams,2024-08-10,10,8,2024,Summer
+96,18,3.4,Male,M,43,Kazakhstan,Non-binary,F,32,Aruba,Software Engineer,81747,Lead,8.6,Slack,2024-10-08,8,10,2024,Autumn
+56,57,1.2,Non-binary,F,48,Cote d'Ivoire,Male,F,20,Australia,DevOps Engineer,144815,Junior,7.7,Email,2025-03-24,24,3,2025,Spring
+91,83,2.5,Female,M,48,Korea,Non-binary,M,56,United States Minor Outlying Islands,Sales Executive,53891,Senior,5.8,Email,2024-12-16,16,12,2024,Winter
+82,35,4.6,Non-binary,M,60,Bangladesh,Non-binary,F,34,Bosnia and Herzegovina,Sales Executive,92514,Junior,6.1,Slack,2024-09-29,29,9,2024,Autumn
+56,91,1.6,Male,F,40,Montenegro,Non-binary,M,48,Armenia,DevOps Engineer,135457,Lead,1.5,Email,2024-11-27,27,11,2024,Autumn
+99,46,1.4,Non-binary,F,63,Japan,Non-binary,F,35,Saint Vincent and the Grenadines,Software Engineer,141147,Junior,6.8,SurveyMonkey,2024-08-05,5,8,2024,Summer
+42,51,4.6,Female,F,64,Macao,Female,F,55,India,DevOps Engineer,133945,Mid,6.5,Google Forms,2024-12-04,4,12,2024,Winter
+61,88,2.7,Female,M,36,Vanuatu,Non-binary,F,22,Sao Tome and Principe,HR Manager,31370,Junior,3.5,SurveyMonkey,2024-10-22,22,10,2024,Autumn
+83,29,1.9,Non-binary,M,65,Cyprus,Non-binary,F,29,Canada,Software Engineer,61131,Lead,8.3,Teams,2025-03-20,20,3,2025,Spring
+20,37,4.0,Non-binary,M,22,Marshall Islands,Female,M,60,Greenland,Data Analyst,45238,Senior,5.8,Email,2025-04-20,20,4,2025,Spring
+37,67,3.1,Male,F,41,Dominica,Female,F,23,Saint Lucia,HR Manager,70249,Lead,1.5,Teams,2024-07-09,9,7,2024,Summer
+89,72,4.4,Female,M,53,Niue,Female,M,56,Sao Tome and Principe,Sales Executive,38109,Lead,2.3,Google Forms,2024-06-14,14,6,2024,Summer
+23,84,2.5,Male,F,61,Cambodia,Non-binary,M,28,Lesotho,Sales Executive,49252,Junior,5.8,Teams,2025-02-18,18,2,2025,Winter
+95,20,2.7,Male,M,27,Guadeloupe,Non-binary,M,50,Albania,Sales Executive,149523,Mid,4.2,SurveyMonkey,2024-07-13,13,7,2024,Summer
+31,40,4.2,Non-binary,F,35,American Samoa,Male,M,58,Dominican Republic,Data Analyst,70895,Junior,7.2,Slack,2025-02-13,13,2,2025,Winter
+83,55,3.6,Non-binary,M,37,Pakistan,Female,M,31,Samoa,Sales Executive,118623,Mid,6.9,Teams,2024-09-18,18,9,2024,Autumn
+45,35,4.4,Female,F,38,Bhutan,Male,M,30,Belgium,Data Analyst,147744,Lead,2.9,SurveyMonkey,2024-06-22,22,6,2024,Summer
+53,32,2.9,Male,F,28,Grenada,Male,F,40,Tanzania,DevOps Engineer,55925,Senior,5.0,Teams,2025-04-02,2,4,2025,Spring
+24,28,4.4,Male,M,35,Yemen,Non-binary,M,64,Iceland,DevOps Engineer,67934,Senior,8.1,SurveyMonkey,2024-07-16,16,7,2024,Summer
+24,89,3.7,Female,F,33,Greece,Female,F,24,Fiji,Sales Executive,115472,Junior,8.4,Slack,2024-07-03,3,7,2024,Summer
+99,67,1.5,Non-binary,M,51,Belgium,Non-binary,M,27,Taiwan,HR Manager,35506,Mid,8.1,SurveyMonkey,2024-12-09,9,12,2024,Winter
+73,36,1.7,Male,M,57,Palau,Female,M,53,Seychelles,HR Manager,74533,Lead,1.2,SurveyMonkey,2024-11-11,11,11,2024,Autumn
+93,94,5.0,Male,F,36,Tunisia,Male,F,60,Tuvalu,Data Analyst,76003,Lead,1.2,Slack,2025-01-28,28,1,2025,Winter
+35,62,5.0,Male,M,21,Benin,Non-binary,M,28,Cote d'Ivoire,Data Analyst,112423,Lead,2.7,Google Forms,2024-12-14,14,12,2024,Winter
+30,52,2.2,Non-binary,M,32,Holy See (Vatican City State),Male,M,50,Cayman Islands,Sales Executive,89823,Senior,8.4,Slack,2024-11-03,3,11,2024,Autumn
+36,94,4.4,Male,F,32,Sri Lanka,Male,M,63,Bulgaria,DevOps Engineer,63153,Junior,9.2,SurveyMonkey,2024-11-25,25,11,2024,Autumn
+77,22,2.4,Male,M,25,Mozambique,Female,F,64,Nauru,Data Analyst,56859,Lead,6.6,Email,2025-02-01,1,2,2025,Winter
+60,97,4.6,Male,M,41,Germany,Non-binary,M,30,Solomon Islands,HR Manager,87874,Junior,1.1,Teams,2025-02-11,11,2,2025,Winter
+23,64,4.7,Female,F,45,Tokelau,Non-binary,M,60,Mauritius,HR Manager,44364,Senior,2.5,Teams,2024-05-22,22,5,2024,Spring
+46,59,5.0,Male,F,65,Martinique,Male,M,22,Tajikistan,Data Analyst,64723,Lead,2.4,Slack,2025-01-09,9,1,2025,Winter
+49,93,4.9,Female,M,24,Nigeria,Non-binary,F,19,Tajikistan,Software Engineer,46121,Senior,9.2,Slack,2024-05-20,20,5,2024,Spring
+83,70,4.1,Non-binary,F,40,Italy,Male,M,54,Zambia,DevOps Engineer,144178,Senior,2.4,Google Forms,2024-12-18,18,12,2024,Winter
+65,78,2.9,Male,F,45,Nigeria,Non-binary,F,61,Lesotho,Data Analyst,76409,Senior,9.4,Email,2025-02-22,22,2,2025,Winter
+28,27,3.0,Male,F,32,Sudan,Female,F,60,Namibia,HR Manager,43852,Mid,7.2,SurveyMonkey,2025-02-26,26,2,2025,Winter
+50,83,1.3,Female,M,56,Seychelles,Non-binary,M,29,Montserrat,DevOps Engineer,42175,Mid,8.1,Google Forms,2024-06-21,21,6,2024,Summer
+43,31,4.9,Non-binary,F,58,Austria,Female,F,27,Azerbaijan,DevOps Engineer,102907,Mid,2.1,SurveyMonkey,2024-06-08,8,6,2024,Summer
+86,71,4.2,Male,F,45,Vietnam,Female,M,35,Anguilla,DevOps Engineer,34825,Mid,7.0,Email,2024-09-13,13,9,2024,Autumn
+48,45,2.3,Non-binary,M,25,San Marino,Female,F,48,Netherlands,HR Manager,123610,Lead,9.5,SurveyMonkey,2025-04-14,14,4,2025,Spring
+52,32,1.6,Male,F,37,Mayotte,Non-binary,F,27,Slovenia,Sales Executive,109791,Mid,1.8,Teams,2025-03-31,31,3,2025,Spring
+50,29,4.1,Non-binary,M,51,Zimbabwe,Female,M,34,Liberia,Data Analyst,60396,Mid,4.7,Teams,2025-04-13,13,4,2025,Spring
+32,38,1.6,Non-binary,M,21,Uruguay,Female,F,33,Bulgaria,Sales Executive,100010,Senior,2.6,Teams,2024-06-08,8,6,2024,Summer
+89,26,1.2,Female,F,54,New Caledonia,Female,F,27,Papua New Guinea,Software Engineer,112637,Mid,5.1,SurveyMonkey,2024-10-17,17,10,2024,Autumn
+94,72,1.2,Male,F,33,Qatar,Female,F,52,Cameroon,Data Analyst,119788,Mid,5.7,Teams,2024-07-11,11,7,2024,Summer
+45,15,4.6,Female,F,27,South Georgia and the South Sandwich Islands,Female,F,57,Albania,Sales Executive,40245,Junior,9.7,Google Forms,2025-02-13,13,2,2025,Winter
+100,48,3.1,Male,F,51,Somalia,Male,M,28,Azerbaijan,HR Manager,36111,Senior,3.9,Google Forms,2024-07-26,26,7,2024,Summer
+62,55,1.3,Non-binary,M,19,Hong Kong,Female,M,36,Fiji,Software Engineer,146763,Senior,7.7,Teams,2024-12-16,16,12,2024,Winter
+23,84,2.8,Female,F,53,Saint Helena,Female,M,33,Oman,HR Manager,138020,Lead,4.3,Teams,2025-01-08,8,1,2025,Winter
+64,88,4.6,Non-binary,M,62,Kazakhstan,Female,F,64,Somalia,Software Engineer,116743,Junior,8.3,Slack,2025-01-31,31,1,2025,Winter
+64,59,4.0,Male,M,63,Antarctica (the territory South of 60 deg S),Female,F,56,Singapore,DevOps Engineer,65046,Senior,2.2,Google Forms,2025-03-17,17,3,2025,Spring
+22,21,4.0,Male,M,59,Anguilla,Female,F,19,Colombia,DevOps Engineer,77690,Junior,3.5,Google Forms,2024-12-06,6,12,2024,Winter
+93,91,3.5,Male,F,22,Turks and Caicos Islands,Female,F,28,Brazil,Data Analyst,74564,Lead,6.4,SurveyMonkey,2025-02-18,18,2,2025,Winter
+57,70,2.7,Female,M,29,Georgia,Male,F,49,Mexico,Sales Executive,53756,Senior,3.5,SurveyMonkey,2025-04-12,12,4,2025,Spring
+78,90,4.4,Male,F,29,Poland,Male,F,25,Georgia,DevOps Engineer,63758,Lead,5.1,SurveyMonkey,2025-03-24,24,3,2025,Spring
+36,94,2.9,Male,M,46,Netherlands,Female,F,35,French Southern Territories,DevOps Engineer,64256,Mid,1.0,Email,2024-12-09,9,12,2024,Winter
+44,54,3.6,Non-binary,F,46,Guinea,Female,F,45,Mauritius,HR Manager,127794,Mid,3.8,Teams,2024-07-05,5,7,2024,Summer
+79,75,4.8,Non-binary,M,35,Congo,Female,F,37,Poland,Sales Executive,66061,Lead,6.7,Email,2025-02-04,4,2,2025,Winter
+40,52,3.3,Non-binary,M,42,Argentina,Male,F,65,Egypt,DevOps Engineer,96131,Lead,1.4,Email,2024-08-14,14,8,2024,Summer
+67,79,4.3,Male,M,52,Indonesia,Female,F,53,Turks and Caicos Islands,Software Engineer,31733,Junior,8.0,SurveyMonkey,2025-04-30,30,4,2025,Spring
+59,38,2.7,Female,M,27,Cocos (Keeling) Islands,Female,M,50,Lebanon,HR Manager,72337,Junior,7.0,Teams,2024-07-12,12,7,2024,Summer
+98,17,4.2,Non-binary,F,52,Kuwait,Male,M,56,Congo,HR Manager,99303,Lead,6.8,Teams,2024-10-29,29,10,2024,Autumn
+94,91,4.0,Female,M,53,Guadeloupe,Non-binary,M,59,Marshall Islands,Sales Executive,81213,Lead,5.9,SurveyMonkey,2024-10-21,21,10,2024,Autumn
+50,81,4.6,Male,M,29,Luxembourg,Male,M,52,Bolivia,Data Analyst,86886,Senior,9.3,Teams,2024-07-16,16,7,2024,Summer
+41,65,4.6,Non-binary,F,29,Gabon,Female,M,46,Latvia,Software Engineer,44895,Lead,3.8,Google Forms,2025-03-19,19,3,2025,Spring
+91,78,4.4,Non-binary,M,60,Guatemala,Male,M,44,Netherlands,DevOps Engineer,52213,Lead,5.3,SurveyMonkey,2025-03-22,22,3,2025,Spring
+89,59,3.4,Non-binary,M,51,Angola,Non-binary,F,47,Bolivia,Software Engineer,141495,Lead,2.7,Email,2024-08-07,7,8,2024,Summer
+64,92,4.9,Female,M,30,Lebanon,Male,F,19,Togo,HR Manager,111514,Lead,5.4,Google Forms,2024-07-24,24,7,2024,Summer
+92,66,1.0,Female,M,33,Guyana,Non-binary,M,20,Colombia,HR Manager,30037,Senior,9.9,Google Forms,2024-05-31,31,5,2024,Spring
+96,93,3.1,Male,F,62,Niger,Non-binary,M,44,Sao Tome and Principe,Software Engineer,67866,Mid,6.1,Google Forms,2025-01-02,2,1,2025,Winter
+32,40,3.0,Female,M,60,Grenada,Non-binary,M,60,Benin,DevOps Engineer,47566,Mid,3.5,Teams,2025-03-13,13,3,2025,Spring
+100,18,4.6,Female,F,21,Armenia,Non-binary,M,23,Suriname,Data Analyst,107762,Lead,9.5,Slack,2024-11-07,7,11,2024,Autumn
+51,72,3.4,Non-binary,F,35,Bahamas,Non-binary,M,30,Peru,HR Manager,121322,Senior,1.3,Slack,2024-06-13,13,6,2024,Summer
+59,28,5.0,Female,F,21,Paraguay,Female,M,49,Venezuela,Data Analyst,88562,Lead,3.0,Google Forms,2025-04-20,20,4,2025,Spring
+21,33,3.2,Female,F,44,Panama,Female,M,38,Saudi Arabia,DevOps Engineer,73313,Lead,3.3,SurveyMonkey,2024-05-24,24,5,2024,Spring
+70,34,2.9,Non-binary,M,19,Mongolia,Male,M,41,Gambia,Data Analyst,116484,Senior,1.5,Google Forms,2024-11-23,23,11,2024,Autumn
+92,69,3.1,Female,M,27,Solomon Islands,Male,F,42,Moldova,Sales Executive,50369,Junior,9.1,SurveyMonkey,2025-03-23,23,3,2025,Spring
+89,46,3.6,Female,M,58,Qatar,Non-binary,F,28,Nicaragua,Data Analyst,51510,Mid,1.9,Google Forms,2025-02-21,21,2,2025,Winter
+55,83,1.3,Male,F,30,British Virgin Islands,Male,F,47,Saint Kitts and Nevis,Software Engineer,59146,Lead,6.3,Google Forms,2024-07-12,12,7,2024,Summer
+52,61,3.2,Female,F,50,Cuba,Male,F,24,Monaco,Data Analyst,55641,Mid,1.9,Slack,2024-12-10,10,12,2024,Winter
+53,50,3.6,Female,F,40,Barbados,Female,M,64,Antigua and Barbuda,Sales Executive,131444,Lead,4.2,Slack,2025-02-12,12,2,2025,Winter
+92,39,4.5,Female,F,23,Greenland,Non-binary,M,18,Germany,HR Manager,54199,Junior,5.5,Teams,2025-04-29,29,4,2025,Spring
+99,89,1.1,Non-binary,M,27,Reunion,Male,M,44,Antarctica (the territory South of 60 deg S),Data Analyst,125443,Senior,7.0,Email,2024-11-28,28,11,2024,Autumn
+47,90,3.9,Non-binary,M,18,American Samoa,Female,M,60,Mongolia,Data Analyst,58519,Junior,2.3,Slack,2024-06-06,6,6,2024,Summer
+70,59,4.5,Non-binary,F,42,Greenland,Male,M,49,Saint Martin,DevOps Engineer,44964,Mid,6.4,Slack,2025-05-03,3,5,2025,Spring
+80,98,4.0,Non-binary,F,21,Swaziland,Male,F,65,Timor-Leste,Software Engineer,126147,Junior,9.3,Google Forms,2024-09-10,10,9,2024,Autumn
+25,51,4.8,Female,F,41,Tanzania,Female,F,46,Gambia,DevOps Engineer,76319,Junior,5.5,Teams,2024-07-08,8,7,2024,Summer
+47,31,2.2,Male,F,36,Latvia,Non-binary,F,38,Sudan,Data Analyst,56112,Lead,9.5,Slack,2024-06-24,24,6,2024,Summer
+89,24,3.0,Non-binary,F,58,Antigua and Barbuda,Non-binary,F,31,Timor-Leste,Software Engineer,78806,Mid,9.2,Teams,2024-09-16,16,9,2024,Autumn
+45,66,2.6,Non-binary,F,35,Ethiopia,Female,M,34,Russian Federation,HR Manager,58872,Lead,1.6,Teams,2024-11-06,6,11,2024,Autumn
+76,74,3.9,Non-binary,M,45,Yemen,Female,M,39,Dominica,Data Analyst,35336,Mid,6.4,SurveyMonkey,2025-03-25,25,3,2025,Spring
+96,57,2.1,Female,M,65,Latvia,Non-binary,F,35,American Samoa,Sales Executive,125985,Senior,1.2,SurveyMonkey,2025-03-18,18,3,2025,Spring
+41,54,4.2,Female,F,29,Ethiopia,Female,M,46,Armenia,Software Engineer,109176,Senior,6.3,Email,2024-10-16,16,10,2024,Autumn
+35,99,3.5,Male,M,35,Northern Mariana Islands,Male,F,61,Netherlands Antilles,Sales Executive,127806,Lead,9.6,Slack,2024-06-10,10,6,2024,Summer
+76,51,1.8,Male,M,21,Albania,Non-binary,M,40,Saint Lucia,HR Manager,80678,Junior,2.8,Email,2025-03-22,22,3,2025,Spring
+23,74,2.7,Non-binary,M,51,Mexico,Non-binary,F,45,Zimbabwe,HR Manager,32600,Junior,5.8,SurveyMonkey,2025-03-08,8,3,2025,Spring
+89,25,2.9,Non-binary,F,24,French Guiana,Non-binary,F,28,Gambia,Software Engineer,108750,Junior,5.9,Google Forms,2024-11-01,1,11,2024,Autumn
+89,23,5.0,Male,M,21,Aruba,Non-binary,F,38,Uzbekistan,Sales Executive,118439,Mid,4.5,SurveyMonkey,2024-09-16,16,9,2024,Autumn
+81,87,4.3,Male,M,37,Serbia,Male,M,41,Bhutan,HR Manager,31681,Mid,1.2,Email,2024-08-05,5,8,2024,Summer
+30,24,4.4,Non-binary,M,25,Equatorial Guinea,Male,M,19,Lithuania,DevOps Engineer,123857,Mid,5.8,Slack,2025-03-24,24,3,2025,Spring
+92,35,2.2,Non-binary,F,26,Tajikistan,Non-binary,F,44,Saint Barthelemy,Sales Executive,124540,Senior,7.2,Slack,2025-04-27,27,4,2025,Spring
+83,33,1.1,Female,M,25,Sri Lanka,Non-binary,M,29,Macao,Sales Executive,76959,Senior,6.3,SurveyMonkey,2025-01-06,6,1,2025,Winter
+97,71,1.4,Male,F,64,Namibia,Male,F,38,Saint Pierre and Miquelon,DevOps Engineer,145394,Mid,5.2,SurveyMonkey,2024-11-13,13,11,2024,Autumn
+59,41,2.6,Non-binary,M,20,Congo,Non-binary,F,64,Solomon Islands,Software Engineer,128549,Mid,4.6,Teams,2024-08-10,10,8,2024,Summer
+77,23,4.8,Male,M,42,Philippines,Male,M,27,Iran,Data Analyst,46616,Senior,5.2,Slack,2025-03-19,19,3,2025,Spring
+67,77,3.2,Non-binary,M,24,United States Virgin Islands,Male,M,31,Tuvalu,Sales Executive,77123,Mid,1.5,Email,2024-06-17,17,6,2024,Summer
+76,21,2.4,Female,F,56,Eritrea,Female,F,28,Qatar,HR Manager,131275,Senior,7.1,Email,2024-06-12,12,6,2024,Summer
+61,86,3.5,Female,F,27,China,Non-binary,M,28,Cyprus,Data Analyst,130870,Senior,4.7,Google Forms,2025-03-20,20,3,2025,Spring
+86,16,4.5,Female,M,24,Nauru,Female,M,51,Cameroon,Data Analyst,84312,Mid,7.2,Slack,2024-09-29,29,9,2024,Autumn
+88,55,2.0,Male,F,26,Antarctica (the territory South of 60 deg S),Male,F,23,Palau,HR Manager,60048,Junior,5.3,Email,2025-01-07,7,1,2025,Winter
+94,44,1.6,Female,M,28,Saint Vincent and the Grenadines,Female,M,41,Colombia,Software Engineer,122031,Junior,3.1,Teams,2024-07-12,12,7,2024,Summer
+26,42,4.4,Non-binary,M,59,Somalia,Female,M,54,Sri Lanka,Software Engineer,99148,Senior,5.9,Slack,2025-04-16,16,4,2025,Spring
+94,74,1.3,Male,F,50,Solomon Islands,Non-binary,F,45,Yemen,Data Analyst,84011,Senior,2.1,Google Forms,2025-01-28,28,1,2025,Winter
+69,25,3.8,Female,F,59,Samoa,Male,F,48,Kiribati,DevOps Engineer,49541,Lead,1.5,Teams,2025-03-23,23,3,2025,Spring
+49,41,2.1,Male,F,45,Burkina Faso,Male,M,19,Zimbabwe,DevOps Engineer,118230,Junior,3.3,Email,2024-09-26,26,9,2024,Autumn
+85,35,4.5,Male,F,54,Antarctica (the territory South of 60 deg S),Non-binary,M,39,Benin,DevOps Engineer,93358,Senior,9.0,Teams,2024-09-06,6,9,2024,Autumn
+97,38,4.5,Female,M,47,Korea,Non-binary,M,57,Hungary,Sales Executive,42058,Mid,4.2,Slack,2025-03-03,3,3,2025,Spring
+69,75,3.0,Male,F,47,Jordan,Male,M,21,Lithuania,HR Manager,74351,Lead,8.5,Google Forms,2024-11-02,2,11,2024,Autumn
+98,68,1.1,Female,F,65,Nicaragua,Non-binary,F,23,Yemen,Sales Executive,72760,Mid,5.7,SurveyMonkey,2025-03-08,8,3,2025,Spring
+28,64,1.6,Male,M,48,Taiwan,Non-binary,F,44,Georgia,DevOps Engineer,88292,Mid,8.2,Teams,2025-03-10,10,3,2025,Spring
+59,90,4.7,Male,F,36,Uzbekistan,Male,M,55,Portugal,Software Engineer,100083,Senior,6.6,Google Forms,2024-08-11,11,8,2024,Summer
+61,97,4.2,Male,M,23,Libyan Arab Jamahiriya,Non-binary,M,18,Samoa,HR Manager,35160,Senior,8.8,Teams,2024-08-21,21,8,2024,Summer
+92,68,2.4,Non-binary,M,44,Suriname,Female,M,49,Finland,HR Manager,122106,Junior,3.5,Email,2024-07-27,27,7,2024,Summer
+49,82,1.8,Non-binary,M,38,Indonesia,Male,F,40,Saint Barthelemy,Data Analyst,56423,Lead,9.0,Google Forms,2025-03-14,14,3,2025,Spring
+38,67,4.9,Female,F,28,Palau,Male,F,29,Georgia,Sales Executive,123675,Lead,8.1,Email,2025-01-06,6,1,2025,Winter
+50,77,1.2,Female,F,49,Saudi Arabia,Male,M,30,Grenada,DevOps Engineer,128655,Senior,5.9,Slack,2024-11-05,5,11,2024,Autumn
+81,52,1.7,Female,M,37,Guernsey,Male,M,56,Ireland,DevOps Engineer,67421,Senior,2.0,Teams,2024-06-24,24,6,2024,Summer
+31,80,2.2,Male,F,27,Angola,Male,M,33,Namibia,HR Manager,85939,Senior,7.1,Slack,2025-01-24,24,1,2025,Winter
+42,48,3.9,Female,F,42,Faroe Islands,Male,M,64,Barbados,HR Manager,118345,Lead,2.5,Email,2024-07-04,4,7,2024,Summer
+53,60,2.0,Non-binary,M,18,Russian Federation,Non-binary,F,64,Benin,HR Manager,115649,Lead,8.3,Teams,2024-07-18,18,7,2024,Summer
+33,83,2.3,Non-binary,F,65,Lebanon,Non-binary,F,52,Sweden,HR Manager,97284,Mid,9.8,Teams,2024-06-10,10,6,2024,Summer
+34,71,4.8,Non-binary,F,64,Guinea,Female,F,52,Mayotte,HR Manager,51145,Junior,4.7,Google Forms,2025-04-09,9,4,2025,Spring
+81,64,4.0,Non-binary,M,50,Australia,Non-binary,M,53,Madagascar,Software Engineer,85548,Mid,8.5,Slack,2024-06-22,22,6,2024,Summer
+73,31,2.0,Male,F,48,Monaco,Non-binary,M,34,Saint Pierre and Miquelon,DevOps Engineer,138309,Junior,9.3,Teams,2024-06-17,17,6,2024,Summer
+43,94,1.3,Female,F,47,French Southern Territories,Female,M,26,Poland,Sales Executive,55304,Junior,3.9,Email,2025-04-05,5,4,2025,Spring
+47,48,3.7,Non-binary,F,63,Uzbekistan,Non-binary,M,34,Austria,Data Analyst,143898,Lead,1.7,Slack,2024-12-31,31,12,2024,Winter
+35,17,4.6,Male,F,52,Cote d'Ivoire,Male,F,42,Nigeria,Data Analyst,105096,Junior,8.5,Google Forms,2024-05-13,13,5,2024,Spring
+40,24,3.0,Female,F,34,Saint Helena,Female,M,31,Madagascar,HR Manager,64147,Lead,4.0,Google Forms,2025-03-20,20,3,2025,Spring
+29,51,3.1,Non-binary,M,37,Gabon,Male,F,36,Lesotho,HR Manager,96894,Lead,6.5,Email,2025-01-01,1,1,2025,Winter
+50,56,4.4,Non-binary,M,31,Central African Republic,Female,M,32,Russian Federation,HR Manager,35552,Junior,8.8,Teams,2024-06-24,24,6,2024,Summer
+35,32,4.1,Non-binary,M,57,Wallis and Futuna,Non-binary,M,38,Yemen,Sales Executive,92891,Junior,5.9,Teams,2025-02-26,26,2,2025,Winter
+93,74,1.4,Male,F,42,Venezuela,Male,M,53,Saint Pierre and Miquelon,DevOps Engineer,57188,Mid,8.7,Slack,2024-05-24,24,5,2024,Spring
+35,89,3.7,Non-binary,M,54,Papua New Guinea,Female,F,30,Tokelau,Software Engineer,49685,Junior,8.1,Google Forms,2024-06-25,25,6,2024,Summer
+40,98,1.3,Non-binary,M,21,Syrian Arab Republic,Non-binary,F,39,Tokelau,HR Manager,106506,Senior,6.1,SurveyMonkey,2025-04-14,14,4,2025,Spring
+87,72,1.5,Non-binary,M,48,Saint Vincent and the Grenadines,Non-binary,M,36,Barbados,Data Analyst,96009,Lead,2.0,Email,2025-02-09,9,2,2025,Winter
+32,62,4.1,Male,F,19,Turkey,Female,M,28,Antigua and Barbuda,HR Manager,58831,Lead,3.7,Google Forms,2025-01-24,24,1,2025,Winter
+53,89,4.7,Female,F,46,Kiribati,Non-binary,F,65,Gibraltar,Software Engineer,96856,Senior,8.5,Google Forms,2025-04-12,12,4,2025,Spring
+47,37,1.1,Non-binary,M,44,Israel,Non-binary,F,33,Bermuda,Sales Executive,94434,Junior,1.2,Google Forms,2024-05-19,19,5,2024,Spring
+79,83,3.3,Male,M,22,Mali,Female,F,23,Western Sahara,DevOps Engineer,137017,Mid,6.4,SurveyMonkey,2024-09-12,12,9,2024,Autumn
+76,25,2.2,Male,F,65,Algeria,Female,F,30,Isle of Man,HR Manager,142415,Mid,8.2,Teams,2025-02-08,8,2,2025,Winter
+60,23,1.1,Female,M,34,Niue,Non-binary,M,65,Spain,HR Manager,138228,Senior,3.8,Email,2025-04-03,3,4,2025,Spring
+27,16,2.6,Non-binary,M,31,American Samoa,Female,F,51,Philippines,DevOps Engineer,97022,Lead,5.2,SurveyMonkey,2024-07-22,22,7,2024,Summer
+91,39,3.0,Male,F,39,Congo,Non-binary,F,27,Guinea,Software Engineer,70990,Mid,2.4,Teams,2024-07-06,6,7,2024,Summer
+81,86,4.2,Male,F,21,Benin,Female,M,53,Lesotho,Data Analyst,94902,Junior,1.5,SurveyMonkey,2024-09-12,12,9,2024,Autumn
+60,87,2.5,Female,F,62,Nigeria,Male,F,41,Denmark,Sales Executive,112297,Senior,8.0,Email,2025-02-27,27,2,2025,Winter
+44,51,2.2,Non-binary,M,41,Lesotho,Non-binary,F,26,Vanuatu,Software Engineer,36684,Mid,5.0,SurveyMonkey,2025-03-01,1,3,2025,Spring
+72,68,1.6,Female,F,59,Nepal,Male,F,36,Belarus,Data Analyst,146498,Junior,9.4,Google Forms,2024-08-20,20,8,2024,Summer
+77,53,3.2,Non-binary,F,48,Luxembourg,Male,M,57,Martinique,Sales Executive,79363,Junior,6.5,SurveyMonkey,2025-01-21,21,1,2025,Winter
+63,60,1.8,Non-binary,M,63,Antigua and Barbuda,Female,M,24,Cook Islands,DevOps Engineer,63800,Senior,8.3,Google Forms,2024-11-07,7,11,2024,Autumn
+51,89,2.7,Non-binary,F,64,Saint Vincent and the Grenadines,Male,F,47,Angola,Sales Executive,119204,Mid,7.1,SurveyMonkey,2024-05-10,10,5,2024,Spring
+92,48,3.8,Male,F,31,Seychelles,Non-binary,F,53,United Arab Emirates,Sales Executive,128103,Junior,9.2,Google Forms,2024-12-15,15,12,2024,Winter
+100,63,1.4,Female,M,58,Morocco,Male,F,62,Marshall Islands,Software Engineer,107788,Senior,9.1,Teams,2025-04-13,13,4,2025,Spring
+75,30,2.8,Female,M,43,Canada,Female,M,51,Belarus,DevOps Engineer,117711,Senior,5.6,Slack,2025-03-31,31,3,2025,Spring
+52,34,3.3,Non-binary,M,23,Pakistan,Female,M,26,Suriname,DevOps Engineer,92675,Mid,8.2,Teams,2025-04-17,17,4,2025,Spring
+58,32,3.7,Female,F,58,Japan,Male,F,46,Lao People's Democratic Republic,DevOps Engineer,45533,Junior,9.0,SurveyMonkey,2024-07-10,10,7,2024,Summer
+66,52,2.2,Female,F,26,Barbados,Non-binary,F,50,Madagascar,HR Manager,54351,Junior,5.7,SurveyMonkey,2024-08-01,1,8,2024,Summer
+75,92,2.5,Non-binary,F,43,Kuwait,Male,F,28,Marshall Islands,Data Analyst,127437,Lead,9.4,Google Forms,2025-05-03,3,5,2025,Spring
+55,77,3.8,Female,F,40,Saint Vincent and the Grenadines,Non-binary,F,37,Ecuador,HR Manager,34113,Junior,3.6,Google Forms,2024-08-02,2,8,2024,Summer
+57,99,1.0,Female,M,23,Guinea-Bissau,Male,M,29,Qatar,Sales Executive,97944,Junior,5.4,Google Forms,2024-12-29,29,12,2024,Winter
+26,48,2.6,Male,F,22,Czech Republic,Non-binary,F,60,Lesotho,DevOps Engineer,114253,Lead,2.8,Email,2024-05-30,30,5,2024,Spring
+46,90,1.2,Female,F,21,Micronesia,Non-binary,F,56,Uganda,Software Engineer,61500,Junior,5.8,Teams,2024-05-10,10,5,2024,Spring
+86,70,2.4,Female,F,56,Cayman Islands,Male,M,56,Saint Barthelemy,Sales Executive,106105,Junior,7.9,Slack,2025-03-25,25,3,2025,Spring
+75,72,1.5,Male,M,46,Jersey,Male,F,31,Guinea-Bissau,Data Analyst,98651,Mid,2.1,Google Forms,2025-03-30,30,3,2025,Spring
+69,55,4.7,Male,F,46,Isle of Man,Non-binary,M,62,Israel,DevOps Engineer,60361,Mid,3.1,Email,2024-12-01,1,12,2024,Winter
+57,38,4.4,Male,M,32,French Southern Territories,Female,M,26,Fiji,Data Analyst,60171,Senior,6.8,Teams,2024-11-30,30,11,2024,Autumn
+66,100,3.4,Male,F,59,Greenland,Male,F,56,Swaziland,DevOps Engineer,92153,Mid,4.5,Google Forms,2025-02-06,6,2,2025,Winter
+87,85,2.6,Female,M,55,Martinique,Male,F,30,Iceland,Sales Executive,66469,Senior,3.5,Google Forms,2025-03-31,31,3,2025,Spring
+68,19,3.1,Non-binary,F,58,Tuvalu,Male,M,53,Latvia,Software Engineer,128285,Junior,8.6,Google Forms,2024-09-04,4,9,2024,Autumn
+44,96,1.3,Female,M,46,Canada,Non-binary,M,25,Puerto Rico,Sales Executive,84457,Junior,5.2,Google Forms,2024-06-22,22,6,2024,Summer
+91,35,3.3,Female,M,27,Kenya,Female,M,49,Reunion,Sales Executive,81189,Senior,2.5,SurveyMonkey,2025-02-21,21,2,2025,Winter
+83,91,3.0,Male,M,22,Montserrat,Male,M,42,American Samoa,HR Manager,40462,Mid,3.6,Slack,2024-06-14,14,6,2024,Summer
+89,74,4.5,Female,M,18,Luxembourg,Male,M,44,Sierra Leone,Data Analyst,92903,Senior,5.9,Google Forms,2024-09-19,19,9,2024,Autumn
+46,34,2.3,Male,F,29,Nepal,Female,F,25,Tuvalu,Sales Executive,75424,Junior,2.9,Teams,2025-03-05,5,3,2025,Spring
+20,69,2.7,Female,M,53,Brazil,Female,M,36,Tuvalu,DevOps Engineer,125792,Junior,6.1,SurveyMonkey,2025-03-01,1,3,2025,Spring
+42,40,2.3,Male,M,26,Poland,Male,M,47,Guatemala,DevOps Engineer,48679,Lead,9.1,SurveyMonkey,2024-10-31,31,10,2024,Autumn
+51,54,3.9,Female,M,32,Vietnam,Male,M,36,Central African Republic,Software Engineer,95056,Lead,3.0,Google Forms,2024-09-30,30,9,2024,Autumn
+77,50,4.7,Non-binary,F,51,Monaco,Male,F,51,Russian Federation,DevOps Engineer,37294,Senior,7.4,Google Forms,2024-05-18,18,5,2024,Spring
+33,94,2.8,Non-binary,M,21,Equatorial Guinea,Non-binary,F,30,Burundi,Sales Executive,37187,Junior,5.8,Email,2024-06-17,17,6,2024,Summer
+61,15,4.0,Non-binary,M,56,Brazil,Non-binary,F,28,American Samoa,HR Manager,144961,Junior,1.8,SurveyMonkey,2024-05-07,7,5,2024,Spring
+88,100,2.8,Male,M,45,Namibia,Male,M,64,Finland,HR Manager,110027,Senior,3.4,Slack,2024-09-15,15,9,2024,Autumn
+75,73,3.1,Female,F,44,Kiribati,Female,M,54,Afghanistan,Data Analyst,130578,Junior,3.1,Slack,2025-01-14,14,1,2025,Winter
+75,84,2.7,Non-binary,F,58,Guadeloupe,Non-binary,M,41,Lao People's Democratic Republic,HR Manager,132687,Mid,5.8,Google Forms,2024-09-20,20,9,2024,Autumn
+39,25,1.8,Female,M,19,Australia,Male,M,31,Botswana,Data Analyst,51804,Senior,6.8,Slack,2024-06-01,1,6,2024,Summer
+83,17,1.4,Female,M,34,United States of America,Female,M,23,Guinea,HR Manager,106739,Junior,6.0,Teams,2024-11-29,29,11,2024,Autumn
+25,69,3.8,Male,F,19,Switzerland,Female,M,35,Cocos (Keeling) Islands,DevOps Engineer,93765,Mid,9.4,Google Forms,2024-07-25,25,7,2024,Summer
+59,24,1.1,Female,F,31,Benin,Male,F,29,Suriname,Software Engineer,87688,Lead,1.4,Email,2025-01-06,6,1,2025,Winter
+82,69,2.0,Male,F,36,Armenia,Non-binary,M,32,Pakistan,DevOps Engineer,143269,Junior,6.8,Email,2025-02-08,8,2,2025,Winter
+74,99,1.4,Male,M,41,Guatemala,Male,M,52,Venezuela,HR Manager,127458,Mid,4.5,Google Forms,2024-05-23,23,5,2024,Spring
+85,63,4.6,Female,M,51,Grenada,Male,F,28,Sierra Leone,Sales Executive,93664,Senior,3.3,Slack,2024-09-25,25,9,2024,Autumn
+44,96,1.1,Non-binary,M,48,Samoa,Female,F,50,Yemen,HR Manager,127046,Junior,7.3,SurveyMonkey,2024-08-04,4,8,2024,Summer
+68,90,1.1,Male,M,57,Mayotte,Female,M,28,British Virgin Islands,HR Manager,140646,Junior,7.2,Email,2024-07-21,21,7,2024,Summer
+88,70,3.7,Non-binary,F,45,Jersey,Non-binary,F,30,Jersey,Software Engineer,148154,Lead,9.8,Slack,2024-06-07,7,6,2024,Summer
+92,28,4.3,Non-binary,M,18,Ecuador,Male,M,28,Brunei Darussalam,HR Manager,56776,Junior,5.4,Slack,2025-03-07,7,3,2025,Spring
+41,63,1.3,Non-binary,M,46,Vietnam,Female,F,64,United States of America,DevOps Engineer,72665,Junior,8.8,Slack,2024-12-04,4,12,2024,Winter
+47,16,4.1,Male,F,51,Botswana,Male,M,47,Angola,Sales Executive,94154,Mid,2.7,Teams,2025-03-30,30,3,2025,Spring
+91,27,3.3,Non-binary,M,38,Iceland,Non-binary,M,43,Northern Mariana Islands,Software Engineer,115271,Junior,4.0,Teams,2024-11-07,7,11,2024,Autumn
+60,59,1.4,Female,F,29,Turkey,Male,M,45,Libyan Arab Jamahiriya,Software Engineer,77974,Mid,1.5,Teams,2024-08-11,11,8,2024,Summer
+50,81,3.6,Female,F,40,Wallis and Futuna,Non-binary,M,47,Congo,HR Manager,95480,Lead,7.1,Google Forms,2024-10-25,25,10,2024,Autumn
+67,94,1.4,Non-binary,F,19,Nicaragua,Non-binary,F,38,Central African Republic,Software Engineer,121709,Mid,5.1,Email,2025-04-27,27,4,2025,Spring
+97,81,2.1,Male,F,54,Nigeria,Male,F,38,Hong Kong,DevOps Engineer,96374,Junior,1.2,SurveyMonkey,2025-01-10,10,1,2025,Winter
+52,50,4.0,Male,F,47,Switzerland,Female,M,32,Jersey,Data Analyst,139534,Mid,6.0,Google Forms,2025-04-03,3,4,2025,Spring
+49,95,3.1,Female,F,44,Cook Islands,Male,F,59,Indonesia,Data Analyst,128522,Senior,8.6,Teams,2024-10-31,31,10,2024,Autumn
+90,21,4.2,Male,F,41,Eritrea,Non-binary,F,34,French Polynesia,Sales Executive,135124,Junior,5.6,SurveyMonkey,2024-12-01,1,12,2024,Winter
+67,99,3.8,Female,M,37,Niue,Female,M,44,Tanzania,Data Analyst,45053,Mid,6.4,Slack,2024-05-31,31,5,2024,Spring
+33,66,3.4,Female,M,48,Niue,Male,F,60,French Southern Territories,DevOps Engineer,33359,Mid,1.0,Slack,2024-08-18,18,8,2024,Summer
+39,46,1.9,Male,F,33,United States Virgin Islands,Female,M,20,United States Minor Outlying Islands,Data Analyst,36845,Mid,4.7,Teams,2024-12-05,5,12,2024,Winter
+64,52,4.2,Male,F,20,Mongolia,Male,M,34,Suriname,HR Manager,115927,Senior,8.1,Teams,2024-06-29,29,6,2024,Summer
+86,63,4.8,Female,M,32,United Kingdom,Non-binary,F,46,Reunion,Data Analyst,45667,Mid,2.3,SurveyMonkey,2024-07-31,31,7,2024,Summer
+23,18,2.9,Female,M,34,Papua New Guinea,Female,F,56,Malaysia,Sales Executive,92522,Senior,5.4,Google Forms,2024-08-02,2,8,2024,Summer
+32,71,4.4,Female,F,40,Algeria,Non-binary,M,22,Saint Barthelemy,Data Analyst,142466,Lead,6.6,Email,2024-08-29,29,8,2024,Summer
+96,47,3.7,Non-binary,M,40,Egypt,Male,M,65,Morocco,Sales Executive,44433,Lead,7.3,Email,2025-05-04,4,5,2025,Spring
+26,97,3.2,Female,M,31,Guinea,Female,F,45,Saint Barthelemy,DevOps Engineer,47497,Mid,9.4,Slack,2024-10-02,2,10,2024,Autumn
+63,89,2.3,Male,M,43,Niger,Female,F,25,Cameroon,HR Manager,55407,Senior,3.9,Slack,2025-03-13,13,3,2025,Spring
+85,76,3.8,Non-binary,M,18,Nepal,Non-binary,F,32,Brazil,HR Manager,65460,Senior,5.8,Teams,2024-09-18,18,9,2024,Autumn
+94,74,3.2,Non-binary,M,27,Macao,Female,F,21,Central African Republic,Sales Executive,68210,Mid,2.6,Google Forms,2024-12-16,16,12,2024,Winter
+42,53,1.2,Non-binary,F,47,Turkmenistan,Non-binary,F,22,Namibia,DevOps Engineer,59564,Senior,2.7,Teams,2025-04-26,26,4,2025,Spring
+30,49,3.5,Male,F,39,Belgium,Male,F,49,Dominican Republic,Data Analyst,40551,Senior,1.6,SurveyMonkey,2024-06-09,9,6,2024,Summer
+48,34,2.6,Male,M,65,Malawi,Female,M,33,Heard Island and McDonald Islands,Data Analyst,82730,Lead,2.3,Email,2024-06-29,29,6,2024,Summer
+96,100,1.8,Non-binary,F,29,Brunei Darussalam,Female,F,53,Brazil,DevOps Engineer,112043,Junior,3.7,SurveyMonkey,2025-04-14,14,4,2025,Spring
+35,87,4.5,Female,M,53,Guyana,Female,M,18,Croatia,Data Analyst,53749,Mid,5.4,Google Forms,2024-06-17,17,6,2024,Summer
+58,58,2.1,Non-binary,M,20,Saudi Arabia,Non-binary,M,48,Cambodia,HR Manager,80299,Lead,9.5,Teams,2024-11-27,27,11,2024,Autumn
+54,89,3.4,Non-binary,F,56,Malawi,Non-binary,M,37,Austria,DevOps Engineer,123881,Lead,9.0,Slack,2025-04-17,17,4,2025,Spring
+35,25,3.1,Male,F,49,Indonesia,Non-binary,F,42,Swaziland,Sales Executive,102552,Senior,3.5,Slack,2025-04-21,21,4,2025,Spring
+51,71,1.1,Male,M,33,Comoros,Male,M,64,Belarus,Data Analyst,62196,Mid,8.4,Slack,2024-05-20,20,5,2024,Spring
+80,57,5.0,Non-binary,M,45,Cambodia,Male,M,48,Iraq,Software Engineer,117537,Lead,2.6,SurveyMonkey,2025-02-25,25,2,2025,Winter
+40,96,4.2,Male,F,52,Denmark,Female,M,23,Comoros,DevOps Engineer,52299,Junior,5.3,Google Forms,2025-04-30,30,4,2025,Spring
+76,51,3.7,Male,M,41,Tajikistan,Male,F,37,Bolivia,DevOps Engineer,61596,Junior,6.9,Teams,2025-02-18,18,2,2025,Winter
+70,33,3.3,Female,M,41,Palau,Non-binary,M,61,Finland,Sales Executive,134863,Senior,5.0,Google Forms,2024-07-07,7,7,2024,Summer
+66,23,4.1,Female,F,59,Thailand,Female,M,36,Israel,Software Engineer,135333,Senior,6.1,Teams,2024-10-16,16,10,2024,Autumn
+41,28,1.8,Non-binary,F,43,Sweden,Non-binary,F,18,Peru,Software Engineer,145200,Senior,7.2,SurveyMonkey,2025-03-29,29,3,2025,Spring
+62,100,1.4,Non-binary,F,51,Netherlands Antilles,Non-binary,M,55,Canada,Sales Executive,128961,Senior,6.1,SurveyMonkey,2024-12-19,19,12,2024,Winter
+86,54,2.4,Female,M,24,Lao People's Democratic Republic,Male,M,38,Singapore,HR Manager,67578,Mid,9.8,SurveyMonkey,2024-05-28,28,5,2024,Spring
+64,43,4.4,Female,F,21,Cook Islands,Non-binary,F,45,Guatemala,DevOps Engineer,42395,Senior,4.6,Teams,2024-06-24,24,6,2024,Summer
+85,22,2.7,Non-binary,F,37,Honduras,Male,M,30,Kiribati,Data Analyst,58489,Senior,8.7,Teams,2024-06-09,9,6,2024,Summer
+20,25,3.9,Male,F,57,Iceland,Non-binary,M,43,Vanuatu,Data Analyst,38804,Senior,2.5,SurveyMonkey,2024-07-28,28,7,2024,Summer
+49,46,4.8,Male,F,50,Samoa,Female,M,39,Heard Island and McDonald Islands,DevOps Engineer,147181,Senior,5.4,Slack,2024-10-05,5,10,2024,Autumn
+97,87,1.5,Male,M,65,New Zealand,Female,F,57,Maldives,Software Engineer,48964,Lead,9.0,Google Forms,2024-12-01,1,12,2024,Winter
+78,39,3.8,Non-binary,F,32,Lithuania,Non-binary,F,24,Greenland,HR Manager,30553,Senior,6.9,Google Forms,2024-12-03,3,12,2024,Winter
+89,33,3.8,Non-binary,F,28,Montenegro,Female,F,26,Tanzania,Software Engineer,57161,Lead,1.6,Google Forms,2024-12-11,11,12,2024,Winter
+32,81,1.8,Male,M,25,Antarctica (the territory South of 60 deg S),Female,F,55,Mozambique,Sales Executive,128098,Lead,3.3,SurveyMonkey,2025-01-29,29,1,2025,Winter
+82,51,3.3,Female,F,40,Japan,Male,M,52,Poland,Software Engineer,84554,Lead,4.5,Slack,2024-11-19,19,11,2024,Autumn
+59,25,3.5,Male,M,44,Antigua and Barbuda,Female,F,41,Pakistan,Sales Executive,51924,Mid,4.9,Slack,2024-05-19,19,5,2024,Spring
+69,87,2.5,Female,F,56,Svalbard & Jan Mayen Islands,Non-binary,F,56,India,Data Analyst,32400,Lead,1.8,SurveyMonkey,2025-01-08,8,1,2025,Winter
+24,79,1.7,Male,M,18,Cote d'Ivoire,Female,F,19,Iceland,Software Engineer,149895,Mid,1.1,Email,2025-02-24,24,2,2025,Winter
+98,17,3.5,Female,M,30,Tokelau,Male,M,18,Kuwait,DevOps Engineer,143082,Mid,8.6,SurveyMonkey,2024-07-17,17,7,2024,Summer
+81,69,2.3,Non-binary,M,62,Netherlands Antilles,Female,F,50,Hungary,HR Manager,61371,Mid,9.4,Google Forms,2025-01-14,14,1,2025,Winter
+44,76,1.1,Non-binary,M,40,Heard Island and McDonald Islands,Female,F,18,Western Sahara,Sales Executive,121036,Senior,5.6,Google Forms,2025-03-10,10,3,2025,Spring
+30,45,3.4,Female,M,50,Cape Verde,Female,F,26,Liberia,Sales Executive,139806,Senior,3.2,Slack,2025-02-13,13,2,2025,Winter
+52,77,3.4,Non-binary,F,30,Ireland,Female,F,52,Turkey,Sales Executive,96122,Lead,7.2,Slack,2024-08-02,2,8,2024,Summer
+91,61,1.8,Female,F,47,Rwanda,Male,M,37,Brazil,Sales Executive,91581,Junior,7.5,Teams,2024-12-29,29,12,2024,Winter
+94,28,2.3,Male,F,25,Sao Tome and Principe,Male,M,33,Fiji,Data Analyst,78365,Junior,2.4,Email,2024-05-22,22,5,2024,Spring
+22,28,2.4,Non-binary,M,38,Mayotte,Non-binary,M,65,Bermuda,Software Engineer,67795,Lead,2.2,Email,2024-08-14,14,8,2024,Summer
+97,21,2.3,Non-binary,M,34,Papua New Guinea,Non-binary,F,40,Haiti,Data Analyst,128250,Mid,1.3,SurveyMonkey,2025-04-09,9,4,2025,Spring
+68,25,4.9,Non-binary,F,47,Algeria,Non-binary,F,61,Lao People's Democratic Republic,Data Analyst,146687,Senior,6.4,Teams,2024-12-03,3,12,2024,Winter
+77,56,3.3,Non-binary,M,58,Panama,Male,F,40,Marshall Islands,HR Manager,147230,Junior,4.9,Teams,2024-07-09,9,7,2024,Summer
+75,89,4.1,Female,M,49,Guam,Female,M,46,Denmark,Software Engineer,126493,Mid,1.0,Email,2024-07-17,17,7,2024,Summer
+47,100,1.8,Female,M,41,Malaysia,Male,F,18,Norfolk Island,Software Engineer,88535,Lead,5.1,Google Forms,2024-10-26,26,10,2024,Autumn
+37,28,3.3,Female,M,26,Denmark,Male,M,29,Cuba,Software Engineer,33785,Mid,4.9,Google Forms,2024-07-25,25,7,2024,Summer
+87,87,3.5,Male,F,30,Bolivia,Non-binary,M,24,Albania,Data Analyst,88033,Senior,1.6,SurveyMonkey,2025-01-17,17,1,2025,Winter
+31,21,2.5,Non-binary,F,61,Saint Barthelemy,Non-binary,M,24,Afghanistan,HR Manager,71648,Mid,3.7,Teams,2025-01-13,13,1,2025,Winter
+67,27,3.4,Male,M,24,Sao Tome and Principe,Non-binary,M,38,Angola,HR Manager,99145,Lead,7.9,Email,2025-04-22,22,4,2025,Spring
+72,96,3.5,Non-binary,M,32,Benin,Female,M,35,Cape Verde,Sales Executive,137054,Junior,5.3,Google Forms,2024-05-10,10,5,2024,Spring
+39,42,1.3,Non-binary,F,38,American Samoa,Non-binary,M,38,France,Data Analyst,53051,Lead,1.5,Slack,2024-07-17,17,7,2024,Summer
+61,63,1.6,Female,M,36,Liberia,Female,M,35,Niue,Sales Executive,80808,Junior,3.0,Email,2024-08-13,13,8,2024,Summer
+40,82,4.8,Male,M,38,Guinea,Male,F,61,Ukraine,Sales Executive,91588,Senior,6.2,Teams,2024-11-05,5,11,2024,Autumn
+37,74,2.9,Non-binary,F,60,Mongolia,Female,F,59,Turkey,Sales Executive,79865,Senior,8.6,Teams,2025-04-28,28,4,2025,Spring
+37,91,1.7,Female,F,54,Mali,Female,F,40,Mayotte,Data Analyst,30381,Senior,3.7,Slack,2024-09-21,21,9,2024,Autumn
+85,57,1.3,Female,F,53,Austria,Non-binary,F,29,Lesotho,Software Engineer,85419,Lead,6.6,Slack,2025-02-24,24,2,2025,Winter
+74,64,3.9,Female,M,54,Zimbabwe,Male,F,18,American Samoa,HR Manager,109976,Junior,1.8,SurveyMonkey,2024-06-20,20,6,2024,Summer
+35,56,3.7,Non-binary,M,56,Trinidad and Tobago,Female,F,40,Saint Lucia,Sales Executive,117405,Senior,6.4,SurveyMonkey,2025-05-03,3,5,2025,Spring
+33,96,1.6,Male,F,47,Montenegro,Non-binary,F,65,United States Virgin Islands,HR Manager,75026,Lead,9.0,Google Forms,2024-08-28,28,8,2024,Summer
+38,69,2.0,Male,F,25,Korea,Non-binary,F,62,Tokelau,DevOps Engineer,43380,Lead,2.8,SurveyMonkey,2025-01-19,19,1,2025,Winter
+59,21,2.5,Male,M,64,Equatorial Guinea,Non-binary,M,57,Fiji,Sales Executive,84132,Senior,2.3,Google Forms,2024-07-06,6,7,2024,Summer
+75,77,4.4,Male,F,50,Somalia,Male,M,20,Indonesia,HR Manager,105734,Junior,5.5,Google Forms,2024-12-21,21,12,2024,Winter
+28,58,3.2,Male,M,27,South Africa,Female,F,34,Belarus,Software Engineer,64313,Mid,3.1,Slack,2024-08-20,20,8,2024,Summer
+60,73,4.9,Non-binary,F,61,Kyrgyz Republic,Male,F,60,Korea,HR Manager,53000,Junior,3.3,Email,2024-05-22,22,5,2024,Spring
+30,29,4.4,Non-binary,F,30,Moldova,Female,M,60,United Kingdom,Software Engineer,86921,Junior,4.0,Slack,2024-05-28,28,5,2024,Spring
+24,49,2.6,Male,M,59,Greece,Non-binary,F,37,Azerbaijan,Software Engineer,57329,Lead,1.7,Google Forms,2024-11-06,6,11,2024,Autumn
+60,33,3.8,Non-binary,M,43,Japan,Female,M,20,Nigeria,Software Engineer,83537,Senior,3.2,Slack,2024-12-14,14,12,2024,Winter
+88,37,1.5,Non-binary,M,29,Venezuela,Male,M,59,Saint Lucia,Software Engineer,118246,Lead,3.8,Email,2024-10-05,5,10,2024,Autumn
+90,92,3.1,Male,F,59,French Southern Territories,Female,M,45,Bosnia and Herzegovina,Data Analyst,72877,Mid,6.1,Teams,2024-08-13,13,8,2024,Summer
+61,44,4.3,Female,F,37,Saint Pierre and Miquelon,Non-binary,M,30,Cote d'Ivoire,Software Engineer,73179,Mid,9.6,Email,2024-06-03,3,6,2024,Summer
+30,100,4.2,Non-binary,F,49,Turkey,Male,F,63,Barbados,Data Analyst,122400,Lead,7.2,Teams,2025-01-14,14,1,2025,Winter
+70,68,1.8,Female,F,27,Philippines,Female,F,53,Saint Pierre and Miquelon,Software Engineer,93211,Junior,5.5,Slack,2025-02-14,14,2,2025,Winter
+72,37,1.2,Male,F,24,Myanmar,Non-binary,M,27,Niue,HR Manager,60291,Mid,1.5,Teams,2024-09-22,22,9,2024,Autumn
+47,26,3.2,Male,F,26,Congo,Male,F,33,United States Minor Outlying Islands,HR Manager,115856,Mid,6.8,Teams,2024-06-29,29,6,2024,Summer
+96,21,4.9,Male,F,51,Lao People's Democratic Republic,Male,M,24,Northern Mariana Islands,Sales Executive,104473,Senior,2.9,SurveyMonkey,2025-04-09,9,4,2025,Spring
+43,63,4.2,Non-binary,F,29,Costa Rica,Non-binary,F,55,Brunei Darussalam,Software Engineer,143316,Mid,4.5,Slack,2024-08-03,3,8,2024,Summer
+73,34,1.4,Female,M,51,Afghanistan,Non-binary,F,47,Gabon,Sales Executive,86619,Mid,8.9,SurveyMonkey,2025-03-23,23,3,2025,Spring
+43,49,1.3,Female,M,56,Kenya,Male,M,18,British Indian Ocean Territory (Chagos Archipelago),HR Manager,122541,Senior,7.1,SurveyMonkey,2025-04-27,27,4,2025,Spring
+28,78,1.7,Non-binary,M,27,Trinidad and Tobago,Male,F,32,American Samoa,Sales Executive,112228,Mid,8.8,Slack,2025-03-06,6,3,2025,Spring
+92,40,2.9,Male,M,60,Rwanda,Non-binary,F,56,Brunei Darussalam,Software Engineer,59349,Mid,7.6,Teams,2025-02-19,19,2,2025,Winter
+57,99,3.8,Non-binary,F,49,American Samoa,Female,F,59,Australia,Software Engineer,40403,Lead,3.5,SurveyMonkey,2024-12-02,2,12,2024,Winter
+60,84,2.5,Non-binary,F,30,Norway,Male,M,49,New Caledonia,Software Engineer,49635,Lead,5.1,SurveyMonkey,2024-11-19,19,11,2024,Autumn
+100,81,2.5,Male,M,36,Bosnia and Herzegovina,Female,F,49,Philippines,HR Manager,92783,Lead,6.7,Google Forms,2024-08-17,17,8,2024,Summer
+67,20,2.5,Female,F,45,Guinea,Female,M,31,Iraq,Data Analyst,145742,Senior,5.9,Google Forms,2025-03-06,6,3,2025,Spring
+100,56,4.1,Male,M,51,United States of America,Male,M,44,Ghana,DevOps Engineer,128495,Senior,7.2,Teams,2024-06-05,5,6,2024,Summer
+92,44,3.4,Female,M,41,Niger,Female,F,63,Costa Rica,HR Manager,34539,Mid,3.2,Slack,2024-10-22,22,10,2024,Autumn
+25,33,3.0,Non-binary,F,22,Kazakhstan,Non-binary,F,46,Nepal,Data Analyst,97187,Lead,1.9,Teams,2024-10-13,13,10,2024,Autumn
+34,92,1.2,Non-binary,F,28,Aruba,Non-binary,M,35,Uruguay,HR Manager,111424,Lead,5.2,SurveyMonkey,2025-02-23,23,2,2025,Winter
+59,82,1.5,Male,M,31,Fiji,Non-binary,M,41,Singapore,Software Engineer,46712,Senior,4.8,Email,2024-09-24,24,9,2024,Autumn
+79,99,4.2,Female,F,48,Macao,Female,F,23,Vietnam,DevOps Engineer,106619,Junior,9.5,SurveyMonkey,2024-09-16,16,9,2024,Autumn
+94,25,5.0,Male,M,61,Saint Lucia,Female,M,62,Rwanda,HR Manager,81382,Mid,7.2,SurveyMonkey,2024-06-02,2,6,2024,Summer
+46,100,2.8,Female,F,41,Netherlands Antilles,Female,M,41,Macao,HR Manager,33145,Mid,7.4,Email,2024-08-29,29,8,2024,Summer
+24,57,2.5,Non-binary,M,30,Togo,Non-binary,F,22,Morocco,Software Engineer,54045,Lead,5.4,Teams,2024-08-09,9,8,2024,Summer
+49,65,2.5,Male,M,18,Congo,Female,M,61,Senegal,Data Analyst,90186,Mid,7.7,Teams,2025-04-30,30,4,2025,Spring
+21,20,4.0,Male,F,46,Thailand,Male,F,40,Guyana,DevOps Engineer,141656,Junior,7.0,SurveyMonkey,2025-04-28,28,4,2025,Spring
+96,33,2.2,Non-binary,F,31,Monaco,Female,M,53,Burundi,Sales Executive,128783,Junior,4.8,Slack,2025-02-23,23,2,2025,Winter
+69,29,3.0,Non-binary,F,65,Venezuela,Non-binary,M,55,Canada,HR Manager,61764,Lead,9.7,Email,2024-10-05,5,10,2024,Autumn
+43,84,3.4,Non-binary,M,38,Turkmenistan,Non-binary,M,52,Uruguay,HR Manager,90059,Senior,1.1,Teams,2024-06-07,7,6,2024,Summer
+78,68,1.4,Male,M,34,United Kingdom,Non-binary,F,26,Macedonia,Sales Executive,138537,Junior,7.1,SurveyMonkey,2025-03-25,25,3,2025,Spring
+32,58,4.6,Female,F,62,Vietnam,Female,M,28,Tuvalu,Sales Executive,65404,Senior,8.1,Teams,2025-04-26,26,4,2025,Spring
+89,56,4.7,Male,M,36,Nepal,Male,F,59,Colombia,DevOps Engineer,98194,Mid,2.0,Email,2024-10-24,24,10,2024,Autumn
+64,56,4.7,Female,F,64,Indonesia,Non-binary,F,56,Lesotho,HR Manager,103008,Junior,2.8,Email,2024-10-16,16,10,2024,Autumn
+74,98,3.6,Female,F,57,Bulgaria,Male,F,37,Barbados,Software Engineer,70356,Lead,6.0,Google Forms,2024-05-29,29,5,2024,Spring
+71,42,4.8,Non-binary,F,47,Netherlands Antilles,Female,M,53,Bosnia and Herzegovina,Data Analyst,142060,Senior,2.7,Google Forms,2025-02-17,17,2,2025,Winter
+79,88,1.7,Non-binary,M,56,Saint Vincent and the Grenadines,Female,F,18,Yemen,Software Engineer,69525,Junior,3.0,Email,2024-07-16,16,7,2024,Summer
+25,32,3.9,Non-binary,F,29,France,Female,M,33,Guernsey,Software Engineer,133342,Lead,6.9,Google Forms,2025-03-09,9,3,2025,Spring
+87,47,3.6,Male,M,40,Chile,Male,F,26,India,DevOps Engineer,38474,Junior,2.2,SurveyMonkey,2025-03-06,6,3,2025,Spring
+47,47,3.3,Female,F,42,Ireland,Non-binary,M,64,Panama,Software Engineer,149560,Mid,8.6,Email,2025-03-11,11,3,2025,Spring
+61,27,5.0,Male,F,40,Vanuatu,Male,M,39,Ethiopia,Sales Executive,55880,Junior,3.8,Google Forms,2024-12-22,22,12,2024,Winter
+79,61,1.4,Non-binary,F,35,Paraguay,Female,F,30,Faroe Islands,Sales Executive,132635,Mid,5.9,SurveyMonkey,2025-04-20,20,4,2025,Spring
+35,41,3.8,Female,F,20,Guinea,Male,F,32,Gambia,Sales Executive,53618,Lead,9.4,Slack,2024-05-27,27,5,2024,Spring
+54,33,3.4,Non-binary,F,37,Mauritius,Non-binary,F,49,Canada,HR Manager,147133,Junior,6.6,SurveyMonkey,2024-09-18,18,9,2024,Autumn
+25,67,1.0,Non-binary,M,60,Mozambique,Non-binary,F,49,Seychelles,Sales Executive,64726,Mid,1.3,Email,2025-01-10,10,1,2025,Winter
+64,34,3.6,Non-binary,F,20,Slovakia (Slovak Republic),Non-binary,F,59,Germany,DevOps Engineer,124213,Mid,7.4,Slack,2024-05-22,22,5,2024,Spring
+55,78,5.0,Male,M,36,Central African Republic,Female,F,23,Spain,DevOps Engineer,77072,Senior,2.2,Slack,2025-02-10,10,2,2025,Winter
+39,85,4.2,Male,F,44,Myanmar,Non-binary,M,50,Somalia,Data Analyst,109385,Lead,2.5,Email,2024-08-02,2,8,2024,Summer
+85,66,3.9,Non-binary,M,37,Senegal,Male,F,65,Jamaica,Data Analyst,46530,Junior,2.5,Slack,2025-01-01,1,1,2025,Winter
+37,20,3.1,Non-binary,F,63,Iceland,Female,M,63,Cayman Islands,Software Engineer,67651,Senior,5.8,Slack,2025-02-16,16,2,2025,Winter
+92,46,2.5,Non-binary,F,34,Germany,Male,M,65,Netherlands Antilles,Sales Executive,40495,Lead,8.5,Slack,2024-08-18,18,8,2024,Summer
+56,50,3.3,Female,F,58,Ireland,Female,M,44,Estonia,HR Manager,103451,Lead,8.7,Slack,2025-04-14,14,4,2025,Spring
+76,18,1.7,Non-binary,M,21,Mexico,Non-binary,F,30,Cuba,Sales Executive,112684,Senior,3.8,Slack,2024-08-30,30,8,2024,Summer
+93,33,2.7,Non-binary,F,58,Aruba,Male,F,37,Greenland,Data Analyst,84163,Senior,6.0,SurveyMonkey,2024-11-29,29,11,2024,Autumn
+33,40,3.9,Non-binary,M,29,Sao Tome and Principe,Non-binary,F,29,Comoros,HR Manager,30142,Lead,3.5,Teams,2025-02-23,23,2,2025,Winter
+31,62,2.9,Male,F,63,Slovakia (Slovak Republic),Non-binary,M,48,Guinea,HR Manager,113484,Mid,8.9,Email,2025-05-02,2,5,2025,Spring
+65,73,3.0,Female,M,57,Guam,Male,M,54,French Polynesia,Software Engineer,79977,Lead,7.4,Email,2024-05-15,15,5,2024,Spring
+75,88,1.7,Male,M,41,Timor-Leste,Male,M,53,Netherlands Antilles,HR Manager,109216,Senior,5.7,Google Forms,2024-11-14,14,11,2024,Autumn
+60,51,3.6,Non-binary,M,26,Oman,Non-binary,F,58,Qatar,DevOps Engineer,102522,Senior,2.2,Google Forms,2025-03-09,9,3,2025,Spring
+76,72,2.4,Non-binary,F,21,Israel,Non-binary,M,19,Mexico,DevOps Engineer,120917,Senior,3.4,Slack,2024-07-02,2,7,2024,Summer
+95,28,1.1,Male,M,48,Holy See (Vatican City State),Female,M,46,Madagascar,HR Manager,129464,Mid,2.2,Slack,2025-02-26,26,2,2025,Winter
+51,97,4.0,Female,M,61,Togo,Female,M,60,Faroe Islands,Software Engineer,40332,Junior,1.7,Email,2025-04-08,8,4,2025,Spring
+30,99,4.5,Male,F,57,Djibouti,Female,F,43,Finland,Sales Executive,137750,Mid,5.2,Teams,2024-10-24,24,10,2024,Autumn
+99,39,2.8,Non-binary,F,45,Sri Lanka,Non-binary,M,41,Russian Federation,DevOps Engineer,55231,Mid,4.3,Teams,2024-12-31,31,12,2024,Winter
+94,31,2.8,Male,F,19,Eritrea,Female,F,40,Finland,Sales Executive,117334,Mid,4.2,Google Forms,2024-09-29,29,9,2024,Autumn
+46,37,2.8,Non-binary,F,31,Saint Helena,Non-binary,F,48,Estonia,DevOps Engineer,102554,Lead,4.0,Teams,2024-08-10,10,8,2024,Summer
+25,39,2.3,Male,F,21,Kuwait,Female,M,51,Tonga,Sales Executive,117896,Junior,4.6,Teams,2024-11-15,15,11,2024,Autumn
+53,22,2.2,Female,M,54,Micronesia,Male,M,58,Kiribati,DevOps Engineer,82468,Junior,2.2,Google Forms,2024-10-04,4,10,2024,Autumn
+53,55,3.8,Male,F,36,Cote d'Ivoire,Non-binary,F,43,French Guiana,Data Analyst,58691,Senior,1.5,SurveyMonkey,2024-05-19,19,5,2024,Spring
+28,49,5.0,Male,M,48,Macao,Male,F,23,Brazil,HR Manager,73913,Mid,4.3,Email,2025-04-04,4,4,2025,Spring
+59,44,2.5,Male,M,56,Croatia,Male,F,22,Bahrain,DevOps Engineer,80940,Lead,3.2,Google Forms,2024-06-03,3,6,2024,Summer
+83,79,4.3,Male,M,29,Armenia,Female,M,44,Israel,Sales Executive,74403,Junior,8.3,Google Forms,2024-07-07,7,7,2024,Summer
+78,51,4.4,Female,F,27,Nauru,Male,F,57,Zimbabwe,Sales Executive,56657,Lead,2.4,Email,2024-05-11,11,5,2024,Spring
+75,71,4.2,Male,M,22,Mauritius,Non-binary,F,23,Lebanon,DevOps Engineer,50022,Lead,2.0,Google Forms,2025-01-08,8,1,2025,Winter
+65,75,3.9,Female,M,43,Bulgaria,Male,M,35,Vietnam,Sales Executive,129012,Junior,1.6,SurveyMonkey,2025-01-02,2,1,2025,Winter
+42,37,4.2,Male,M,51,Costa Rica,Non-binary,F,31,Paraguay,HR Manager,132737,Mid,5.8,SurveyMonkey,2025-05-02,2,5,2025,Spring
+65,63,1.1,Female,F,49,Cameroon,Non-binary,F,26,Bouvet Island (Bouvetoya),HR Manager,47497,Senior,1.5,Slack,2024-10-14,14,10,2024,Autumn
+82,95,2.6,Non-binary,M,50,Lithuania,Non-binary,F,37,Georgia,Sales Executive,110090,Lead,1.7,Slack,2024-12-25,25,12,2024,Winter
+29,74,4.8,Male,F,30,Namibia,Female,M,62,Cook Islands,Data Analyst,97114,Mid,5.7,SurveyMonkey,2024-05-19,19,5,2024,Spring
+92,28,4.8,Female,M,52,United States Minor Outlying Islands,Female,M,64,Romania,DevOps Engineer,86895,Mid,2.5,SurveyMonkey,2024-05-18,18,5,2024,Spring
+88,47,3.4,Male,M,21,Philippines,Non-binary,M,35,Tunisia,Sales Executive,103131,Lead,8.2,Google Forms,2024-06-18,18,6,2024,Summer
+36,40,2.2,Male,M,43,Bosnia and Herzegovina,Non-binary,M,38,Angola,DevOps Engineer,37253,Lead,2.4,Slack,2025-04-13,13,4,2025,Spring
+26,36,3.8,Female,M,63,Paraguay,Male,M,30,Guadeloupe,DevOps Engineer,115469,Lead,9.7,Slack,2024-10-18,18,10,2024,Autumn
+39,18,4.2,Female,F,49,Antigua and Barbuda,Female,M,33,Malta,HR Manager,59149,Mid,2.2,SurveyMonkey,2024-09-23,23,9,2024,Autumn
+73,17,3.3,Female,F,34,Guyana,Male,F,36,Israel,Data Analyst,67556,Lead,4.6,Slack,2024-09-21,21,9,2024,Autumn
+45,69,4.3,Female,M,50,Philippines,Male,M,59,Angola,DevOps Engineer,57027,Senior,5.9,Teams,2024-05-26,26,5,2024,Spring
+78,55,3.4,Female,F,56,Cuba,Male,M,49,Palestinian Territory,HR Manager,110114,Lead,3.9,SurveyMonkey,2025-04-02,2,4,2025,Spring
+61,56,4.7,Female,F,52,Nepal,Non-binary,M,25,Belarus,Sales Executive,78267,Lead,5.6,Slack,2024-12-23,23,12,2024,Winter
+61,87,4.1,Female,M,22,Guernsey,Male,M,51,Hong Kong,Software Engineer,34746,Junior,6.2,Teams,2024-10-20,20,10,2024,Autumn
+79,96,3.3,Male,F,32,Haiti,Non-binary,M,61,Portugal,Software Engineer,146308,Senior,2.5,Email,2024-10-19,19,10,2024,Autumn
+87,45,4.6,Female,M,47,Greenland,Female,M,33,Holy See (Vatican City State),Data Analyst,130206,Senior,6.8,Google Forms,2025-02-09,9,2,2025,Winter
+71,88,3.1,Female,M,37,South Georgia and the South Sandwich Islands,Male,F,29,Greenland,Sales Executive,82980,Mid,2.9,Teams,2024-07-12,12,7,2024,Summer
+45,20,1.8,Non-binary,F,25,Malaysia,Non-binary,F,56,Martinique,Data Analyst,129217,Mid,4.7,Google Forms,2024-05-06,6,5,2024,Spring
+40,58,3.9,Female,F,54,Costa Rica,Male,M,63,United Kingdom,Software Engineer,61821,Junior,2.7,Teams,2024-12-22,22,12,2024,Winter
+21,15,4.1,Male,F,64,French Polynesia,Male,M,64,Nicaragua,HR Manager,49553,Junior,9.5,Google Forms,2025-02-21,21,2,2025,Winter
+48,88,2.6,Non-binary,M,61,Liberia,Female,F,30,Bouvet Island (Bouvetoya),Sales Executive,108034,Junior,8.4,SurveyMonkey,2025-01-22,22,1,2025,Winter
+53,47,3.3,Non-binary,M,49,Guinea-Bissau,Female,M,40,Haiti,DevOps Engineer,46895,Junior,6.2,Slack,2024-10-14,14,10,2024,Autumn
+99,99,3.8,Non-binary,F,47,Tunisia,Female,M,33,Turkey,Sales Executive,72227,Senior,5.6,Email,2024-11-05,5,11,2024,Autumn
+94,61,3.2,Male,F,22,Croatia,Female,F,35,Lao People's Democratic Republic,Data Analyst,77207,Mid,5.6,Email,2024-11-26,26,11,2024,Autumn
+67,61,3.1,Non-binary,F,35,Antarctica (the territory South of 60 deg S),Male,F,54,Bouvet Island (Bouvetoya),HR Manager,75057,Lead,1.5,SurveyMonkey,2025-02-09,9,2,2025,Winter
+28,60,4.7,Male,F,29,Zimbabwe,Female,M,64,Guinea,Sales Executive,72525,Mid,3.3,Teams,2025-04-22,22,4,2025,Spring
+73,40,1.7,Non-binary,M,33,Liberia,Female,F,55,Bahamas,Software Engineer,78127,Mid,9.5,Teams,2024-12-15,15,12,2024,Winter
+60,85,1.3,Non-binary,M,51,British Virgin Islands,Female,F,27,Oman,Data Analyst,81929,Junior,6.4,Google Forms,2024-06-18,18,6,2024,Summer
+60,21,2.1,Female,M,49,Bahrain,Non-binary,M,63,Svalbard & Jan Mayen Islands,Sales Executive,64972,Junior,9.1,Slack,2025-02-09,9,2,2025,Winter
+61,75,4.0,Female,F,28,Bahamas,Male,F,61,Christmas Island,DevOps Engineer,34528,Lead,8.0,Teams,2024-11-15,15,11,2024,Autumn
+77,34,1.3,Non-binary,M,57,Bangladesh,Female,M,34,Falkland Islands (Malvinas),Data Analyst,146721,Lead,6.2,Teams,2024-07-22,22,7,2024,Summer
+88,38,1.3,Male,M,37,Papua New Guinea,Male,M,42,Kiribati,Sales Executive,63540,Junior,3.2,SurveyMonkey,2024-10-04,4,10,2024,Autumn
+55,37,3.1,Non-binary,F,47,Mauritania,Male,M,46,Angola,Sales Executive,55204,Senior,6.9,SurveyMonkey,2024-12-28,28,12,2024,Winter
+61,97,4.7,Non-binary,F,23,British Indian Ocean Territory (Chagos Archipelago),Male,F,45,Algeria,Sales Executive,123107,Lead,9.7,Google Forms,2024-12-29,29,12,2024,Winter
+79,17,3.4,Female,M,50,Singapore,Male,M,48,Israel,Data Analyst,65489,Junior,8.3,Slack,2024-07-09,9,7,2024,Summer
+33,21,3.3,Non-binary,M,64,Tonga,Non-binary,M,42,Costa Rica,Sales Executive,87765,Lead,8.1,SurveyMonkey,2025-03-08,8,3,2025,Spring
+87,46,1.3,Female,M,45,Liechtenstein,Female,F,46,Maldives,Software Engineer,83549,Lead,1.5,SurveyMonkey,2024-06-04,4,6,2024,Summer
+93,69,2.3,Male,M,38,Mozambique,Non-binary,F,37,Croatia,DevOps Engineer,45254,Mid,5.4,SurveyMonkey,2025-04-21,21,4,2025,Spring
+80,26,2.2,Non-binary,F,64,Andorra,Male,F,20,Bosnia and Herzegovina,Sales Executive,108250,Mid,2.4,Teams,2025-04-24,24,4,2025,Spring
+97,87,2.9,Non-binary,F,49,Jordan,Non-binary,M,36,Spain,Sales Executive,76938,Mid,4.7,Slack,2024-08-11,11,8,2024,Summer
+56,19,4.8,Female,F,36,Cote d'Ivoire,Non-binary,M,35,Venezuela,HR Manager,114321,Senior,7.0,Slack,2024-10-08,8,10,2024,Autumn
+57,30,4.9,Female,F,29,Vietnam,Male,M,35,Brazil,Data Analyst,36282,Junior,6.5,Slack,2024-09-27,27,9,2024,Autumn
+85,66,2.6,Non-binary,M,47,Micronesia,Female,F,31,Guadeloupe,Data Analyst,61137,Mid,3.5,Email,2024-10-14,14,10,2024,Autumn
+68,44,4.4,Male,M,42,Saint Lucia,Non-binary,F,35,El Salvador,Sales Executive,87966,Mid,8.1,Email,2024-09-19,19,9,2024,Autumn
+90,34,2.1,Female,M,65,Liberia,Non-binary,F,64,Cocos (Keeling) Islands,Sales Executive,93030,Senior,2.1,Teams,2024-05-15,15,5,2024,Spring
+31,18,4.4,Female,F,63,Turkey,Non-binary,F,65,Brazil,Sales Executive,112234,Senior,9.0,Email,2024-08-21,21,8,2024,Summer
+90,85,1.2,Female,M,60,Isle of Man,Female,M,27,Russian Federation,Sales Executive,116295,Junior,2.8,Slack,2024-11-19,19,11,2024,Autumn
+100,97,1.4,Female,M,60,Cape Verde,Male,F,36,Bermuda,HR Manager,74916,Mid,9.9,SurveyMonkey,2024-07-30,30,7,2024,Summer
+93,34,4.0,Female,M,53,Mexico,Non-binary,M,64,Montserrat,Software Engineer,94327,Mid,5.5,Google Forms,2025-04-17,17,4,2025,Spring
+95,17,1.5,Non-binary,F,56,Suriname,Non-binary,F,52,Australia,Data Analyst,55682,Junior,1.7,Email,2024-06-17,17,6,2024,Summer
+71,52,4.3,Female,F,60,Djibouti,Male,F,47,Burundi,Data Analyst,51998,Lead,1.1,SurveyMonkey,2024-05-07,7,5,2024,Spring
+94,27,2.8,Male,F,39,Taiwan,Female,M,28,Jordan,Data Analyst,63115,Junior,1.4,Email,2024-07-24,24,7,2024,Summer
+72,75,3.9,Female,M,47,Serbia,Male,M,48,Micronesia,Software Engineer,102108,Junior,8.6,Google Forms,2024-12-26,26,12,2024,Winter
+100,25,4.1,Non-binary,F,43,New Zealand,Female,F,64,Cuba,HR Manager,99830,Senior,9.1,Google Forms,2024-08-18,18,8,2024,Summer
+63,35,3.7,Male,M,40,Albania,Female,F,37,Korea,Data Analyst,49064,Lead,5.2,Email,2024-11-13,13,11,2024,Autumn
+24,51,3.8,Male,F,57,Guyana,Male,F,59,Denmark,Software Engineer,138174,Senior,5.4,Google Forms,2025-04-16,16,4,2025,Spring
+75,33,4.9,Non-binary,F,47,Antigua and Barbuda,Female,M,62,Cook Islands,Sales Executive,145539,Junior,3.7,Email,2025-04-18,18,4,2025,Spring
+92,35,3.1,Female,F,54,United States Minor Outlying Islands,Male,F,21,Colombia,Sales Executive,43549,Lead,5.6,Teams,2024-05-24,24,5,2024,Spring
+35,89,1.8,Non-binary,F,34,Cuba,Non-binary,F,38,Ireland,Software Engineer,39785,Junior,8.9,Email,2024-06-27,27,6,2024,Summer
+81,53,4.3,Male,F,19,Cuba,Non-binary,M,29,Equatorial Guinea,DevOps Engineer,133004,Senior,4.1,SurveyMonkey,2024-08-30,30,8,2024,Summer
+51,91,1.2,Non-binary,F,57,Luxembourg,Male,M,39,Turkey,DevOps Engineer,85599,Mid,4.2,SurveyMonkey,2024-05-18,18,5,2024,Spring
+52,35,2.5,Female,F,24,Australia,Non-binary,F,49,Somalia,HR Manager,83681,Junior,1.4,Google Forms,2025-01-06,6,1,2025,Winter
+26,61,2.5,Female,M,55,Australia,Male,F,62,France,Data Analyst,110026,Lead,1.1,Slack,2025-02-06,6,2,2025,Winter
+54,76,3.9,Male,M,51,Indonesia,Female,F,64,Saint Pierre and Miquelon,Software Engineer,136960,Mid,3.7,Email,2024-08-03,3,8,2024,Summer
+76,77,1.6,Female,M,36,Sweden,Male,M,47,Burundi,Data Analyst,53138,Junior,2.2,Teams,2024-12-16,16,12,2024,Winter
+78,42,1.8,Male,F,32,Azerbaijan,Female,F,47,Russian Federation,HR Manager,79886,Junior,4.8,SurveyMonkey,2024-09-23,23,9,2024,Autumn
+25,100,2.3,Non-binary,M,36,Lithuania,Female,M,58,Kiribati,Data Analyst,74159,Junior,4.8,SurveyMonkey,2024-12-28,28,12,2024,Winter
+77,68,2.7,Non-binary,F,25,Bahrain,Female,F,43,Lithuania,Sales Executive,52293,Senior,10.0,Email,2024-07-19,19,7,2024,Summer
+82,46,1.2,Female,F,31,Christmas Island,Non-binary,F,53,Western Sahara,DevOps Engineer,111452,Mid,2.2,SurveyMonkey,2025-04-29,29,4,2025,Spring
+98,99,2.4,Female,M,21,Reunion,Non-binary,M,35,Norway,Software Engineer,128178,Mid,3.1,Email,2024-09-24,24,9,2024,Autumn
+98,21,2.3,Female,F,38,Serbia,Female,F,41,Belgium,Data Analyst,149326,Junior,3.4,Google Forms,2024-09-03,3,9,2024,Autumn
+45,87,3.4,Female,F,60,Jamaica,Male,M,30,Sri Lanka,Data Analyst,56944,Junior,3.9,SurveyMonkey,2024-10-15,15,10,2024,Autumn
+94,66,1.6,Non-binary,F,24,Bolivia,Male,F,61,Grenada,Software Engineer,80014,Senior,4.8,Email,2025-01-27,27,1,2025,Winter
+93,18,2.4,Female,F,47,Tunisia,Non-binary,M,65,Australia,Sales Executive,52943,Mid,7.8,SurveyMonkey,2025-04-23,23,4,2025,Spring
+67,95,1.8,Male,F,33,United States Minor Outlying Islands,Female,F,47,Niue,HR Manager,126469,Mid,4.6,Email,2024-06-25,25,6,2024,Summer
+49,70,4.7,Male,M,65,Ukraine,Female,M,29,Congo,Data Analyst,35876,Senior,6.2,Google Forms,2025-02-07,7,2,2025,Winter
+83,88,2.7,Non-binary,M,61,Tanzania,Female,M,57,Bolivia,Sales Executive,32922,Senior,5.4,SurveyMonkey,2024-05-11,11,5,2024,Spring
+50,69,3.7,Female,F,51,Bolivia,Non-binary,M,45,Ukraine,Software Engineer,113900,Senior,2.4,Slack,2025-01-08,8,1,2025,Winter
+54,46,2.6,Female,M,21,Palau,Non-binary,F,53,Pitcairn Islands,HR Manager,93396,Junior,7.7,Email,2024-12-15,15,12,2024,Winter
+57,73,4.3,Male,M,33,Sweden,Non-binary,M,60,Honduras,Software Engineer,84267,Senior,3.8,Slack,2024-08-09,9,8,2024,Summer
+88,58,2.6,Male,F,24,Zimbabwe,Female,M,36,Saint Vincent and the Grenadines,DevOps Engineer,34619,Senior,6.3,Google Forms,2024-08-19,19,8,2024,Summer
+73,17,1.4,Male,M,37,Saint Martin,Non-binary,M,63,Cocos (Keeling) Islands,Data Analyst,48889,Mid,1.6,Email,2025-04-09,9,4,2025,Spring
+62,59,4.4,Male,M,33,Heard Island and McDonald Islands,Male,M,42,Guinea-Bissau,DevOps Engineer,129378,Lead,9.2,Teams,2024-10-12,12,10,2024,Autumn
+73,95,3.6,Non-binary,M,36,Nauru,Female,M,20,Benin,Sales Executive,85120,Senior,6.3,Teams,2024-10-22,22,10,2024,Autumn
+61,61,4.1,Non-binary,M,41,Lesotho,Male,M,19,Bermuda,Sales Executive,65077,Junior,7.3,SurveyMonkey,2024-12-26,26,12,2024,Winter
+98,63,3.6,Male,F,47,Jamaica,Female,F,50,Australia,HR Manager,127301,Senior,4.8,Google Forms,2024-06-27,27,6,2024,Summer
+51,80,1.3,Female,F,40,Korea,Female,F,32,Vanuatu,Software Engineer,44007,Senior,8.5,Email,2025-04-02,2,4,2025,Spring
+72,80,1.5,Male,F,41,Turks and Caicos Islands,Male,M,50,Holy See (Vatican City State),Software Engineer,58920,Junior,9.3,Email,2025-04-13,13,4,2025,Spring
+79,25,4.5,Non-binary,F,57,Palau,Non-binary,M,37,Slovakia (Slovak Republic),Data Analyst,58720,Junior,7.4,Teams,2024-07-05,5,7,2024,Summer
+68,16,3.1,Non-binary,M,26,Guam,Non-binary,F,46,Monaco,Software Engineer,118985,Junior,2.3,SurveyMonkey,2024-12-10,10,12,2024,Winter
+42,70,3.5,Male,F,44,South Georgia and the South Sandwich Islands,Male,M,60,Guinea,Sales Executive,82502,Lead,4.9,Slack,2024-06-17,17,6,2024,Summer
+54,37,2.5,Non-binary,F,19,Anguilla,Non-binary,F,28,Israel,Software Engineer,125841,Mid,2.3,Google Forms,2025-01-12,12,1,2025,Winter
+30,18,3.2,Non-binary,M,53,Equatorial Guinea,Female,F,19,Tuvalu,Sales Executive,37359,Senior,5.0,Google Forms,2025-04-29,29,4,2025,Spring
+60,96,3.1,Female,M,53,Mozambique,Female,M,62,Kyrgyz Republic,Data Analyst,42656,Senior,8.9,Slack,2024-05-26,26,5,2024,Spring
+77,56,4.6,Female,M,35,Moldova,Female,F,59,Iran,Data Analyst,61724,Junior,1.7,Teams,2024-10-09,9,10,2024,Autumn
+33,57,1.6,Non-binary,M,36,Croatia,Female,F,54,American Samoa,Sales Executive,78070,Lead,3.4,SurveyMonkey,2024-05-27,27,5,2024,Spring
+88,28,4.4,Female,F,31,Dominican Republic,Male,M,56,South Africa,Data Analyst,140120,Junior,9.0,Slack,2024-11-18,18,11,2024,Autumn
+38,82,4.8,Female,F,35,Lesotho,Male,F,58,Kuwait,Software Engineer,75839,Lead,1.9,SurveyMonkey,2024-09-11,11,9,2024,Autumn
+44,44,4.7,Female,F,48,Togo,Male,F,42,Somalia,Sales Executive,139744,Senior,6.0,Google Forms,2024-10-19,19,10,2024,Autumn
+21,52,3.1,Non-binary,M,32,Korea,Non-binary,F,51,Yemen,DevOps Engineer,59026,Mid,1.2,Teams,2024-05-28,28,5,2024,Spring
+65,91,4.8,Female,M,24,Mexico,Male,F,63,Poland,DevOps Engineer,133071,Senior,9.0,Google Forms,2025-02-01,1,2,2025,Winter
+50,88,1.6,Non-binary,M,29,Cook Islands,Female,M,22,Sao Tome and Principe,Software Engineer,70341,Lead,1.7,Slack,2024-06-28,28,6,2024,Summer
+85,36,2.1,Male,F,28,Haiti,Male,M,25,Georgia,Software Engineer,134590,Junior,7.3,Slack,2025-03-07,7,3,2025,Spring
+28,86,1.8,Non-binary,F,48,Jordan,Female,F,32,Isle of Man,DevOps Engineer,45038,Lead,3.7,Slack,2024-05-08,8,5,2024,Spring
+76,41,4.2,Non-binary,M,27,Russian Federation,Male,M,29,Ireland,Data Analyst,68403,Junior,6.9,Slack,2024-12-11,11,12,2024,Winter
+96,37,1.2,Non-binary,F,35,Nauru,Non-binary,M,48,Burundi,Data Analyst,104247,Junior,7.2,Email,2025-02-12,12,2,2025,Winter
+81,36,4.3,Female,F,23,Trinidad and Tobago,Non-binary,F,30,Lebanon,Software Engineer,139584,Mid,8.0,Slack,2024-07-08,8,7,2024,Summer
+93,56,3.1,Non-binary,M,26,Belarus,Female,M,45,Saudi Arabia,Data Analyst,68644,Senior,2.9,Email,2024-09-30,30,9,2024,Autumn
+86,17,3.3,Female,F,36,Sudan,Male,F,29,Angola,Software Engineer,111389,Junior,5.4,Google Forms,2024-12-31,31,12,2024,Winter
+61,33,1.8,Non-binary,M,20,Monaco,Male,M,51,Wallis and Futuna,Data Analyst,128185,Senior,9.8,Slack,2024-12-12,12,12,2024,Winter
+31,84,2.6,Non-binary,M,46,Guinea-Bissau,Male,F,48,Slovakia (Slovak Republic),Data Analyst,134028,Junior,1.9,Slack,2025-04-22,22,4,2025,Spring
+36,82,4.4,Male,M,50,Panama,Male,F,50,Israel,Software Engineer,47234,Junior,2.0,Slack,2024-07-19,19,7,2024,Summer
+70,78,2.0,Non-binary,F,26,Montenegro,Female,M,51,Panama,Sales Executive,140856,Mid,7.2,Slack,2024-06-25,25,6,2024,Summer
+57,77,4.3,Non-binary,M,34,Mongolia,Non-binary,M,40,Slovenia,Sales Executive,130470,Senior,3.8,Email,2024-07-03,3,7,2024,Summer
+49,41,1.9,Male,F,42,Sudan,Male,M,65,Zambia,Data Analyst,78878,Senior,8.6,Slack,2024-06-16,16,6,2024,Summer
+56,80,2.0,Non-binary,M,62,Benin,Female,M,35,Faroe Islands,DevOps Engineer,117587,Lead,6.0,Google Forms,2024-10-08,8,10,2024,Autumn
+60,88,1.9,Male,M,19,Botswana,Non-binary,F,30,Brunei Darussalam,Sales Executive,78796,Senior,2.8,Google Forms,2025-03-11,11,3,2025,Spring
+32,83,1.8,Non-binary,M,57,Cambodia,Female,F,28,Ecuador,HR Manager,109306,Lead,4.6,Slack,2025-03-13,13,3,2025,Spring
+59,91,3.7,Female,M,30,Portugal,Male,M,40,Guam,Data Analyst,84593,Junior,5.7,Google Forms,2025-01-01,1,1,2025,Winter
+41,94,2.2,Non-binary,M,34,Saint Martin,Female,F,54,Dominican Republic,HR Manager,108682,Lead,4.0,Teams,2024-06-22,22,6,2024,Summer
+90,55,1.2,Male,M,58,Indonesia,Female,F,62,Guinea,HR Manager,106868,Lead,6.0,Teams,2024-11-19,19,11,2024,Autumn
+72,64,4.9,Female,F,27,Palestinian Territory,Female,M,50,Myanmar,HR Manager,80151,Senior,5.5,Google Forms,2024-06-19,19,6,2024,Summer
+60,46,2.7,Non-binary,F,51,Togo,Non-binary,M,32,Rwanda,DevOps Engineer,87516,Mid,9.6,Google Forms,2025-03-06,6,3,2025,Spring
+33,54,3.8,Male,M,36,Portugal,Male,M,45,El Salvador,Sales Executive,144328,Lead,2.8,Google Forms,2024-12-01,1,12,2024,Winter
+93,71,3.7,Non-binary,M,47,Canada,Male,M,25,Marshall Islands,HR Manager,81673,Junior,7.9,Teams,2025-01-19,19,1,2025,Winter
+76,23,3.9,Female,M,37,Mongolia,Female,M,35,Burundi,Sales Executive,44692,Lead,1.6,Google Forms,2025-03-12,12,3,2025,Spring
+46,55,3.3,Female,M,50,Gibraltar,Non-binary,M,34,Svalbard & Jan Mayen Islands,DevOps Engineer,142537,Lead,6.0,Teams,2024-12-05,5,12,2024,Winter
+28,65,1.9,Non-binary,M,42,Qatar,Female,F,45,Estonia,DevOps Engineer,146696,Junior,9.5,Google Forms,2024-12-06,6,12,2024,Winter
+52,68,4.7,Female,F,37,Cook Islands,Female,F,55,Eritrea,HR Manager,146395,Lead,4.7,Email,2025-03-06,6,3,2025,Spring
+75,98,2.4,Male,M,32,Bermuda,Non-binary,M,26,Rwanda,Software Engineer,34305,Mid,9.5,Slack,2025-05-02,2,5,2025,Spring
+73,61,1.6,Female,M,64,Dominican Republic,Female,F,58,Kyrgyz Republic,Software Engineer,55714,Mid,1.2,Slack,2024-06-07,7,6,2024,Summer
+62,52,1.3,Non-binary,F,37,Slovenia,Non-binary,M,34,Kazakhstan,HR Manager,51800,Lead,9.0,Teams,2024-11-11,11,11,2024,Autumn
+44,48,4.6,Non-binary,F,22,South Africa,Female,F,65,Greenland,Data Analyst,99126,Lead,1.2,Teams,2024-12-15,15,12,2024,Winter
+62,17,2.8,Male,F,23,Tajikistan,Female,F,31,French Polynesia,Data Analyst,105273,Senior,2.4,Teams,2024-08-07,7,8,2024,Summer
+26,83,2.3,Non-binary,F,36,Cuba,Non-binary,F,55,Uzbekistan,Sales Executive,32894,Senior,9.8,Google Forms,2025-04-13,13,4,2025,Spring
+62,97,2.4,Male,M,36,Mayotte,Male,M,57,Senegal,HR Manager,67970,Junior,5.4,SurveyMonkey,2024-06-15,15,6,2024,Summer
+29,98,3.3,Male,M,20,Sierra Leone,Female,F,34,United Arab Emirates,DevOps Engineer,50224,Mid,4.7,Teams,2025-01-07,7,1,2025,Winter
+30,36,2.3,Female,M,43,Kazakhstan,Male,F,34,Timor-Leste,Sales Executive,146185,Mid,4.3,Email,2025-01-22,22,1,2025,Winter
+87,38,3.5,Male,F,25,Barbados,Female,F,36,Bolivia,Software Engineer,34342,Mid,7.0,SurveyMonkey,2025-03-24,24,3,2025,Spring
+63,71,3.4,Non-binary,F,53,Sweden,Non-binary,F,21,Dominican Republic,HR Manager,62029,Mid,3.2,Google Forms,2024-06-30,30,6,2024,Summer
+46,49,1.1,Non-binary,M,62,Kyrgyz Republic,Female,M,24,Tokelau,Sales Executive,73689,Mid,2.1,Email,2025-01-29,29,1,2025,Winter
+51,75,1.4,Male,M,60,Gibraltar,Male,F,59,Monaco,DevOps Engineer,120195,Senior,7.6,Google Forms,2024-05-25,25,5,2024,Spring
+82,71,4.3,Non-binary,F,55,New Caledonia,Female,F,23,Bhutan,Data Analyst,135915,Senior,9.3,SurveyMonkey,2024-05-17,17,5,2024,Spring
+28,39,2.5,Non-binary,F,33,Guernsey,Male,M,61,Congo,Software Engineer,98208,Mid,5.9,Email,2024-12-21,21,12,2024,Winter
+68,41,3.4,Non-binary,M,60,Namibia,Female,M,32,French Southern Territories,Software Engineer,130510,Lead,6.8,Teams,2024-11-18,18,11,2024,Autumn
+78,49,4.0,Non-binary,M,24,Jordan,Female,F,24,Equatorial Guinea,DevOps Engineer,52234,Junior,2.6,Teams,2025-03-10,10,3,2025,Spring
+67,89,1.3,Male,M,33,Albania,Female,M,29,Uzbekistan,Sales Executive,129696,Senior,8.2,SurveyMonkey,2024-11-27,27,11,2024,Autumn
+22,64,1.4,Male,M,27,Hungary,Female,M,65,Tokelau,DevOps Engineer,88227,Senior,9.0,SurveyMonkey,2024-07-17,17,7,2024,Summer
+98,92,1.7,Female,F,38,Singapore,Female,M,23,Malaysia,Sales Executive,76590,Lead,5.2,Slack,2024-06-24,24,6,2024,Summer
+44,94,2.7,Female,M,32,Montenegro,Female,M,58,Bahrain,DevOps Engineer,134212,Junior,4.7,SurveyMonkey,2024-10-13,13,10,2024,Autumn
+47,31,1.3,Female,F,36,Luxembourg,Female,F,37,Isle of Man,Data Analyst,115232,Junior,7.9,SurveyMonkey,2024-10-15,15,10,2024,Autumn
+88,68,4.1,Non-binary,F,28,Sierra Leone,Male,F,41,Netherlands Antilles,Software Engineer,46615,Mid,4.3,Google Forms,2025-02-23,23,2,2025,Winter
+74,69,4.3,Non-binary,F,18,Morocco,Male,M,29,Paraguay,DevOps Engineer,74888,Junior,3.1,Slack,2024-09-28,28,9,2024,Autumn
+36,31,4.9,Non-binary,M,24,Moldova,Male,M,46,Italy,Sales Executive,72683,Senior,2.7,SurveyMonkey,2024-09-26,26,9,2024,Autumn
+38,36,4.1,Female,F,32,Paraguay,Male,F,24,Heard Island and McDonald Islands,Software Engineer,131501,Junior,2.8,Google Forms,2025-01-18,18,1,2025,Winter
+36,31,2.7,Male,M,35,Tuvalu,Male,M,61,Saint Helena,Sales Executive,126264,Lead,4.9,Google Forms,2025-04-22,22,4,2025,Spring
+66,90,1.5,Non-binary,F,28,Solomon Islands,Female,F,32,Argentina,Sales Executive,134384,Mid,3.2,Email,2024-12-14,14,12,2024,Winter
+73,86,1.3,Non-binary,M,53,Romania,Male,M,28,Niger,Sales Executive,70624,Junior,8.5,Google Forms,2024-06-23,23,6,2024,Summer
+79,30,1.1,Non-binary,F,57,Bahamas,Male,F,45,Kenya,Software Engineer,147228,Lead,5.3,Teams,2024-07-29,29,7,2024,Summer
+57,62,3.1,Female,F,26,New Zealand,Non-binary,F,51,Fiji,Sales Executive,140156,Junior,9.2,Email,2025-01-27,27,1,2025,Winter
+47,47,1.2,Female,F,40,Sao Tome and Principe,Female,F,46,Jersey,Data Analyst,79643,Junior,2.3,SurveyMonkey,2024-08-31,31,8,2024,Summer
+100,84,3.8,Non-binary,M,37,Ukraine,Female,F,19,France,Data Analyst,62103,Junior,2.2,SurveyMonkey,2025-03-12,12,3,2025,Spring
+38,91,4.4,Non-binary,F,44,Iceland,Female,M,49,Saint Pierre and Miquelon,Data Analyst,112591,Mid,6.1,Email,2025-04-24,24,4,2025,Spring
+41,86,1.2,Female,M,58,Nauru,Male,F,23,Bermuda,Sales Executive,99598,Senior,4.5,Slack,2025-04-10,10,4,2025,Spring
+90,16,3.2,Female,M,33,Spain,Male,M,37,Guam,DevOps Engineer,64678,Senior,4.4,Slack,2025-01-14,14,1,2025,Winter
+73,82,1.2,Male,M,37,Togo,Female,F,24,Suriname,DevOps Engineer,117201,Lead,7.3,Teams,2024-11-12,12,11,2024,Autumn
+76,70,2.3,Female,F,45,British Indian Ocean Territory (Chagos Archipelago),Non-binary,F,37,Albania,Sales Executive,59552,Mid,3.5,SurveyMonkey,2024-12-29,29,12,2024,Winter
+88,89,4.2,Male,F,45,Tanzania,Male,F,61,Saint Barthelemy,DevOps Engineer,123423,Junior,2.2,SurveyMonkey,2024-05-21,21,5,2024,Spring
+54,65,2.7,Male,M,61,Barbados,Male,F,56,Eritrea,Sales Executive,40792,Mid,3.3,Teams,2024-11-17,17,11,2024,Autumn
+59,97,2.5,Female,F,45,Germany,Male,M,28,Saint Vincent and the Grenadines,Software Engineer,66594,Mid,7.8,SurveyMonkey,2024-08-05,5,8,2024,Summer
+100,62,2.0,Male,F,44,British Virgin Islands,Female,M,45,Ukraine,HR Manager,99503,Junior,6.0,Slack,2025-03-13,13,3,2025,Spring
+94,52,3.4,Male,M,18,Saint Pierre and Miquelon,Male,M,19,Senegal,HR Manager,141362,Junior,1.1,Slack,2025-03-31,31,3,2025,Spring
+25,52,3.0,Female,M,51,Kazakhstan,Non-binary,F,48,Bahamas,Software Engineer,49385,Mid,9.0,SurveyMonkey,2024-12-17,17,12,2024,Winter
+80,96,3.1,Male,M,32,Isle of Man,Non-binary,M,39,Equatorial Guinea,Data Analyst,86811,Lead,8.5,Slack,2024-06-11,11,6,2024,Summer
+31,30,3.1,Female,F,56,Aruba,Non-binary,M,25,Uganda,Data Analyst,78090,Mid,8.5,Teams,2024-07-05,5,7,2024,Summer
+36,25,1.1,Male,M,44,Nigeria,Male,F,62,Monaco,Data Analyst,146799,Junior,6.2,Google Forms,2025-02-28,28,2,2025,Winter
+53,33,2.0,Female,F,50,Venezuela,Female,F,19,Saint Vincent and the Grenadines,HR Manager,111523,Mid,9.3,SurveyMonkey,2025-04-18,18,4,2025,Spring
+82,93,3.1,Female,F,38,Croatia,Female,M,20,Benin,Data Analyst,133933,Lead,5.8,Slack,2024-12-30,30,12,2024,Winter
+37,57,1.1,Non-binary,M,28,Thailand,Male,M,55,Brunei Darussalam,Sales Executive,117386,Lead,1.6,Teams,2024-09-22,22,9,2024,Autumn
+56,90,4.2,Female,M,25,Austria,Male,F,46,Grenada,Sales Executive,62295,Senior,8.5,Teams,2024-09-18,18,9,2024,Autumn
+63,29,4.6,Female,M,60,Wallis and Futuna,Female,F,41,Korea,DevOps Engineer,129281,Junior,6.3,Google Forms,2024-10-20,20,10,2024,Autumn
+24,46,1.3,Female,F,32,Haiti,Non-binary,M,28,Holy See (Vatican City State),Software Engineer,112567,Senior,6.6,Google Forms,2024-05-11,11,5,2024,Spring
+50,31,1.6,Non-binary,F,59,Seychelles,Non-binary,M,25,Micronesia,Data Analyst,44286,Lead,1.3,SurveyMonkey,2024-11-14,14,11,2024,Autumn
+39,50,4.1,Female,F,53,Haiti,Female,M,32,American Samoa,HR Manager,102335,Lead,9.8,Teams,2025-04-27,27,4,2025,Spring
+89,74,4.4,Non-binary,M,37,Netherlands Antilles,Female,M,29,Cyprus,Software Engineer,141330,Lead,8.2,Email,2024-10-16,16,10,2024,Autumn
+96,38,2.6,Female,F,21,Austria,Male,M,58,India,Sales Executive,33414,Senior,9.4,Teams,2025-03-16,16,3,2025,Spring
+78,73,3.4,Non-binary,M,21,Italy,Female,F,29,Congo,Software Engineer,52724,Mid,4.3,Email,2024-09-01,1,9,2024,Autumn
+31,91,4.7,Non-binary,F,20,Saint Lucia,Non-binary,M,31,Madagascar,Sales Executive,37707,Lead,9.4,Teams,2025-03-21,21,3,2025,Spring
+76,52,1.3,Male,F,57,San Marino,Female,F,32,San Marino,Software Engineer,120622,Lead,9.5,Google Forms,2024-12-17,17,12,2024,Winter
+73,74,1.5,Female,M,57,Nigeria,Male,M,41,Tuvalu,DevOps Engineer,84344,Junior,6.6,Google Forms,2025-03-27,27,3,2025,Spring
+67,26,1.8,Female,M,21,Central African Republic,Male,F,56,Bahamas,Sales Executive,126339,Mid,8.8,SurveyMonkey,2024-06-19,19,6,2024,Summer
+63,56,3.6,Non-binary,M,19,Azerbaijan,Non-binary,M,39,Lesotho,HR Manager,116499,Mid,6.6,Email,2024-12-10,10,12,2024,Winter
+68,72,3.6,Non-binary,F,31,Reunion,Non-binary,F,30,Egypt,Sales Executive,115813,Junior,4.4,Teams,2024-08-05,5,8,2024,Summer
+24,86,3.1,Female,M,62,Sweden,Male,F,39,Palestinian Territory,HR Manager,89180,Junior,4.6,Google Forms,2024-10-11,11,10,2024,Autumn
+21,89,3.6,Non-binary,M,44,United States Minor Outlying Islands,Female,M,63,Wallis and Futuna,DevOps Engineer,42042,Junior,2.8,Teams,2025-02-07,7,2,2025,Winter
+39,61,1.8,Female,M,43,Iraq,Non-binary,M,59,Bhutan,Sales Executive,119353,Lead,9.7,Slack,2024-08-11,11,8,2024,Summer
+32,17,1.2,Male,M,23,Myanmar,Male,F,32,Netherlands Antilles,Software Engineer,138872,Mid,6.5,Teams,2024-09-29,29,9,2024,Autumn
+61,40,3.7,Non-binary,F,59,Bolivia,Non-binary,M,46,Croatia,Software Engineer,125784,Lead,1.5,Slack,2024-07-07,7,7,2024,Summer
+65,33,1.6,Male,F,46,Syrian Arab Republic,Non-binary,M,30,Korea,DevOps Engineer,76628,Lead,7.9,Slack,2025-01-05,5,1,2025,Winter
+70,91,4.9,Female,M,18,Cyprus,Female,F,35,Egypt,Data Analyst,33849,Mid,6.4,Google Forms,2024-10-25,25,10,2024,Autumn
+48,61,3.3,Female,F,42,Sweden,Non-binary,F,28,China,Software Engineer,116044,Junior,8.0,Teams,2024-07-22,22,7,2024,Summer
+68,98,3.9,Non-binary,M,51,Korea,Male,F,32,Congo,Sales Executive,99533,Mid,5.9,Slack,2025-02-15,15,2,2025,Winter
+95,63,2.2,Female,F,48,Finland,Non-binary,F,19,Sao Tome and Principe,HR Manager,31609,Mid,8.1,Email,2024-12-06,6,12,2024,Winter
+36,46,4.9,Female,M,22,Ethiopia,Male,M,40,Yemen,HR Manager,91969,Junior,7.5,Slack,2024-07-29,29,7,2024,Summer
+70,98,4.0,Non-binary,F,33,Malta,Non-binary,F,61,Venezuela,Data Analyst,130137,Mid,3.0,Email,2024-08-28,28,8,2024,Summer
+51,93,3.9,Male,F,49,Mali,Non-binary,F,43,Israel,Data Analyst,78708,Junior,6.4,Email,2024-08-02,2,8,2024,Summer
+74,72,3.0,Female,M,65,Eritrea,Female,M,46,Myanmar,Software Engineer,70441,Lead,1.9,Slack,2024-11-20,20,11,2024,Autumn
+53,88,1.4,Non-binary,F,26,Serbia,Non-binary,M,64,Iran,DevOps Engineer,45508,Junior,8.8,Google Forms,2024-07-08,8,7,2024,Summer
+57,25,1.8,Non-binary,F,32,Aruba,Female,F,62,Israel,Software Engineer,72982,Mid,6.0,Email,2024-05-06,6,5,2024,Spring
+96,60,2.4,Male,F,46,Czech Republic,Female,M,24,Turkey,Software Engineer,113717,Senior,8.7,Google Forms,2025-02-27,27,2,2025,Winter
+67,99,2.8,Female,F,32,Colombia,Non-binary,F,40,Turkey,Data Analyst,91351,Junior,5.0,Teams,2025-01-02,2,1,2025,Winter
+70,95,3.5,Male,M,61,Peru,Female,M,52,Oman,Sales Executive,111338,Mid,6.2,Teams,2024-10-16,16,10,2024,Autumn
+68,45,4.6,Non-binary,M,27,Turkey,Female,F,56,Wallis and Futuna,Sales Executive,123953,Senior,2.2,Teams,2024-06-06,6,6,2024,Summer
+62,23,4.4,Male,M,56,Congo,Male,M,62,Niue,Sales Executive,59044,Lead,8.6,Teams,2024-10-15,15,10,2024,Autumn
+100,90,1.8,Male,M,60,Bangladesh,Male,F,26,Gabon,DevOps Engineer,40456,Senior,1.9,Google Forms,2024-10-12,12,10,2024,Autumn
+89,94,3.0,Female,F,41,Libyan Arab Jamahiriya,Male,F,21,Liechtenstein,Sales Executive,79925,Lead,6.8,SurveyMonkey,2025-02-10,10,2,2025,Winter
+91,76,3.6,Non-binary,F,46,San Marino,Female,F,41,Saint Barthelemy,Sales Executive,129600,Senior,8.9,SurveyMonkey,2024-09-12,12,9,2024,Autumn
+77,37,4.8,Non-binary,F,59,Bangladesh,Non-binary,M,54,Spain,Sales Executive,32527,Junior,2.1,Email,2024-12-11,11,12,2024,Winter
+70,93,4.7,Female,F,40,Liberia,Female,M,48,Korea,Software Engineer,138799,Mid,4.1,SurveyMonkey,2024-11-21,21,11,2024,Autumn
+39,94,2.3,Female,M,33,Austria,Male,M,61,Gibraltar,Sales Executive,81298,Senior,5.9,SurveyMonkey,2024-10-04,4,10,2024,Autumn
+31,36,4.2,Male,F,23,Cape Verde,Male,F,28,Nepal,Data Analyst,98826,Mid,5.3,Teams,2024-11-16,16,11,2024,Autumn
+77,19,1.7,Male,F,41,Fiji,Female,M,60,Aruba,Sales Executive,116779,Mid,7.7,Slack,2025-01-23,23,1,2025,Winter
+93,50,3.2,Male,M,34,Guinea-Bissau,Non-binary,M,47,Chile,Software Engineer,88283,Senior,2.3,Slack,2024-12-04,4,12,2024,Winter
+68,86,2.3,Non-binary,M,53,Ukraine,Female,F,59,Bahrain,Software Engineer,124183,Lead,8.4,Teams,2024-12-13,13,12,2024,Winter
+42,51,3.6,Non-binary,F,41,Barbados,Non-binary,M,25,Lesotho,HR Manager,140421,Mid,3.2,Teams,2024-08-08,8,8,2024,Summer
+93,27,2.2,Female,F,39,Chad,Male,M,60,Belize,Sales Executive,126257,Senior,7.5,Slack,2025-02-23,23,2,2025,Winter
+65,43,2.9,Female,M,64,Venezuela,Non-binary,F,51,Albania,Data Analyst,104610,Lead,4.5,Google Forms,2024-09-28,28,9,2024,Autumn
+55,86,2.9,Non-binary,M,60,Greenland,Female,M,36,Indonesia,Data Analyst,113694,Lead,6.4,Slack,2024-12-30,30,12,2024,Winter
+68,49,3.9,Male,M,42,British Indian Ocean Territory (Chagos Archipelago),Male,M,36,Greece,HR Manager,67602,Lead,9.3,Teams,2025-02-02,2,2,2025,Winter
+65,73,4.3,Male,M,37,Samoa,Female,F,65,Egypt,Software Engineer,97405,Senior,2.7,Slack,2025-04-28,28,4,2025,Spring
+66,24,1.3,Non-binary,F,25,Czech Republic,Female,M,33,Seychelles,HR Manager,129399,Lead,1.4,Email,2024-07-16,16,7,2024,Summer
+79,48,1.5,Female,M,29,Antigua and Barbuda,Female,F,56,Bosnia and Herzegovina,Sales Executive,143284,Lead,4.8,SurveyMonkey,2024-10-04,4,10,2024,Autumn
+94,82,1.8,Female,F,60,Vietnam,Non-binary,M,42,Armenia,Software Engineer,146428,Senior,4.1,Slack,2024-12-21,21,12,2024,Winter
+40,51,3.5,Female,F,61,United States Virgin Islands,Non-binary,M,19,Moldova,Data Analyst,91795,Senior,2.0,Slack,2024-07-25,25,7,2024,Summer
+69,69,1.5,Non-binary,F,55,Cook Islands,Female,F,57,Seychelles,Sales Executive,115193,Junior,7.0,Teams,2025-03-06,6,3,2025,Spring
+27,36,4.4,Non-binary,F,26,Ireland,Non-binary,M,21,Cambodia,Data Analyst,108968,Mid,4.6,Email,2024-06-16,16,6,2024,Summer
+88,39,1.2,Male,F,32,Singapore,Female,M,43,Tunisia,HR Manager,78169,Junior,2.4,SurveyMonkey,2024-06-19,19,6,2024,Summer
+43,53,1.9,Non-binary,M,46,Bahrain,Male,M,34,Turks and Caicos Islands,Data Analyst,91099,Lead,3.4,Slack,2025-02-17,17,2,2025,Winter
+49,91,3.2,Female,M,58,Guadeloupe,Female,M,35,Sierra Leone,Data Analyst,67016,Mid,9.3,SurveyMonkey,2024-09-21,21,9,2024,Autumn
+24,25,2.5,Non-binary,M,50,Romania,Non-binary,M,44,Timor-Leste,Software Engineer,85208,Mid,2.1,Email,2024-11-16,16,11,2024,Autumn
+32,61,1.9,Male,M,63,Liechtenstein,Non-binary,F,28,Australia,Software Engineer,38428,Mid,7.6,SurveyMonkey,2024-10-30,30,10,2024,Autumn
+21,78,4.2,Non-binary,M,26,Tuvalu,Female,F,52,Somalia,Data Analyst,121698,Junior,1.4,Slack,2024-07-25,25,7,2024,Summer
+45,16,1.6,Male,M,25,Macedonia,Non-binary,F,36,Timor-Leste,Software Engineer,101639,Lead,3.9,Google Forms,2024-10-31,31,10,2024,Autumn
+52,96,2.2,Non-binary,M,29,Sierra Leone,Male,F,20,Israel,Data Analyst,40579,Mid,1.1,Slack,2025-04-20,20,4,2025,Spring
+28,94,3.7,Non-binary,F,39,Congo,Female,F,18,Antigua and Barbuda,Software Engineer,88003,Lead,5.5,Slack,2025-03-07,7,3,2025,Spring
+85,44,1.1,Non-binary,M,20,Malta,Female,M,34,Aruba,Data Analyst,69645,Mid,9.9,SurveyMonkey,2024-10-16,16,10,2024,Autumn
+77,51,3.4,Non-binary,M,27,Denmark,Non-binary,M,35,Saint Vincent and the Grenadines,Software Engineer,32544,Mid,2.1,Slack,2025-03-08,8,3,2025,Spring
+61,36,3.1,Male,M,19,British Virgin Islands,Non-binary,M,23,Norfolk Island,Sales Executive,39412,Mid,1.9,SurveyMonkey,2025-01-31,31,1,2025,Winter
+74,39,3.7,Female,M,47,Saudi Arabia,Female,F,61,Finland,Sales Executive,127087,Senior,9.2,Email,2025-02-22,22,2,2025,Winter
+84,43,4.5,Female,F,37,Qatar,Male,M,21,Cocos (Keeling) Islands,DevOps Engineer,105222,Junior,6.1,Teams,2025-04-22,22,4,2025,Spring
+86,35,3.1,Female,M,62,Equatorial Guinea,Female,M,26,Gambia,HR Manager,84552,Senior,5.9,Google Forms,2025-01-04,4,1,2025,Winter
+73,92,1.9,Female,F,34,Niger,Non-binary,M,26,Czech Republic,HR Manager,95968,Junior,1.3,Email,2025-01-13,13,1,2025,Winter
+54,32,1.4,Non-binary,F,41,Bouvet Island (Bouvetoya),Female,F,30,Peru,DevOps Engineer,111082,Senior,3.4,Slack,2024-09-24,24,9,2024,Autumn
+66,16,1.3,Female,M,33,Saint Barthelemy,Non-binary,M,27,Liechtenstein,HR Manager,102765,Senior,8.4,Google Forms,2024-08-02,2,8,2024,Summer
+70,71,4.5,Female,M,23,Switzerland,Female,F,64,Trinidad and Tobago,HR Manager,62608,Junior,9.1,Slack,2024-11-10,10,11,2024,Autumn
+88,23,3.4,Female,F,48,Montenegro,Male,F,42,Greenland,DevOps Engineer,133089,Junior,9.9,Teams,2025-03-10,10,3,2025,Spring
+44,24,1.5,Female,F,47,South Africa,Male,F,61,Cote d'Ivoire,HR Manager,117625,Mid,8.4,Teams,2025-03-16,16,3,2025,Spring
+67,22,3.2,Male,F,29,Macao,Non-binary,F,43,Togo,HR Manager,57752,Mid,4.1,SurveyMonkey,2025-03-20,20,3,2025,Spring
+30,77,4.1,Non-binary,M,43,Niger,Non-binary,M,27,Christmas Island,Sales Executive,129158,Junior,9.8,Slack,2025-03-07,7,3,2025,Spring
+88,88,4.7,Non-binary,M,39,Germany,Non-binary,F,41,Hungary,DevOps Engineer,108092,Lead,9.1,Slack,2025-04-25,25,4,2025,Spring
+67,77,4.6,Female,M,58,Tokelau,Non-binary,M,21,Czech Republic,DevOps Engineer,125772,Senior,7.2,Email,2024-12-19,19,12,2024,Winter
+31,43,2.9,Female,F,40,Peru,Non-binary,M,31,Namibia,HR Manager,109967,Mid,7.2,Teams,2025-04-07,7,4,2025,Spring
+88,100,4.0,Female,M,39,Rwanda,Male,M,19,South Georgia and the South Sandwich Islands,HR Manager,143361,Junior,3.7,Teams,2024-11-21,21,11,2024,Autumn
+26,73,2.1,Female,F,53,Bahamas,Female,M,26,Mexico,Software Engineer,99175,Junior,7.0,Email,2024-10-08,8,10,2024,Autumn
+96,42,1.0,Female,M,24,Lebanon,Male,F,60,Slovakia (Slovak Republic),Sales Executive,84394,Senior,7.2,Slack,2025-01-22,22,1,2025,Winter
+60,64,2.7,Non-binary,F,44,Tokelau,Male,F,61,Equatorial Guinea,DevOps Engineer,74671,Mid,8.9,Teams,2025-01-08,8,1,2025,Winter
+44,57,2.7,Non-binary,M,56,Martinique,Female,M,34,Isle of Man,Data Analyst,61237,Lead,2.5,SurveyMonkey,2024-10-20,20,10,2024,Autumn
+70,88,3.0,Non-binary,M,23,French Polynesia,Male,F,18,Benin,Data Analyst,133811,Lead,9.6,Google Forms,2025-01-28,28,1,2025,Winter
+71,43,3.8,Male,M,60,Ghana,Female,F,34,Bermuda,DevOps Engineer,115302,Lead,2.0,SurveyMonkey,2025-02-24,24,2,2025,Winter
+62,25,4.4,Non-binary,M,61,Zambia,Female,F,31,Malawi,HR Manager,132959,Mid,7.2,Email,2024-08-27,27,8,2024,Summer
+96,52,2.6,Non-binary,M,64,Niger,Non-binary,M,55,Tonga,HR Manager,112992,Lead,7.4,Email,2024-11-18,18,11,2024,Autumn
+25,59,4.5,Male,M,22,Benin,Male,M,19,Croatia,Software Engineer,56267,Junior,8.0,Google Forms,2025-01-01,1,1,2025,Winter
+50,34,3.2,Male,F,57,Montenegro,Non-binary,F,19,Tanzania,Data Analyst,83751,Senior,6.0,SurveyMonkey,2024-11-24,24,11,2024,Autumn
+35,95,2.8,Male,F,19,Slovenia,Male,F,42,Trinidad and Tobago,Sales Executive,96982,Senior,5.6,Email,2024-10-29,29,10,2024,Autumn
+43,66,1.2,Male,F,22,Georgia,Female,F,39,Faroe Islands,HR Manager,97276,Senior,8.7,Email,2024-09-08,8,9,2024,Autumn
+49,93,1.4,Male,F,25,Saint Kitts and Nevis,Female,F,18,Uganda,DevOps Engineer,125235,Mid,6.9,SurveyMonkey,2025-01-12,12,1,2025,Winter
+97,28,3.1,Non-binary,M,61,Portugal,Female,M,56,Chad,Sales Executive,35700,Lead,4.6,SurveyMonkey,2024-07-29,29,7,2024,Summer
+100,28,1.5,Non-binary,F,38,Seychelles,Non-binary,F,39,Dominica,Sales Executive,130460,Junior,2.7,Google Forms,2024-07-02,2,7,2024,Summer
+93,97,3.2,Male,F,61,Estonia,Female,F,21,Congo,DevOps Engineer,53919,Senior,7.2,Google Forms,2024-11-22,22,11,2024,Autumn
+53,83,2.1,Male,F,51,Namibia,Non-binary,F,42,Gibraltar,HR Manager,35123,Junior,2.3,Email,2025-01-01,1,1,2025,Winter
+30,97,1.1,Non-binary,F,35,South Georgia and the South Sandwich Islands,Female,F,31,Belgium,Data Analyst,67486,Mid,4.4,Google Forms,2024-05-31,31,5,2024,Spring
+34,38,3.9,Female,F,22,Cook Islands,Non-binary,F,30,Belgium,Data Analyst,114127,Junior,3.0,Google Forms,2025-02-15,15,2,2025,Winter

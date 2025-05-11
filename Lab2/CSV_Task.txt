@@ -1,0 +1,24 @@
+SAP SuccessFactors (people onboarding)
+
+Колонка	            Опис
+avg_expected_hours	Середні заплановані години
+avg_completed_hours Середні виконані години
+avg_rating          Середня оцінка онбордингу
+employee_gender		Гендер працівника
+employee_sex		Стать працівника
+employee_age		Вік працівника
+employee_country	Країна працівника
+mentor_gender		Гендер ментора
+mentor_sex		    Стать ментора
+mentor_age		    Вік ментора
+mentor_country		Країна ментора
+position_name		Назва посади
+position_salary		Зарплата
+position_level		Рівень посади
+feedback_score		Оцінка фідбеку
+feedback_platform	Платформу фідбеку
+time_date		    Дата
+time_day		    День
+time_month		    Місяць
+time_year		    Рік
+time_season		    Пора року

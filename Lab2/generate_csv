@@ -1,0 +1,27 @@
+#!/usr/bin/bash
+
+result_file="star_db.csv"
+if [ ! -f "$result_file" ]; then
+    touch "$result_file"
+    chmod +rwx "$result_file"
+fi
+: > "$result_file"
+
+
+# Headers
+headers_count=21
+headers_file="Files_Queue.txt"
+for (( index=1 ; index<headers_count ; index++ ));
+do
+    printf "$(sed "${index}q;d" "$headers_file")," >> "$result_file"
+done
+printf "$(sed "${headers_count}q;d" "$headers_file")\n" >> "$result_file"
+
+
+# Rows
+gpt_files=( $(ls Full_GPT) )
+for file in ${gpt_files[@]};
+do
+    echo "$file"
+    printf "$(< "Full_GPT/$file")\n" >> "$result_file"
+done
