@@ -1,0 +1,1340 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.25.0208.0338                               -->
+<workbook original-version='18.1' source-build='2024.3.4 (20243.25.0208.0338)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <_.fcp.IndividualControlFormatting.true...IndividualControlFormatting />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelRelationshipPerfOptions />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='facts+ (analitic_db)' inline='true' name='federated.157wk9o0392euq1dshvew1kqxqb9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='localhost' name='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha'>
+            <connection class='mysql' dbname='analitic_db' odbc-native-protocol='' one-time-sql='' port='3306' server='localhost' source-charset='' username='root' />
+          </named-connection>
+        </named-connections>
+        <relation type='collection'>
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='facts' table='[facts]' type='table' />
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='employee_dim' table='[employee_dim]' type='table' />
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='feedback_dim' table='[feedback_dim]' type='table' />
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='mentor_dim' table='[mentor_dim]' type='table' />
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='position_dim' table='[position_dim]' type='table' />
+          <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='time_dim' table='[time_dim]' type='table' />
+        </relation>
+        <cols>
+          <map key='[age (mentor_dim)]' value='[mentor_dim].[age]' />
+          <map key='[age]' value='[employee_dim].[age]' />
+          <map key='[avg_completed_hours]' value='[facts].[avg_completed_hours]' />
+          <map key='[avg_expected_hours]' value='[facts].[avg_expected_hours]' />
+          <map key='[avg_rating]' value='[facts].[avg_rating]' />
+          <map key='[country (mentor_dim)]' value='[mentor_dim].[country]' />
+          <map key='[country]' value='[employee_dim].[country]' />
+          <map key='[date]' value='[time_dim].[date]' />
+          <map key='[day]' value='[time_dim].[day]' />
+          <map key='[employee_id]' value='[facts].[employee_id]' />
+          <map key='[feedback_id]' value='[facts].[feedback_id]' />
+          <map key='[id (employee_dim)]' value='[employee_dim].[id]' />
+          <map key='[id (feedback_dim)]' value='[feedback_dim].[id]' />
+          <map key='[id (mentor_dim)]' value='[mentor_dim].[id]' />
+          <map key='[id (position_dim)]' value='[position_dim].[id]' />
+          <map key='[id (time_dim)]' value='[time_dim].[id]' />
+          <map key='[id]' value='[facts].[id]' />
+          <map key='[level]' value='[position_dim].[level]' />
+          <map key='[mentor_id]' value='[facts].[mentor_id]' />
+          <map key='[month]' value='[time_dim].[month]' />
+          <map key='[name]' value='[position_dim].[name]' />
+          <map key='[platform]' value='[feedback_dim].[platform]' />
+          <map key='[position_id]' value='[facts].[position_id]' />
+          <map key='[salary]' value='[position_dim].[salary]' />
+          <map key='[score]' value='[feedback_dim].[score]' />
+          <map key='[season]' value='[time_dim].[season]' />
+          <map key='[sex (mentor_dim)]' value='[mentor_dim].[sex]' />
+          <map key='[sex]' value='[employee_dim].[sex]' />
+          <map key='[time_id]' value='[facts].[time_id]' />
+          <map key='[year]' value='[time_dim].[year]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>position_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[position_id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>position_id</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>employee_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[employee_id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>employee_id</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>mentor_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[mentor_id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>mentor_id</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>feedback_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[feedback_id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>feedback_id</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>time_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[time_id]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>time_id</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_expected_hours</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[avg_expected_hours]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>avg_expected_hours</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_completed_hours</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[avg_completed_hours]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>avg_completed_hours</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_rating</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[avg_rating]</local-name>
+            <parent-name>[facts]</parent-name>
+            <remote-alias>avg_rating</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+            <object-id>[facts_88B46AF34F144D4DB54296BEC2976A75]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id (employee_dim)]</local-name>
+            <parent-name>[employee_dim]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[employee_dim_81D3DDA8913A426CA3DFDC340FF04F78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sex</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[sex]</local-name>
+            <parent-name>[employee_dim]</parent-name>
+            <remote-alias>sex</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[employee_dim_81D3DDA8913A426CA3DFDC340FF04F78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[age]</local-name>
+            <parent-name>[employee_dim]</parent-name>
+            <remote-alias>age</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[employee_dim_81D3DDA8913A426CA3DFDC340FF04F78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[employee_dim]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[employee_dim_81D3DDA8913A426CA3DFDC340FF04F78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id (feedback_dim)]</local-name>
+            <parent-name>[feedback_dim]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[feedback_dim_5006A5CC608141EFABF59C524C2B9E9B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[score]</local-name>
+            <parent-name>[feedback_dim]</parent-name>
+            <remote-alias>score</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+            <object-id>[feedback_dim_5006A5CC608141EFABF59C524C2B9E9B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>platform</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[platform]</local-name>
+            <parent-name>[feedback_dim]</parent-name>
+            <remote-alias>platform</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[feedback_dim_5006A5CC608141EFABF59C524C2B9E9B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id (mentor_dim)]</local-name>
+            <parent-name>[mentor_dim]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[mentor_dim_34F7CA89246241DEA2511189DBC0FD14]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sex</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[sex (mentor_dim)]</local-name>
+            <parent-name>[mentor_dim]</parent-name>
+            <remote-alias>sex</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[mentor_dim_34F7CA89246241DEA2511189DBC0FD14]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[age (mentor_dim)]</local-name>
+            <parent-name>[mentor_dim]</parent-name>
+            <remote-alias>age</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[mentor_dim_34F7CA89246241DEA2511189DBC0FD14]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[country (mentor_dim)]</local-name>
+            <parent-name>[mentor_dim]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[mentor_dim_34F7CA89246241DEA2511189DBC0FD14]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id (position_dim)]</local-name>
+            <parent-name>[position_dim]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[position_dim_7BD992849DD84B95B4C2069D3181131F]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[name]</local-name>
+            <parent-name>[position_dim]</parent-name>
+            <remote-alias>name</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[position_dim_7BD992849DD84B95B4C2069D3181131F]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>salary</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[salary]</local-name>
+            <parent-name>[position_dim]</parent-name>
+            <remote-alias>salary</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[position_dim_7BD992849DD84B95B4C2069D3181131F]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>level</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[level]</local-name>
+            <parent-name>[position_dim]</parent-name>
+            <remote-alias>level</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[position_dim_7BD992849DD84B95B4C2069D3181131F]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id (time_dim)]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_TYPE_DATE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_TYPE_DATE&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>day</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[day]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>day</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>month</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[month]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>month</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>season</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[season]</local-name>
+            <parent-name>[time_dim]</parent-name>
+            <remote-alias>season</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>262140</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <object-id>[time_dim_50DE148456D9404580F2059A1750AD86]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='employee_dim' datatype='table' name='[__tableau_internal_object_id__].[employee_dim_81D3DDA8913A426CA3DFDC340FF04F78]' role='measure' type='quantitative' />
+      <column caption='facts' datatype='table' name='[__tableau_internal_object_id__].[facts_88B46AF34F144D4DB54296BEC2976A75]' role='measure' type='quantitative' />
+      <column caption='feedback_dim' datatype='table' name='[__tableau_internal_object_id__].[feedback_dim_5006A5CC608141EFABF59C524C2B9E9B]' role='measure' type='quantitative' />
+      <column caption='mentor_dim' datatype='table' name='[__tableau_internal_object_id__].[mentor_dim_34F7CA89246241DEA2511189DBC0FD14]' role='measure' type='quantitative' />
+      <column caption='position_dim' datatype='table' name='[__tableau_internal_object_id__].[position_dim_7BD992849DD84B95B4C2069D3181131F]' role='measure' type='quantitative' />
+      <column caption='time_dim' datatype='table' name='[__tableau_internal_object_id__].[time_dim_50DE148456D9404580F2059A1750AD86]' role='measure' type='quantitative' />
+      <column caption='Mentor Age (Mentor Dim)' datatype='integer' name='[age (mentor_dim)]' role='measure' type='quantitative' />
+      <column caption='Employee Age' datatype='integer' name='[age]' role='measure' type='quantitative' />
+      <column caption='Avg Completed Hours' datatype='integer' name='[avg_completed_hours]' role='measure' type='quantitative' />
+      <column caption='Avg Expected Hours' datatype='integer' name='[avg_expected_hours]' role='measure' type='quantitative' />
+      <column caption='Avg Rating' datatype='real' name='[avg_rating]' role='measure' type='quantitative' />
+      <column caption='Mentor Country (Mentor Dim)' datatype='string' name='[country (mentor_dim)]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Employee Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column caption='Day' datatype='integer' name='[day]' role='dimension' type='quantitative' />
+      <column aggregation='Sum' caption='Employee Id' datatype='integer' name='[employee_id]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Feedback Id' datatype='integer' name='[feedback_id]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Id (Employee Dim)' datatype='integer' name='[id (employee_dim)]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Id (Feedback Dim)' datatype='integer' name='[id (feedback_dim)]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Id (Mentor Dim)' datatype='integer' name='[id (mentor_dim)]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Id (Position Dim)' datatype='integer' name='[id (position_dim)]' role='dimension' type='ordinal' />
+      <column aggregation='Sum' caption='Id (Time Dim)' datatype='integer' name='[id (time_dim)]' role='dimension' type='ordinal' />
+      <column caption='Id' datatype='integer' name='[id]' role='dimension' type='ordinal' />
+      <column caption='Position Level' datatype='string' name='[level]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Mentor Id' datatype='integer' name='[mentor_id]' role='dimension' type='ordinal' />
+      <column caption='Month' datatype='integer' name='[month]' role='dimension' type='quantitative' />
+      <column caption='Position Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+      <column caption='Feedback Platform' datatype='string' name='[platform]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Position Id' datatype='integer' name='[position_id]' role='dimension' type='ordinal' />
+      <column caption='Position Salary' datatype='integer' name='[salary]' role='measure' type='quantitative' />
+      <column caption='Feedback Score' datatype='real' name='[score]' role='measure' type='quantitative' />
+      <column caption='Season' datatype='string' name='[season]' role='dimension' type='nominal' />
+      <column caption='Mentor Sex (Mentor Dim)' datatype='string' name='[sex (mentor_dim)]' role='dimension' type='nominal' />
+      <column caption='Employee Sex' datatype='string' name='[sex]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Time Id' datatype='integer' name='[time_id]' role='dimension' type='ordinal' />
+      <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+      <column-instance column='[sex]' derivation='None' name='[none:sex:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:sex:nk]' palette='winter_10_0' type='palette'>
+            <map to='#90728f'>
+              <bucket>&quot;F&quot;</bucket>
+            </map>
+            <map to='#b9a0b4'>
+              <bucket>&quot;M&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Ukraine&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='employee_dim' id='employee_dim_81D3DDA8913A426CA3DFDC340FF04F78'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='employee_dim' table='[employee_dim]' type='table' />
+            </properties>
+          </object>
+          <object caption='facts' id='facts_88B46AF34F144D4DB54296BEC2976A75'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='facts' table='[facts]' type='table' />
+            </properties>
+          </object>
+          <object caption='feedback_dim' id='feedback_dim_5006A5CC608141EFABF59C524C2B9E9B'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='feedback_dim' table='[feedback_dim]' type='table' />
+            </properties>
+          </object>
+          <object caption='mentor_dim' id='mentor_dim_34F7CA89246241DEA2511189DBC0FD14'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='mentor_dim' table='[mentor_dim]' type='table' />
+            </properties>
+          </object>
+          <object caption='position_dim' id='position_dim_7BD992849DD84B95B4C2069D3181131F'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='position_dim' table='[position_dim]' type='table' />
+            </properties>
+          </object>
+          <object caption='time_dim' id='time_dim_50DE148456D9404580F2059A1750AD86'>
+            <properties context=''>
+              <relation connection='mysql.1qq8tvt1sbr5wn1b03ppn0kkoqha' name='time_dim' table='[time_dim]' type='table' />
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[employee_id]' />
+              <expression op='[id (employee_dim)]' />
+            </expression>
+            <first-end-point object-id='facts_88B46AF34F144D4DB54296BEC2976A75' />
+            <second-end-point is-db-set-unique-key='true' object-id='employee_dim_81D3DDA8913A426CA3DFDC340FF04F78' unique-key='true' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[feedback_id]' />
+              <expression op='[id (feedback_dim)]' />
+            </expression>
+            <first-end-point object-id='facts_88B46AF34F144D4DB54296BEC2976A75' />
+            <second-end-point is-db-set-unique-key='true' object-id='feedback_dim_5006A5CC608141EFABF59C524C2B9E9B' unique-key='true' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[mentor_id]' />
+              <expression op='[id (mentor_dim)]' />
+            </expression>
+            <first-end-point object-id='facts_88B46AF34F144D4DB54296BEC2976A75' />
+            <second-end-point is-db-set-unique-key='true' object-id='mentor_dim_34F7CA89246241DEA2511189DBC0FD14' unique-key='true' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[position_id]' />
+              <expression op='[id (position_dim)]' />
+            </expression>
+            <first-end-point object-id='facts_88B46AF34F144D4DB54296BEC2976A75' />
+            <second-end-point is-db-set-unique-key='true' object-id='position_dim_7BD992849DD84B95B4C2069D3181131F' unique-key='true' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[time_id]' />
+              <expression op='[id (time_dim)]' />
+            </expression>
+            <first-end-point object-id='facts_88B46AF34F144D4DB54296BEC2976A75' />
+            <second-end-point is-db-set-unique-key='true' object-id='time_dim_50DE148456D9404580F2059A1750AD86' unique-key='true' />
+          </relationship>
+        </relationships>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='BAR_RATING'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>&lt;Sheet Name&gt; - &lt;Page Name&gt;, &lt;</run>
+            <run>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]</run>
+            <run>&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='facts+ (analitic_db)' name='federated.157wk9o0392euq1dshvew1kqxqb9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.157wk9o0392euq1dshvew1kqxqb9'>
+            <column caption='Employee Age' datatype='integer' name='[age]' role='measure' type='quantitative' />
+            <column-instance column='[avg_rating]' derivation='Avg' name='[avg:avg_rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Avg Rating' datatype='real' name='[avg_rating]' role='measure' type='quantitative' />
+            <column caption='Employee Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Position Level' datatype='string' name='[level]' role='dimension' type='nominal' />
+            <column caption='Month' datatype='integer' name='[month]' role='dimension' type='quantitative' />
+            <column caption='Position Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+            <column-instance column='[age]' derivation='None' name='[none:age:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[level]' derivation='None' name='[none:level:nk]' pivot='key' type='nominal' />
+            <column-instance column='[month]' derivation='None' name='[none:month:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[month]' derivation='None' name='[none:month:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[name]' derivation='None' name='[none:name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[score]' derivation='None' name='[none:score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[year]' derivation='None' name='[none:year:ok]' pivot='key' type='ordinal' />
+            <column caption='Feedback Score' datatype='real' name='[score]' role='measure' type='quantitative' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:age:qk]' included-values='in-range-or-null'>
+            <min>18</min>
+            <max>65</max>
+          </filter>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]'>
+            <groupfilter function='level-members' level='[none:country:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:level:nk]'>
+            <groupfilter function='level-members' level='[none:level:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]'>
+            <groupfilter function='level-members' level='[none:name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='quantitative' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:score:qk]' included-values='in-range'>
+            <min>1.0</min>
+            <max>10.0</max>
+          </filter>
+          <slices>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:level:nk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:age:qk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:score:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' palette='red_black_white_diverging_10_0' type='interpolated' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_rating:qk]</rows>
+        <cols>([federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok] / [federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:ok])</cols>
+        <pages>
+          <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{06C4E2DC-81AD-44C7-9C03-F7A43E7AEE45}' />
+    </worksheet>
+    <worksheet name='COMPARE_RATING'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='facts+ (analitic_db)' name='federated.157wk9o0392euq1dshvew1kqxqb9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.157wk9o0392euq1dshvew1kqxqb9'>
+            <column-instance column='[avg_completed_hours]' derivation='Avg' name='[avg:avg_completed_hours:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[avg_expected_hours]' derivation='Avg' name='[avg:avg_expected_hours:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[avg_rating]' derivation='Avg' name='[avg:avg_rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Avg Completed Hours' datatype='integer' name='[avg_completed_hours]' role='measure' type='quantitative' />
+            <column caption='Avg Expected Hours' datatype='integer' name='[avg_expected_hours]' role='measure' type='quantitative' />
+            <column caption='Avg Rating' datatype='real' name='[avg_rating]' role='measure' type='quantitative' />
+            <column caption='Employee Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Position Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[name]' derivation='None' name='[none:name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[sex]' derivation='None' name='[none:sex:nk]' pivot='key' type='nominal' />
+            <column-instance column='[year]' derivation='None' name='[none:year:ok]' pivot='key' type='ordinal' />
+            <column caption='Employee Sex' datatype='string' name='[sex]' role='dimension' type='nominal' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]'>
+            <groupfilter function='level-members' level='[none:country:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]'>
+            <groupfilter function='level-members' level='[none:year:ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:sex:nk]' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:sex:nk]' />
+              <text column='[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_rating:qk]' />
+              <tooltip column='[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_expected_hours:qk]' />
+              <tooltip column='[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_completed_hours:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]</rows>
+        <cols>[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_rating:qk]</cols>
+      </table>
+      <simple-id uuid='{F6500743-2E30-4607-9B72-9DD49C434E74}' />
+    </worksheet>
+    <worksheet name='GRAPH_RATING'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='facts+ (analitic_db)' name='federated.157wk9o0392euq1dshvew1kqxqb9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.157wk9o0392euq1dshvew1kqxqb9'>
+            <column-instance column='[avg_rating]' derivation='Avg' name='[avg:avg_rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Avg Rating' datatype='real' name='[avg_rating]' role='measure' type='quantitative' />
+            <column caption='Employee Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Month' datatype='integer' name='[month]' role='dimension' type='quantitative' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[month]' derivation='None' name='[none:month:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[year]' derivation='None' name='[none:year:ok]' pivot='key' type='ordinal' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]'>
+            <groupfilter function='level-members' level='[none:country:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]'>
+            <groupfilter function='member' level='[none:year:ok]' member='2024' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</column>
+            <column>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='display' class='0' field='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' scope='cols' value='true' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' palette='orange_blue_diverging_10_0' type='interpolated' />
+          </style-rule>
+          <_.fcp.IndividualControlFormatting.true...style-rule element='legend-title'>
+            <_.fcp.IndividualControlFormatting.true...format attr='text-align' field='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' id='legend-color' value='left' />
+          </_.fcp.IndividualControlFormatting.true...style-rule>
+        </style>
+        <panes>
+          <pane id='5' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.157wk9o0392euq1dshvew1kqxqb9].[avg:avg_rating:qk]</rows>
+        <cols>([federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok] * [federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk])</cols>
+      </table>
+      <simple-id uuid='{95361326-6267-4A0F-9AD9-F06E0B4C5F4D}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='BAR_RATING'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card playctrls='0' slider='0' trailctrls='0' type='currpage' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' type='color' />
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]' show-apply='true' show-exclude='false' show-filter-state='false' type='filter' />
+            <card param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:age:qk]' show-domain='false' show-filter-state='false' show-null-ctrls='false' type='filter' />
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]' show-apply='true' show-exclude='false' show-filter-state='false' type='filter' />
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:level:nk]' show-apply='true' show-exclude='false' show-filter-state='false' type='filter' />
+            <card param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:score:qk]' show-domain='false' show-filter-state='false' show-null-ctrls='false' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>&quot;Austria&quot;</bucket>
+          </multibucket>
+        </current-page>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:age:qk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:level:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:score:qk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:sex:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{04C72505-5204-4209-9391-0A1105F0A879}' />
+    </window>
+    <window class='worksheet' name='GRAPH_RATING'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='5' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]' type='color' />
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]' show-exclude='false' show-filter-state='false' type='filter' />
+            <card mode='dropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]' show-all='false' show-exclude='false' show-filter-state='false' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:month:qk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{63FB9973-869B-4770-BF72-6A4150B8CDBD}' />
+    </window>
+    <window class='worksheet' name='COMPARE_RATING'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]' type='filter' />
+            <card mode='checkdropdown' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:ok]' type='filter' />
+            <card pane-specification-id='0' param='[federated.157wk9o0392euq1dshvew1kqxqb9].[none:sex:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:country:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:name:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:sex:nk]</field>
+            <field>[federated.157wk9o0392euq1dshvew1kqxqb9].[none:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{6BEBFF7C-DC45-4D3F-AA72-61F5F3C23402}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='BAR_RATING' width='192'>
+      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
+      YII=
+    </thumbnail>
+    <thumbnail height='179' name='COMPARE_RATING' width='192'>
+      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
+      QFA0EQBB0f4fU6iU+aP0mu0AAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='GRAPH_RATING' width='192'>
+      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
+      vCoAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
