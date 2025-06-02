@@ -1,0 +1,42 @@
+[
+    {
+        "id": "turbine1",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine1;SharedAccessKey=TO72vgAZuO7poMIlS5ju22GCCOJGCJemaeb/YGhXYDI="
+    },
+    {
+        "id": "turbine2",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine2;SharedAccessKey=Bw4JRqPApCDNTZ+/Gc2EL1ZdA6tc4156MzxXBcHDygI="
+    },
+    {
+        "id": "turbine3",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine3;SharedAccessKey=g5Nzd6r/F4AyAKWhP+z4NyMsIO3y7aDNqtjUCHOjZ3E="
+    },
+    {
+        "id": "turbine4",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine4;SharedAccessKey=J8zNxbvcRSq9NnSxuVPID6yRg6ZPbWjZcaG3e/GdosQ="
+    },
+    {
+        "id": "turbine5",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine5;SharedAccessKey=l51TaArMjAWPv9NHQ/97ZjgFzShATfA6TSLtWPANVXk="
+    },
+    {
+        "id": "turbine6",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine6;SharedAccessKey=zS2r72SoNOS0ND9cfQzSas0ZgeP+qMHQSqidIySTk2I="
+    },
+    {
+        "id": "turbine7",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine7;SharedAccessKey=DPEjAAVUsXQlDkeMZk81jawWsqJBchV0VeJ/LR/D94k="
+    },
+    {
+        "id": "turbine8",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine8;SharedAccessKey=NJBYJEMLqqyvfpWGg+UVt9wtnShbTbIYjt9PcIGscRI="
+    },
+    {
+        "id": "turbine9",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine9;SharedAccessKey=UqvY555z4CSglOmUQOLzIJyxKbXhmz30FWZdD1Ea0SM="
+    },
+    {
+        "id": "turbine10",
+        "conn": "HostName=oleg-iot-hub.azure-devices.net;DeviceId=turbine10;SharedAccessKey=4n0wIt7p7vbgTcgy/zKpbNrP8ONTCBmdEcam8XRLCHU="
+    }
+]
